@@ -22142,6 +22142,17 @@
     "mintAddress": "9UNqoPEXXxEnEphmyYsZYdL5dnmAUtdiKRUchpnUF5Ph"
   },
   {
+    "id": "solana-mainnet:sol-spl:9uTekAxmx4rqBcR3iGkKmaBwVWMmi7TXEU41frBdBAGS",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "GABLE",
+    "decimals": 9,
+    "name": "Gable Guardians",
+    "coingeckoId": "gable",
+    "mintAddress": "9uTekAxmx4rqBcR3iGkKmaBwVWMmi7TXEU41frBdBAGS"
+  },
+  {
     "id": "solana-mainnet:sol-spl:9UYAYvVS2cZ3BndbsoG1ScJbjfwyEPGxjE79hh5ipump",
     "platform": "solana",
     "networkId": "solana-mainnet",

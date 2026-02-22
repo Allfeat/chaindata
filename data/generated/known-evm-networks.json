@@ -28715,6 +28715,10 @@
           "coingeckoId": "forever"
         },
         {
+          "contractAddress": "0x3e9fc4f2acf5d6f7815cb9f38b2c69576088ffff",
+          "coingeckoId": "forgai"
+        },
+        {
           "contractAddress": "0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757",
           "coingeckoId": "forky-2"
         },

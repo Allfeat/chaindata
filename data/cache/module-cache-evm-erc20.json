@@ -91987,6 +91987,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x3e9fc4f2acf5d6f7815cb9f38b2c69576088ffff",
+    "isValid": true,
+    "symbol": "ForgAI",
+    "decimals": 18,
+    "name": "ForgAI"
+  },
+  {
     "id": "56:evm-erc20:0x3eac99bb7b61a694f562e09fdc95ac61e91afe8f",
     "isValid": true,
     "symbol": "BOT",

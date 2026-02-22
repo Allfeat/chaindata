@@ -17995,6 +17995,13 @@
     "name": "WHISKEY"
   },
   {
+    "id": "solana-mainnet:sol-spl:9uTekAxmx4rqBcR3iGkKmaBwVWMmi7TXEU41frBdBAGS",
+    "isValid": true,
+    "symbol": "GABLE",
+    "decimals": 9,
+    "name": "Gable Guardians"
+  },
+  {
     "id": "solana-mainnet:sol-spl:9uu3yAY9uAa76pxjAuFe8BPKEQ56CZGJnaxstgW1pump",
     "isValid": false
   },
@@ -19489,6 +19496,10 @@
     "symbol": "TKNZ",
     "decimals": 6,
     "name": "TKNZ.fun"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:AG5iXv6pFuQtszqcVzZatTiH3EM5LvUhm6WnP42Gpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:Ag5mMdBSxm8J893RazD9PGkxWKJ5o3UKdWW4ZmJAey9w",
