@@ -868,17 +868,6 @@
     "mintAddress": "2BUZ19fT8TYvPzhuvtCCp9ceu9eNRCmY11S4vSATpump"
   },
   {
-    "id": "solana-mainnet:sol-spl:2bXUkGGMnuirSXNLdJRHzavZP32mHyNxDajHJuqCM3Xe",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "GREENSOLO",
-    "decimals": 6,
-    "name": "GREENSOLO",
-    "coingeckoId": "greensolo",
-    "mintAddress": "2bXUkGGMnuirSXNLdJRHzavZP32mHyNxDajHJuqCM3Xe"
-  },
-  {
     "id": "solana-mainnet:sol-spl:2c8TQe4TUf2doRXd3yQ1XEn7zhT1vWw1y41SXz6G4j7S",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -18666,17 +18655,6 @@
     "mintAddress": "8PMJczfs9W8TDKiNBD85AuqxE8tWACCDeUwxpUeadL3j"
   },
   {
-    "id": "solana-mainnet:sol-spl:8PPvJgidj7XRy97U4jZm56rnecmk9ZMo2uh5XNQypump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "NYC",
-    "decimals": 6,
-    "name": "New York",
-    "coingeckoId": "new-york",
-    "mintAddress": "8PPvJgidj7XRy97U4jZm56rnecmk9ZMo2uh5XNQypump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:8PVFdKx7fX1FmmoASfTu5CUPEWuD1WY73Z24UTgCpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -35639,17 +35617,6 @@
     "mintAddress": "E6Eg7Esj5tfSwkbDGdrzhrotqptv7ghJNarLZ9rbHDSG"
   },
   {
-    "id": "solana-mainnet:sol-spl:E6MkvXNr64MytPvvaPnzpqegiyvBGMt8hsWCXGVhpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "SFT",
-    "decimals": 6,
-    "name": "Swyft",
-    "coingeckoId": "swyft-2",
-    "mintAddress": "E6MkvXNr64MytPvvaPnzpqegiyvBGMt8hsWCXGVhpump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:E6UU5M1z4CvSAAF99d9wRoXsasWMEXsvHrz3JQRXtm2X",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -36772,17 +36739,6 @@
     "mintAddress": "Ejqkht2dyN1BaaEtK92zBKY6S8HbVH8APB5sDK9Rmokt"
   },
   {
-    "id": "solana-mainnet:sol-spl:EJqpy1noqMjvdJBSLy3CbjZLCPnsG9PZbM2FnBHhNqwM",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "TRUMP INU",
-    "decimals": 8,
-    "name": "TRUMP INU (Wormhole)",
-    "coingeckoId": "t-inu",
-    "mintAddress": "EJqpy1noqMjvdJBSLy3CbjZLCPnsG9PZbM2FnBHhNqwM"
-  },
-  {
     "id": "solana-mainnet:sol-spl:EJRs2ephB8kZX1w196DBt7q3uvLAVqs6LEVgXEwhpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -37243,17 +37199,6 @@
     "name": "Meme world order",
     "coingeckoId": "meme-world-order",
     "mintAddress": "EoRe4xECTe9imaYtwfdmrGoinD2S1N5yMeu1LrjQpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:EovfxuA6xc5Fn6Cx7r2WgJS5PgcEWWJqmPkpNFZdpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "DUEL",
-    "decimals": 6,
-    "name": "BetDuel.ai",
-    "coingeckoId": "betduel-ai",
-    "mintAddress": "EovfxuA6xc5Fn6Cx7r2WgJS5PgcEWWJqmPkpNFZdpump"
   },
   {
     "id": "solana-mainnet:sol-spl:Ep5tnKTSkLDeQ12ctS3RhQNcbcApkcyJcGPgHh4dpump",
@@ -52700,17 +52645,6 @@
     "mintAddress": "vita3LfgKErA37DWA7W8RBks3c7Rym2hPFgizNRshBi"
   },
   {
-    "id": "solana-mainnet:sol-spl:ViZiK741dYx1vena4o2X5bvb1hST79JzxhPG7uXXMwT",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "VIZITS",
-    "decimals": 6,
-    "name": "Vizits Coin",
-    "coingeckoId": "vizits-coin",
-    "mintAddress": "ViZiK741dYx1vena4o2X5bvb1hST79JzxhPG7uXXMwT"
-  },
-  {
     "id": "solana-mainnet:sol-spl:VjMa3mzfBgCyKRTQHg8pSuZRKCvKF8zMqVXQMU3pump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -53798,17 +53732,6 @@
     "name": "ZKLSOL",
     "coingeckoId": "zklsol",
     "mintAddress": "ZKFHiLAfAFMTcDAuCtjNW54VzpERvoe7PBF9mYgmeta"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:ZPEPEuSDb7DKQtM7SMaZpLC2ggHjvP8VmsBfhfgfqQt",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "ZILPEPE",
-    "decimals": 4,
-    "name": "ZilPepe",
-    "coingeckoId": "zilpepe",
-    "mintAddress": "ZPEPEuSDb7DKQtM7SMaZpLC2ggHjvP8VmsBfhfgfqQt"
   },
   {
     "id": "solana-mainnet:sol-spl:zpfeF4zXpyXKSd6Hc6r7yRqWKZ289Bd3JVJW4SWKoLV",
