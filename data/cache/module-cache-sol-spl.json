@@ -831,6 +831,10 @@
     "name": "the misc. u aware?"
   },
   {
+    "id": "solana-mainnet:sol-spl:2Ci4XBmr67JFoS5YPrE8hmJPN9QgkcUab7xd8Vpipump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:2cJgFtnqjaoiu9fKVX3fny4Z4pRzuaqfJ3PBTMk2D9ur",
     "isValid": false
   },
@@ -11670,6 +11674,10 @@
     "name": "FLOOS"
   },
   {
+    "id": "solana-mainnet:sol-spl:75mwivXSRWm6sxUip91Zctc9m9H1NE48qDLcTgiXpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:766ivvadp4arnHKQ13RB3cD7PyvRDL42N2j7RCoMpump",
     "isValid": true,
     "symbol": "TAP",
@@ -12788,6 +12796,10 @@
     "name": "Family"
   },
   {
+    "id": "solana-mainnet:sol-spl:7NoFtDpmQvE9JsRv7o6zgYZJBEcixWumJaZsDoyrpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:7NQSHjuEGENZDWfSvPZz7oP2D6c5Jc3LjFC6uh179ufr",
     "isValid": true,
     "symbol": "MOAI",
@@ -12931,6 +12943,10 @@
     "symbol": "GAS",
     "decimals": 9,
     "name": "Gas Town"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7ptr39shwummyaSku3i7nKkJtBT81CA1SYsvSYTyDUnQ",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:7PzU4m13VqkdgWcserfBdxX4cAPQXaZuFNuKarnT1deV",
@@ -29197,6 +29213,13 @@
     "name": "Solphin"
   },
   {
+    "id": "solana-mainnet:sol-spl:EahUihCyvsJVg8wWafXc5ytxaReFXms514wKvmBQcLAw",
+    "isValid": true,
+    "symbol": "CLAW",
+    "decimals": 9,
+    "name": "Claw Mode"
+  },
+  {
     "id": "solana-mainnet:sol-spl:EajMGPYVMzqUjXwnmyagVGDS2CW5xJitb17TpB4uDifD",
     "isValid": true,
     "symbol": "ACOLYT",
@@ -36483,6 +36506,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:GYyyeA8Pzp1Biyzp26fvFXaB3Qm43o8e5CfXseVjpump",
     "isValid": false
   },
   {

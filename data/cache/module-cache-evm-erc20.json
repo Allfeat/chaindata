@@ -94038,6 +94038,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x4f436232f4a21cef94c2b6d1a1dbedf675ac4444",
+    "isValid": true,
+    "symbol": "马上领红包",
+    "decimals": 18,
+    "name": "马上领红包"
+  },
+  {
     "id": "56:evm-erc20:0x4f4e82e3de61f9a0a7014c668e1cda09b557b717",
     "symbol": "RSN",
     "decimals": 18,
@@ -119872,6 +119879,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x0a3a6eef246ed15dbf97f8a237e20a3bc091cba3",
+    "isValid": true,
+    "symbol": "0xDP",
+    "decimals": 18,
+    "name": "0xDirectPing"
+  },
+  {
     "id": "8453:evm-erc20:0x0a455245148fa54129d8266f5d8742dd0d05f0c6",
     "symbol": "ARTS",
     "decimals": 18,
@@ -126694,6 +126708,13 @@
     "name": "SOLVR"
   },
   {
+    "id": "8453:evm-erc20:0x6e1e7f52a9178fa1e9c58810b97d5eb6a8d31198",
+    "isValid": true,
+    "symbol": "UNICLAW",
+    "decimals": 18,
+    "name": "Uniclaw"
+  },
+  {
     "id": "8453:evm-erc20:0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
     "symbol": "RFL",
     "decimals": 18,
@@ -130360,6 +130381,13 @@
     "decimals": 18,
     "name": "Reserve Rights",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xab3f23c2abcb4e12cc8b593c218a7ba64ed17ba3",
+    "isValid": true,
+    "symbol": "CRED",
+    "decimals": 18,
+    "name": "Helixa Cred"
   },
   {
     "id": "8453:evm-erc20:0xab51a37ce3a3339fe5611c1a762eef952dd3d808",

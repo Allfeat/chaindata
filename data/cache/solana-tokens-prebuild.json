@@ -35771,6 +35771,17 @@
     "mintAddress": "EAfDXdgSAAkLXbV5L7vaygHrxfJs4Y4Yu6hbP7raBZVT"
   },
   {
+    "id": "solana-mainnet:sol-spl:EahUihCyvsJVg8wWafXc5ytxaReFXms514wKvmBQcLAw",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "CLAW",
+    "decimals": 9,
+    "name": "Claw Mode",
+    "coingeckoId": "claw-mode",
+    "mintAddress": "EahUihCyvsJVg8wWafXc5ytxaReFXms514wKvmBQcLAw"
+  },
+  {
     "id": "solana-mainnet:sol-spl:EajMGPYVMzqUjXwnmyagVGDS2CW5xJitb17TpB4uDifD",
     "platform": "solana",
     "networkId": "solana-mainnet",

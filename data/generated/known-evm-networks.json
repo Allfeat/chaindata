@@ -26739,6 +26739,10 @@
           "coingeckoId": "cjournal-2"
         },
         {
+          "contractAddress": "0x4f436232f4a21cef94c2b6d1a1dbedf675ac4444",
+          "coingeckoId": "claim-your-red-envelope-now"
+        },
+        {
           "contractAddress": "0x9ce116224459296abc7858627abd5879514bc629",
           "coingeckoId": "clash-of-lilliput"
         },
@@ -66722,6 +66726,10 @@
           "coingeckoId": "01111010011110000110001001110100-token"
         },
         {
+          "contractAddress": "0x0a3a6eef246ed15dbf97f8a237e20a3bc091cba3",
+          "coingeckoId": "0xdirectping"
+        },
+        {
           "contractAddress": "0x06abb84958029468574b28b6e7792a770ccaa2f6",
           "coingeckoId": "0xmonk"
         },
@@ -70930,6 +70938,10 @@
           "coingeckoId": "helix-2"
         },
         {
+          "contractAddress": "0xab3f23c2abcb4e12cc8b593c218a7ba64ed17ba3",
+          "coingeckoId": "helixa-cred"
+        },
+        {
           "contractAddress": "0xcec3661ac188c692fd1f5e5bd0c4ae37771ca3db",
           "coingeckoId": "helloworld"
         },
@@ -74768,6 +74780,10 @@
         {
           "contractAddress": "0xea9be79e81a2a6505bdbe9ef622301ad8d0d5a85",
           "coingeckoId": "unibros"
+        },
+        {
+          "contractAddress": "0x6e1e7f52a9178fa1e9c58810b97d5eb6a8d31198",
+          "coingeckoId": "uniclaw"
         },
         {
           "contractAddress": "0xa0ff877e3d4f3a108b1b3d5eb3e4369301d2b2d7",
