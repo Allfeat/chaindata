@@ -29939,6 +29939,10 @@
           "coingeckoId": "iguverse-igu"
         },
         {
+          "contractAddress": "0x3b926be474c18196879a2396f5c0d069d0e8d580",
+          "coingeckoId": "illu-token"
+        },
+        {
           "contractAddress": "0x98a0a245ef9a96cf28f1ebf1a3b3bc562ed8d783",
           "coingeckoId": "iluminary-token"
         },

@@ -39061,6 +39061,10 @@
     "name": "Poly Meme Index"
   },
   {
+    "id": "solana-mainnet:sol-spl:HYhnRdn7nridbDUUcRsd3JtmvMCyKrVDew52CWGtpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:HyLXondhNhGkvWPXr8z4EPSgZNRRs4j8BHdyqMdVpump",
     "isValid": true,
     "symbol": "MOLT",

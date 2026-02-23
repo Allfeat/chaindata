@@ -91752,6 +91752,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x3b926be474c18196879a2396f5c0d069d0e8d580",
+    "isValid": true,
+    "symbol": "ILLU",
+    "decimals": 18,
+    "name": "ILLU Token"
+  },
+  {
     "id": "56:evm-erc20:0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
     "symbol": "SD",
     "decimals": 18,
