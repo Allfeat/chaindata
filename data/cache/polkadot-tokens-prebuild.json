@@ -9772,7 +9772,7 @@
     "type": "substrate-native",
     "symbol": "PCX",
     "decimals": 8,
-    "name": "ChainX",
+    "name": "PCX",
     "coingeckoId": "chainx",
     "isDefault": true,
     "existentialDeposit": "0"

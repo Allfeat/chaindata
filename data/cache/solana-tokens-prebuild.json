@@ -9822,17 +9822,6 @@
     "mintAddress": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp"
   },
   {
-    "id": "solana-mainnet:sol-spl:5mdBkZ4dTP94SE7PyiuWseTDAd1kYxSk6oYaWB7186s7",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "BRAWL",
-    "decimals": 9,
-    "name": "Brawl Token",
-    "coingeckoId": "bitbrawl",
-    "mintAddress": "5mdBkZ4dTP94SE7PyiuWseTDAd1kYxSk6oYaWB7186s7"
-  },
-  {
     "id": "solana-mainnet:sol-spl:5mfWKJrjVtpZo8EvwbytFWH5X6T8YecxrrYCgskjpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -12482,17 +12471,6 @@
     "name": "Apollo AI",
     "coingeckoId": "apollo-ai",
     "mintAddress": "6k1rwsNMBwbRJrWck3sEVCjn4MvF9ty8A6iSGfxjxREV"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:6kBnPH2gqEVszjdm8k7MFTfktp3wxSkV97bWBPZwRzCT",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "TOK",
-    "decimals": 9,
-    "name": "Tokai",
-    "coingeckoId": "tokai",
-    "mintAddress": "6kBnPH2gqEVszjdm8k7MFTfktp3wxSkV97bWBPZwRzCT"
   },
   {
     "id": "solana-mainnet:sol-spl:6kcRgyKxphwrRHaTWrSAZGaCpaMJKQCFsAtMtWnppump",
@@ -19324,17 +19302,6 @@
     "name": "MOONCOIN",
     "coingeckoId": "mooncoin-4",
     "mintAddress": "8vVHBmASTSFAYEFNQg3qxQQJQ5vBoAVRWYsdgEahpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:8VYMyBmJ4UB2UbENi9L1enih6Bo6t2QePt5Kd5Ygpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "PLAGUECOIN",
-    "decimals": 6,
-    "name": "This Will Spread",
-    "coingeckoId": "this-will-spread",
-    "mintAddress": "8VYMyBmJ4UB2UbENi9L1enih6Bo6t2QePt5Kd5Ygpump"
   },
   {
     "id": "solana-mainnet:sol-spl:8W4qpyLx74vwBRewa3rVEPPVMnJ8VWMkCTWCTSYPQTDu",
@@ -47365,17 +47332,6 @@
     "mintAddress": "HS297WZTnktHXk5DDtaWVQ2AKS4HsJ2CfYTLYVRapWpK"
   },
   {
-    "id": "solana-mainnet:sol-spl:HS6oGCe9wEFiroouHq9AzBA2vcoXTWD7JUSDZryZpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "FOTUS",
-    "decimals": 6,
-    "name": "Fart Of The United States",
-    "coingeckoId": "fart-of-the-united-states",
-    "mintAddress": "HS6oGCe9wEFiroouHq9AzBA2vcoXTWD7JUSDZryZpump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:HS9MCtW3Q2R3GV2fjPTkSL66tGfNQaSMvjuSz4Hx5wCP",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -48465,17 +48421,6 @@
     "mintAddress": "J2LWsSXx4r3pYbJ1fwuX5Nqo7PPxjcGPpUb2zHNadWKa"
   },
   {
-    "id": "solana-mainnet:sol-spl:J2Zgqgim2biihmV6rzadRbdKAuKHxHy61aQCydfWpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "KAPI",
-    "decimals": 6,
-    "name": "Kapi Plara",
-    "coingeckoId": "kapiplara",
-    "mintAddress": "J2Zgqgim2biihmV6rzadRbdKAuKHxHy61aQCydfWpump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:J3FnBoPv9vLTPi2Lj1S4NFRaWoEDQ47Sy3E4ZfrVBAGS",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -48672,17 +48617,6 @@
     "name": "MICROWAVED",
     "coingeckoId": "microwaved",
     "mintAddress": "J7CSUzsM2VfBUaeaer5aGVVLzzUoizBWF1vQX2NLpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:J7HK78Aad2GgWZFvfF1ErhU7jUT5AKPpU41miMaypump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "SamurAI",
-    "decimals": 6,
-    "name": "SamurAI",
-    "coingeckoId": "samur-ai",
-    "mintAddress": "J7HK78Aad2GgWZFvfF1ErhU7jUT5AKPpU41miMaypump"
   },
   {
     "id": "solana-mainnet:sol-spl:J7hX5qVuJuiUiuZ1AkqE7eVS3sjTJ5kgFnuJwR2Rpump",
@@ -49519,17 +49453,6 @@
     "name": "Wenpad Labs",
     "coingeckoId": "wenpad-labs-2",
     "mintAddress": "LABSsPBFwfFTW3x584dB6pSen7RWVpx6URP8wfAVdMt"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:LAikaEyw7w4R4Tidue68Fs4N9ZsTTRSza8XR7bhCrxa",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "Laika",
-    "decimals": 6,
-    "name": "Space Dog Solana",
-    "coingeckoId": "space-dog-solana",
-    "mintAddress": "LAikaEyw7w4R4Tidue68Fs4N9ZsTTRSza8XR7bhCrxa"
   },
   {
     "id": "solana-mainnet:sol-spl:LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
