@@ -13907,10 +13907,6 @@
           "coingeckoId": "pepe-strategy"
         },
         {
-          "contractAddress": "0x0fb1f1ef7eafc3d05b5fe4a0f1cd6a6852a8b6ed",
-          "coingeckoId": "pepeto"
-        },
-        {
           "contractAddress": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
           "coingeckoId": "pepe-token"
         },
