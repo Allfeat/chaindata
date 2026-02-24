@@ -53292,6 +53292,13 @@
     "isValid": true
   },
   {
+    "id": "137:evm-erc20:0x66f364f908c662772f5b7ecd58488f372c584833",
+    "isValid": true,
+    "symbol": "MKF",
+    "decimals": 18,
+    "name": "MAKER FLIP"
+  },
+  {
     "id": "137:evm-erc20:0x6749441fdc8650b5b5a854ed255c82ef361f1596",
     "symbol": "LUCHA",
     "decimals": 18,
@@ -121321,6 +121328,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x1efdb75869da742466c4c17d1e55fc469533ce1f",
+    "isValid": true,
+    "symbol": "MOLTIFI",
+    "decimals": 18,
+    "name": "Moltifi"
+  },
+  {
     "id": "8453:evm-erc20:0x1f015712aa2a48085ec93f87d643bb625b668b07",
     "symbol": "i",
     "decimals": 18,
@@ -131661,11 +131675,25 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0xbd3dc49af8a366705190dbb9aae4e92067f2dba3",
+    "isValid": true,
+    "symbol": "Shovel",
+    "decimals": 18,
+    "name": "Shovel"
+  },
+  {
     "id": "8453:evm-erc20:0xbd4e5c2f8de5065993d29a9794e2b7cefc41437a",
     "symbol": "IPOR",
     "decimals": 18,
     "name": "IPOR Token",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xbd5694abea9a397fc3014678ed529e3da038eba3",
+    "isValid": true,
+    "symbol": "BEACON",
+    "decimals": 18,
+    "name": "CLAW BEACON"
   },
   {
     "id": "8453:evm-erc20:0xbd97693278f1948c59f65f130fd87e7ff7c61d11",
@@ -135674,6 +135702,13 @@
     "decimals": 8,
     "name": "Onchain Summer",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xf7e2a6226ffe0693dd85406ac3a8917cbea5dc40",
+    "isValid": true,
+    "symbol": "OTX",
+    "decimals": 18,
+    "name": "Otonix"
   },
   {
     "id": "8453:evm-erc20:0xf8252c05ec4cb2fdf1e0398bae049d454ddba3ad",

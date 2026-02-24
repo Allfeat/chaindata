@@ -41979,6 +41979,10 @@
           "coingeckoId": "maker"
         },
         {
+          "contractAddress": "0x66f364f908c662772f5b7ecd58488f372c584833",
+          "coingeckoId": "maker-flip"
+        },
+        {
           "contractAddress": "0x1ed02954d60ba14e26c230eec40cbac55fa3aeea",
           "coingeckoId": "makerx"
         },
@@ -68842,6 +68846,10 @@
           "coingeckoId": "claw16z"
         },
         {
+          "contractAddress": "0xbd5694abea9a397fc3014678ed529e3da038eba3",
+          "coingeckoId": "claw-beacon"
+        },
+        {
           "contractAddress": "0x896bf81f9c92c6ef6f9a49679c62e876b405bba3",
           "coingeckoId": "clawberry"
         },
@@ -72162,6 +72170,10 @@
           "coingeckoId": "molthunt"
         },
         {
+          "contractAddress": "0x1efdb75869da742466c4c17d1e55fc469533ce1f",
+          "coingeckoId": "moltifi"
+        },
+        {
           "contractAddress": "0x43657652dbc7ce1c5432650153abde904e884b07",
           "coingeckoId": "moltline"
         },
@@ -72672,6 +72684,10 @@
         {
           "contractAddress": "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e",
           "coingeckoId": "osaka-protocol"
+        },
+        {
+          "contractAddress": "0xf7e2a6226ffe0693dd85406ac3a8917cbea5dc40",
+          "coingeckoId": "otonix"
         },
         {
           "contractAddress": "0x62ff28a01abd2484adb18c61f78f30fb2e4a6fdb",
@@ -73796,6 +73812,10 @@
         {
           "contractAddress": "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f",
           "coingeckoId": "shoot-2"
+        },
+        {
+          "contractAddress": "0xbd3dc49af8a366705190dbb9aae4e92067f2dba3",
+          "coingeckoId": "shovel"
         },
         {
           "contractAddress": "0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4",

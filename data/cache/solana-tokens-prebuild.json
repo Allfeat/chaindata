@@ -956,6 +956,17 @@
     "mintAddress": "2D7jZLpUUAMboqzHMeyaxZfLWpf4JZUoR4i82Zva7sxU"
   },
   {
+    "id": "solana-mainnet:sol-spl:2DfBjrPFZjDTiCY6pxchS6aSdUdEpkm7PdqpovHjBAGS",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "PRIMIS",
+    "decimals": 9,
+    "name": "Primis Protocol",
+    "coingeckoId": "primis-protocol",
+    "mintAddress": "2DfBjrPFZjDTiCY6pxchS6aSdUdEpkm7PdqpovHjBAGS"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2dPkLQi1WLkrbQbBAS9d8GHARF4oWQXFXrUbMq7bstar",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -48496,6 +48507,17 @@
     "name": "Solordi",
     "coingeckoId": "solordi",
     "mintAddress": "J8cKU4pD2NTSovvV5XghWHQiJy5TTEzgSyozorxz6ax8"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:J8UjmiSJASyKLTgwcvB6kTZyF9xDkvBEmU8yyNr12oh9",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "ORANG",
+    "decimals": 4,
+    "name": "Orang",
+    "coingeckoId": "orang",
+    "mintAddress": "J8UjmiSJASyKLTgwcvB6kTZyF9xDkvBEmU8yyNr12oh9"
   },
   {
     "id": "solana-mainnet:sol-spl:J8uZpXLyrmaPawRFdu81byzRSLqnurTvhQ9nd2ZLVQvE",

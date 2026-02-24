@@ -888,6 +888,13 @@
     "name": "GnomeLand"
   },
   {
+    "id": "solana-mainnet:sol-spl:2DfBjrPFZjDTiCY6pxchS6aSdUdEpkm7PdqpovHjBAGS",
+    "isValid": true,
+    "symbol": "PRIMIS",
+    "decimals": 9,
+    "name": "Primis Protocol"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2DfEnQrC6EVnhA3wGXiQ8UoBtEEmStsW6oNT6izn6AeH",
     "isValid": true,
     "symbol": "CHILN",
@@ -11807,6 +11814,10 @@
     "symbol": "USD100",
     "decimals": 6,
     "name": "USD100"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:79dGFnR8XUusyDiK3n8yZ6FXhJjWLFgzdsi2SkUpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:79EhLJ14QzGoN1DzKzMxG4DcZeQ6H13AXVLvYxuLpump",
@@ -28308,6 +28319,10 @@
     "name": "MiniDoge"
   },
   {
+    "id": "solana-mainnet:sol-spl:DSyAs4y6siDcC3qYaz4yhhXZSu6ShMgjYvrn7xD1pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Dt6vESocrRixuFz2taZunygpKcNQwxAjUMgYUxvNpump",
     "isValid": true,
     "symbol": "lolcat",
@@ -31522,6 +31537,10 @@
     "name": "LUNA (Wormhole)"
   },
   {
+    "id": "solana-mainnet:sol-spl:F6Vyxf5c1aMEQDqTHiCzY367wwwtHuMCk7W64ekopump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:F6zgVJ1Kj7DBa8RyCsPPsgpXJ35z6MDG88cwqA1Wpump",
     "isValid": true,
     "symbol": "RizzmasEve",
@@ -33486,6 +33505,10 @@
     "symbol": "GCAT",
     "decimals": 5,
     "name": "Gigacat"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FuJkw2vgov82x8DXbhPfmH6S6ZSJxvtjj1DQ7TsMpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:FuLH3f9TPxiLNojPBZxfaT5Rb5VFfia8hMzLo9e9c6CG",
@@ -39688,6 +39711,13 @@
     "symbol": "$SOLO",
     "decimals": 9,
     "name": "Solordi"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:J8UjmiSJASyKLTgwcvB6kTZyF9xDkvBEmU8yyNr12oh9",
+    "isValid": true,
+    "symbol": "ORANG",
+    "decimals": 4,
+    "name": "Orang"
   },
   {
     "id": "solana-mainnet:sol-spl:J8uZpXLyrmaPawRFdu81byzRSLqnurTvhQ9nd2ZLVQvE",
