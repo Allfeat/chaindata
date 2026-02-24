@@ -53,7 +53,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:42.534Z"
+    "timestamp": "2026-02-24T12:19:54.154Z"
   },
   {
     "networkId": "ajuna",
@@ -85,7 +85,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.928Z"
+    "timestamp": "2026-02-24T12:19:48.822Z"
   },
   {
     "networkId": "phala",
@@ -93,7 +93,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:58.038Z"
+    "timestamp": "2026-02-24T12:19:53.958Z"
   },
   {
     "networkId": "torus",
@@ -141,7 +141,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.625Z"
+    "timestamp": "2026-02-24T12:19:50.635Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -157,7 +157,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.432Z"
+    "timestamp": "2026-02-24T12:19:51.938Z"
   },
   {
     "networkId": "astar",
@@ -181,7 +181,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:43.813Z"
+    "timestamp": "2026-02-24T12:19:55.160Z"
   },
   {
     "networkId": "avail",
@@ -189,7 +189,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.110Z"
+    "timestamp": "2026-02-24T12:19:42.927Z"
   },
   {
     "networkId": "rococo-basilisk-testnet",
@@ -197,7 +197,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.289Z"
+    "timestamp": "2026-02-24T12:19:46.067Z"
   },
   {
     "networkId": "basilisk",
@@ -221,7 +221,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:43.650Z"
+    "timestamp": "2026-02-24T12:19:54.900Z"
   },
   {
     "networkId": "bifrost-kusama",
@@ -229,7 +229,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:43.595Z"
+    "timestamp": "2026-02-24T12:19:55.405Z"
   },
   {
     "networkId": "bittensor",
@@ -262,7 +262,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.456Z"
+    "timestamp": "2026-02-24T12:19:43.832Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -270,7 +270,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.175Z"
+    "timestamp": "2026-02-24T12:19:49.532Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -278,7 +278,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.022Z"
+    "timestamp": "2026-02-24T12:19:46.326Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -286,7 +286,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.141Z"
+    "timestamp": "2026-02-24T12:19:49.653Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -302,7 +302,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.180Z"
+    "timestamp": "2026-02-24T12:19:55.398Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -310,7 +310,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:57.164Z"
+    "timestamp": "2026-02-24T12:19:53.163Z"
   },
   {
     "networkId": "kusama-coretime",
@@ -334,7 +334,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.313Z"
+    "timestamp": "2026-02-24T12:19:44.177Z"
   },
   {
     "networkId": "polkadot-coretime",
@@ -350,7 +350,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.712Z"
+    "timestamp": "2026-02-24T12:19:56.079Z"
   },
   {
     "networkId": "crust-parachain",
@@ -366,7 +366,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.007Z"
+    "timestamp": "2026-02-24T12:19:51.035Z"
   },
   {
     "networkId": "crust-parachain",
@@ -382,7 +382,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.859Z"
+    "timestamp": "2026-02-24T12:19:53.891Z"
   },
   {
     "networkId": "darwinia",
@@ -415,7 +415,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.475Z"
+    "timestamp": "2026-02-24T12:19:42.409Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -423,7 +423,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.286Z"
+    "timestamp": "2026-02-24T12:19:43.555Z"
   },
   {
     "networkId": "edgeware",
@@ -439,7 +439,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.875Z"
+    "timestamp": "2026-02-24T12:19:56.183Z"
   },
   {
     "networkId": "bittensor",
@@ -455,7 +455,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:45.540Z"
+    "timestamp": "2026-02-24T12:19:57.283Z"
   },
   {
     "networkId": "quartz",
@@ -472,7 +472,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.843Z"
+    "timestamp": "2026-02-24T12:19:45.219Z"
   },
   {
     "networkId": "bifrost-polkadot",
@@ -496,7 +496,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.215Z"
+    "timestamp": "2026-02-24T12:19:46.576Z"
   },
   {
     "networkId": "altair",
@@ -634,7 +634,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.038Z"
+    "timestamp": "2026-02-24T12:19:55.608Z"
   },
   {
     "networkId": "krest",
@@ -642,7 +642,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.268Z"
+    "timestamp": "2026-02-24T12:19:41.682Z"
   },
   {
     "networkId": "kusama",
@@ -682,7 +682,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.243Z"
+    "timestamp": "2026-02-24T12:19:44.695Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -730,7 +730,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.402Z"
+    "timestamp": "2026-02-24T12:19:45.126Z"
   },
   {
     "networkId": "kusama",
@@ -738,7 +738,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:43.103Z"
+    "timestamp": "2026-02-24T12:19:54.664Z"
   },
   {
     "networkId": "kusama",
@@ -770,7 +770,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:57.248Z"
+    "timestamp": "2026-02-24T12:19:53.919Z"
   },
   {
     "networkId": "bittensor",
@@ -786,7 +786,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.576Z"
+    "timestamp": "2026-02-24T12:19:42.152Z"
   },
   {
     "networkId": "polymesh",
@@ -794,7 +794,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:45.416Z"
+    "timestamp": "2026-02-24T12:19:56.712Z"
   },
   {
     "networkId": "stafi",
@@ -834,7 +834,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.170Z"
+    "timestamp": "2026-02-24T12:19:42.029Z"
   },
   {
     "networkId": "ternoa",
@@ -850,7 +850,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.335Z"
+    "timestamp": "2026-02-24T12:19:43.927Z"
   },
   {
     "networkId": "allfeat-testnet",
@@ -858,7 +858,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.857Z"
+    "timestamp": "2026-02-24T12:19:44.436Z"
   },
   {
     "networkId": "melodie-testnet",
@@ -866,7 +866,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.835Z"
+    "timestamp": "2026-02-24T12:19:44.234Z"
   },
   {
     "networkId": "sora-standalone",
@@ -882,7 +882,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:45.471Z"
+    "timestamp": "2026-02-24T12:19:57.094Z"
   },
   {
     "networkId": "moonbase-alpha-testnet",
@@ -890,7 +890,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.796Z"
+    "timestamp": "2026-02-24T12:19:48.187Z"
   },
   {
     "networkId": "moonbase-alpha-testnet",
@@ -938,7 +938,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:57.051Z"
+    "timestamp": "2026-02-24T12:19:52.825Z"
   },
   {
     "networkId": "moonbeam",
@@ -963,7 +963,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.792Z"
+    "timestamp": "2026-02-24T12:19:52.776Z"
   },
   {
     "networkId": "moonriver",
@@ -1003,7 +1003,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.954Z"
+    "timestamp": "2026-02-24T12:19:49.222Z"
   },
   {
     "networkId": "curio",
@@ -1036,7 +1036,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:42.742Z"
+    "timestamp": "2026-02-24T12:19:54.423Z"
   },
   {
     "networkId": "paseo-testnet",
@@ -1044,7 +1044,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.046Z"
+    "timestamp": "2026-02-24T12:19:43.264Z"
   },
   {
     "networkId": "passet-hub",
@@ -1077,7 +1077,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.580Z"
+    "timestamp": "2026-02-24T12:19:43.835Z"
   },
   {
     "networkId": "kusama-people",
@@ -1101,7 +1101,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.074Z"
+    "timestamp": "2026-02-24T12:19:45.441Z"
   },
   {
     "networkId": "polkadot-people",
@@ -1109,7 +1109,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.421Z"
+    "timestamp": "2026-02-24T12:19:43.544Z"
   },
   {
     "networkId": "phala",
@@ -1117,7 +1117,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.993Z"
+    "timestamp": "2026-02-24T12:19:49.212Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1125,7 +1125,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.580Z"
+    "timestamp": "2026-02-24T12:19:52.529Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -1165,7 +1165,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:51.319Z"
+    "timestamp": "2026-02-24T12:19:43.616Z"
   },
   {
     "networkId": "polkadot",
@@ -1198,7 +1198,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:45.022Z"
+    "timestamp": "2026-02-24T12:19:56.472Z"
   },
   {
     "networkId": "polkadot",
@@ -1206,7 +1206,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:42.720Z"
+    "timestamp": "2026-02-24T12:19:54.408Z"
   },
   {
     "networkId": "polkadot",
@@ -1214,7 +1214,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.951Z"
+    "timestamp": "2026-02-24T12:19:56.324Z"
   },
   {
     "networkId": "robonomics-polkadot",
@@ -1222,7 +1222,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.883Z"
+    "timestamp": "2026-02-24T12:19:45.613Z"
   },
   {
     "networkId": "polkadot",
@@ -1254,7 +1254,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.683Z"
+    "timestamp": "2026-02-24T12:19:51.145Z"
   },
   {
     "networkId": "rococo-ewx-testnet",
@@ -1262,7 +1262,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.334Z"
+    "timestamp": "2026-02-24T12:19:51.942Z"
   },
   {
     "networkId": "polkadot",
@@ -1270,7 +1270,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.609Z"
+    "timestamp": "2026-02-24T12:19:45.445Z"
   },
   {
     "networkId": "kusama",
@@ -1278,7 +1278,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.296Z"
+    "timestamp": "2026-02-24T12:19:56.585Z"
   },
   {
     "networkId": "autonomys-chronos-testnet",
@@ -1294,7 +1294,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.404Z"
+    "timestamp": "2026-02-24T12:19:56.059Z"
   },
   {
     "networkId": "amplitude",
@@ -1319,7 +1319,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.805Z"
+    "timestamp": "2026-02-24T12:19:46.051Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -1375,7 +1375,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.352Z"
+    "timestamp": "2026-02-24T12:19:42.950Z"
   },
   {
     "networkId": "kusama",
@@ -1399,7 +1399,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.692Z"
+    "timestamp": "2026-02-24T12:19:46.136Z"
   },
   {
     "networkId": "kusama-people",
@@ -1415,7 +1415,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.341Z"
+    "timestamp": "2026-02-24T12:19:45.713Z"
   },
   {
     "networkId": "polkadot",
@@ -1472,7 +1472,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 403"
     },
-    "timestamp": "2026-02-23T18:26:55.439Z"
+    "timestamp": "2026-02-24T12:19:49.812Z"
   },
   {
     "networkId": "astar",
@@ -1496,7 +1496,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.626Z"
+    "timestamp": "2026-02-24T12:19:42.277Z"
   },
   {
     "networkId": "autonomys-chronos-testnet",
@@ -1560,7 +1560,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.394Z"
+    "timestamp": "2026-02-24T12:19:49.284Z"
   },
   {
     "networkId": "kusama",
@@ -1568,7 +1568,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.307Z"
+    "timestamp": "2026-02-24T12:19:49.507Z"
   },
   {
     "networkId": "paseo-testnet",
@@ -1576,7 +1576,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:42.561Z"
+    "timestamp": "2026-02-24T12:19:54.128Z"
   },
   {
     "networkId": "polkadot",
@@ -1584,7 +1584,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.569Z"
+    "timestamp": "2026-02-24T12:19:50.236Z"
   },
   {
     "networkId": "jamton",
@@ -1592,7 +1592,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.523Z"
+    "timestamp": "2026-02-24T12:19:50.500Z"
   },
   {
     "networkId": "joystream",
@@ -1609,7 +1609,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 502"
     },
-    "timestamp": "2026-02-23T18:26:57.144Z"
+    "timestamp": "2026-02-24T12:19:53.533Z"
   },
   {
     "networkId": "laos",
@@ -1633,7 +1633,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.910Z"
+    "timestamp": "2026-02-24T12:19:46.532Z"
   },
   {
     "networkId": "enjin-matrixchain",
@@ -1641,7 +1641,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.822Z"
+    "timestamp": "2026-02-24T12:19:42.649Z"
   },
   {
     "networkId": "enjin-matrixchain-testnet",
@@ -1657,7 +1657,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.005Z"
+    "timestamp": "2026-02-24T12:19:51.290Z"
   },
   {
     "networkId": "enjin-relay",
@@ -1665,7 +1665,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:42.961Z"
+    "timestamp": "2026-02-24T12:19:54.533Z"
   },
   {
     "networkId": "enjin-relay-testnet",
@@ -1724,7 +1724,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.072Z"
+    "timestamp": "2026-02-24T12:19:46.389Z"
   },
   {
     "networkId": "analog-timechain",
@@ -1740,15 +1740,16 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:43.404Z"
+    "timestamp": "2026-02-24T12:19:55.045Z"
   },
   {
     "networkId": "xxnetwork",
     "rpc": "wss://rpc.xx.network/",
     "health": {
-      "status": "OK"
+      "status": "NOK",
+      "error": "Timeout"
     },
-    "timestamp": "2026-02-23T18:26:53.728Z"
+    "timestamp": "2026-02-24T12:19:55.714Z"
   },
   {
     "networkId": "tanssi",
@@ -1788,7 +1789,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:27:01.458Z"
+    "timestamp": "2026-02-24T12:19:54.126Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1796,7 +1797,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.703Z"
+    "timestamp": "2026-02-24T12:19:47.735Z"
   },
   {
     "networkId": "vtb",
@@ -1826,10 +1827,9 @@
     "networkId": "paseo-asset-hub",
     "rpc": "wss://sys.ibp.network/asset-hub-paseo",
     "health": {
-      "status": "MEH",
-      "error": "Unexpected server response: 503"
+      "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.719Z"
+    "timestamp": "2026-02-24T12:19:48.026Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1837,7 +1837,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.287Z"
+    "timestamp": "2026-02-24T12:19:41.711Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -1885,7 +1885,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.551Z"
+    "timestamp": "2026-02-24T12:19:50.023Z"
   },
   {
     "networkId": "kusama-people",
@@ -1909,7 +1909,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:53.714Z"
+    "timestamp": "2026-02-24T12:19:45.786Z"
   },
   {
     "networkId": "paseo-asset-hub",
@@ -1917,7 +1917,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.659Z"
+    "timestamp": "2026-02-24T12:19:52.536Z"
   },
   {
     "networkId": "bittensor-testnet",
@@ -1966,7 +1966,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.550Z"
+    "timestamp": "2026-02-24T12:19:47.289Z"
   },
   {
     "networkId": "unique",
@@ -1974,7 +1974,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.950Z"
+    "timestamp": "2026-02-24T12:19:48.568Z"
   },
   {
     "networkId": "unique",
@@ -1982,7 +1982,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:52.862Z"
+    "timestamp": "2026-02-24T12:19:44.994Z"
   },
   {
     "networkId": "opal-testnet",
@@ -1990,7 +1990,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.680Z"
+    "timestamp": "2026-02-24T12:19:52.607Z"
   },
   {
     "networkId": "quartz",
@@ -2015,7 +2015,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.215Z"
+    "timestamp": "2026-02-24T12:19:46.984Z"
   },
   {
     "networkId": "vflow",
@@ -2039,7 +2039,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.893Z"
+    "timestamp": "2026-02-24T12:19:56.764Z"
   },
   {
     "networkId": "westend-bridge-hub-testnet",
@@ -2047,7 +2047,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.168Z"
+    "timestamp": "2026-02-24T12:19:51.803Z"
   },
   {
     "networkId": "westend-collectives-testnet",
@@ -2055,7 +2055,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.108Z"
+    "timestamp": "2026-02-24T12:19:51.666Z"
   },
   {
     "networkId": "westend-coretime-testnet",
@@ -2095,7 +2095,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:54.434Z"
+    "timestamp": "2026-02-24T12:19:47.685Z"
   },
   {
     "networkId": "westend-testnet",
@@ -2103,7 +2103,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-24T00:32:44.682Z"
+    "timestamp": "2026-02-24T12:19:55.933Z"
   },
   {
     "networkId": "opal-testnet",
@@ -2111,7 +2111,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:55.361Z"
+    "timestamp": "2026-02-24T12:19:50.342Z"
   },
   {
     "networkId": "quartz",
@@ -2184,7 +2184,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.960Z"
+    "timestamp": "2026-02-24T12:19:43.238Z"
   },
   {
     "networkId": "moonbase-alpha-testnet",
@@ -2200,7 +2200,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:50.760Z"
+    "timestamp": "2026-02-24T12:19:42.524Z"
   },
   {
     "networkId": "moonriver",
@@ -2208,7 +2208,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T18:26:56.215Z"
+    "timestamp": "2026-02-24T12:19:51.698Z"
   },
   {
     "networkId": "zeitgeist",

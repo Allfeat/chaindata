@@ -20775,6 +20775,10 @@
     "name": "Burning till 10M mc"
   },
   {
+    "id": "solana-mainnet:sol-spl:AVF9F4C4j8b1Kh4BmNHqybDaHgnZpJ7W7yLvL7hUpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:AVKLphLUpoNCwiyUHt8PuK4vz6JFkhRFni7HwZKrpump",
     "isValid": true,
     "symbol": "NEW",
@@ -41647,6 +41651,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:Pre8AREmFPtoJFT8mQSXQLh56cwJmM7CFDRuoGBZiUP",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Pre8wtN7sLADKn8qekjQipcSiYTGg5tafWqeH49s1wQ",
     "isValid": false
   },
@@ -41696,6 +41704,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:PrekBgzytydXoDTrH5NW9ABP68c96twxML8oV1NnV8d",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:PreLWGkkeqG1s4HEfFZSy9moCrJ7btsHuUtfcCeoRua",
     "isValid": false
   },
   {

@@ -34445,6 +34445,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0xc6366bf812d357182e48debad9faf3b00fe8e67f",
+    "isValid": true,
+    "symbol": "SAGE",
+    "decimals": 9,
+    "name": "Sagas Of Destiny"
+  },
+  {
     "id": "1:evm-erc20:0xc63ef5c53135c0eb7430055c1c1e2351715f697c",
     "isValid": true,
     "symbol": "SAYLOR",

@@ -6852,10 +6852,10 @@
     "type": "substrate-dtao",
     "symbol": "ඥ",
     "decimals": 9,
-    "name": "SN428 | Resi Labs ඥ",
+    "name": "SN428 | Subnet 428 ඥ",
     "isDefault": true,
     "netuid": 428,
-    "subnetName": "Resi Labs",
+    "subnetName": "Subnet 428",
     "isTransferable": true
   },
   {
