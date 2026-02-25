@@ -19351,10 +19351,6 @@
           "coingeckoId": "wall-street-pepe"
         },
         {
-          "contractAddress": "0x9614bfb1dde843f379a86a0e7efd1eb9a4300962",
-          "coingeckoId": "wall-street-shiba"
-        },
-        {
           "contractAddress": "0x82106347ddbb23ce44cf4ce4053ef1adf8b9323b",
           "coingeckoId": "walmart-ondo-tokenized-stock"
         },

@@ -8448,11 +8448,11 @@
     "type": "substrate-dtao",
     "symbol": "υ",
     "decimals": 9,
-    "name": "SN20 | Bounty Hunter υ",
+    "name": "SN20 | GroundLayer υ",
     "coingeckoId": "bitagent-rizzo",
     "isDefault": true,
     "netuid": 20,
-    "subnetName": "Bounty Hunter",
+    "subnetName": "GroundLayer",
     "isTransferable": true
   },
   {

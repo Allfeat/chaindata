@@ -14914,6 +14914,10 @@
     "name": "Bitcoin's Fairy Mascot"
   },
   {
+    "id": "solana-mainnet:sol-spl:8jiVXftnn2ZG6bugK7HAH5j2G3D6TpsG521gqsWwpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:8JnNWJ46yfdq8sKgT1Lk4G7VWkAA8Rhh7LhqgJ6WY41G",
     "isValid": false
   },
@@ -20874,6 +20878,10 @@
     "symbol": "ZOA",
     "decimals": 6,
     "name": "ZOA AI"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:AWGCDT2gd8JadbYbYyZy1iKxfWokPNgrEQoU24zUpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:AWpD39myXc7emw5M9cMCofkbo92x5FKWdGHWYpZFdoge",
