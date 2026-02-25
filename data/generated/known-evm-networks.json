@@ -15043,10 +15043,6 @@
           "coingeckoId": "red-token"
         },
         {
-          "contractAddress": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
-          "coingeckoId": "reef"
-        },
-        {
           "contractAddress": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
           "coingeckoId": "refereum"
         },
@@ -33995,10 +33991,6 @@
           "coingeckoId": "red-pepe"
         },
         {
-          "contractAddress": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
-          "coingeckoId": "reef"
-        },
-        {
           "contractAddress": "0x4e6415a5727ea08aae4580057187923aec331227",
           "coingeckoId": "refinable"
         },
@@ -34209,10 +34201,6 @@
         {
           "contractAddress": "0x6b85f1fe36af537ce5085ef441c92de09af74f0e",
           "coingeckoId": "robotic-doge"
-        },
-        {
-          "contractAddress": "0x1c3c1dd4020938c6afac0ecdb6d884928eba4588",
-          "coingeckoId": "roca-finance"
         },
         {
           "contractAddress": "0x4b7c04ff792581f93f80d69c0f357cb890444444",
@@ -73602,6 +73590,10 @@
           "coingeckoId": "sage-market"
         },
         {
+          "contractAddress": "0xde61878b0b21ce395266c44d4d548d1c72a3eb07",
+          "coingeckoId": "sairi"
+        },
+        {
           "contractAddress": "0xcff4429d8a323dd6b64b79a4460bec6d531fcfa8",
           "coingeckoId": "saitoshi-by-virtuals"
         },
@@ -82409,10 +82401,6 @@
           "coingeckoId": "redfox-labs-2"
         },
         {
-          "contractAddress": "0x2c969b248144dc371b428705da84b413203d9e76",
-          "coingeckoId": "reef"
-        },
-        {
           "contractAddress": "0x83ab721c8b3dd30ad711460f666371366550c5a7",
           "coingeckoId": "republic-protocol"
         },
@@ -86701,6 +86689,10 @@
         {
           "contractAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
           "coingeckoId": "mountain-protocol-usdm"
+        },
+        {
+          "contractAddress": "0xb7ba43fbd4f2e85fce929f7d4dfe3905ae846a46",
+          "coingeckoId": "perkos"
         },
         {
           "contractAddress": "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b",

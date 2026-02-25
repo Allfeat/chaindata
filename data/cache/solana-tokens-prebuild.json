@@ -23429,6 +23429,17 @@
     "mintAddress": "ABt79MkRXUsoHuV2CVQT32YMXQhTparKFjmidQxgiQ6E"
   },
   {
+    "id": "solana-mainnet:sol-spl:Abub8cRJviGWsv1qWjkR1wHqNdYjRenoaZxroFxbpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "Shortcoin",
+    "decimals": 6,
+    "name": "The Big Short",
+    "coingeckoId": "the-big-short",
+    "mintAddress": "Abub8cRJviGWsv1qWjkR1wHqNdYjRenoaZxroFxbpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:aBvs3Zv9JYmvUCKqRJvGctDQSCt6R7NAMELid3FeqsQ",
     "platform": "solana",
     "networkId": "solana-mainnet",

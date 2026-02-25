@@ -292,6 +292,10 @@
     "name": "PAIN"
   },
   {
+    "id": "solana-mainnet:sol-spl:1ugKvQBmxESGM8RX3RmBNVEwwko8i4jRaueYz9kcyai",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:1VHpwkbT3TZ7VjqwrAxvPbQCg2HkBNMrPW2WsQspump",
     "isValid": true,
     "symbol": "GLP1",
@@ -5769,6 +5773,10 @@
     "name": "Baolong the Enemy of Nailong"
   },
   {
+    "id": "solana-mainnet:sol-spl:4KVGATyKJNhm8y8afj5314rNAkB9MZGJVDE5cCKTpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:4kVZLRtcPvzngu23oxXqH4MyyRMaFyh875N4g4dWpump",
     "isValid": true,
     "symbol": "CYCLE",
@@ -10967,6 +10975,10 @@
     "symbol": "CYAI",
     "decimals": 6,
     "name": "CyreneAI"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:6tSUENw1SsuffbBdBYmv9iP7c6fq1jQ8wPJyS6wcpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:6TUJXvuUrS4rnnm8LmG23AZYsWQavY9SpeAG3Cdjbonk",
@@ -19130,6 +19142,13 @@
     "symbol": "ORDER",
     "decimals": 10,
     "name": "Orderly Network"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Abub8cRJviGWsv1qWjkR1wHqNdYjRenoaZxroFxbpump",
+    "isValid": true,
+    "symbol": "Shortcoin",
+    "decimals": 6,
+    "name": "The Big Short"
   },
   {
     "id": "solana-mainnet:sol-spl:AbvryMGnaba9oADMZk8Vp2Av6MtczsncGyfWaC4ondo",
@@ -28836,6 +28855,10 @@
     "name": "KOMI"
   },
   {
+    "id": "solana-mainnet:sol-spl:DZq1fdJfGjv27Cev8hNFZXJwhApB3xHpo3KMTTRvpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DZSs9nHSr9BBunLNWd6PDstesJ4PBLMFVK1GbZ9urYNZ",
     "isValid": true,
     "symbol": "DAWAE",
@@ -33770,6 +33793,10 @@
     "symbol": "Brewski",
     "decimals": 6,
     "name": "Brewski"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FXXYCLUw6iGDgyRts3HwzcL6MXDeZLfid5EiYqZApump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:Fy1RLA8gvudCj1x4tcpcCDRWG1jfuYHT7zpWKP1svJam",

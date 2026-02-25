@@ -78658,6 +78658,13 @@
     "isValid": true
   },
   {
+    "id": "42220:evm-erc20:0xb7ba43fbd4f2e85fce929f7d4dfe3905ae846a46",
+    "isValid": true,
+    "symbol": "PERKOS",
+    "decimals": 18,
+    "name": "PerkOS"
+  },
+  {
     "id": "42220:evm-erc20:0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
     "symbol": "MAI",
     "decimals": 18,
@@ -134043,6 +134050,13 @@
     "decimals": 18,
     "name": "DEUS",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xde61878b0b21ce395266c44d4d548d1c72a3eb07",
+    "isValid": true,
+    "symbol": "SAIRI",
+    "decimals": 18,
+    "name": "SAIRI"
   },
   {
     "id": "8453:evm-erc20:0xde7a416ac821c77478340eebaa21b68297025ef3",
