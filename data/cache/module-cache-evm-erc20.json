@@ -21099,6 +21099,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x775acf0fae2b97789ea58e775789925ade06b867",
+    "isValid": true,
+    "symbol": "WQIE",
+    "decimals": 18,
+    "name": "WQIE"
+  },
+  {
     "id": "1:evm-erc20:0x775e8647b21606a21ee7f4a1efa1fc9be515666b",
     "symbol": "REGEN",
     "decimals": 9,

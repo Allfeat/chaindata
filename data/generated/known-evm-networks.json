@@ -8027,10 +8027,6 @@
           "coingeckoId": "god-coin"
         },
         {
-          "contractAddress": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
-          "coingeckoId": "godcoin-2"
-        },
-        {
           "contractAddress": "0xccc80ce58995baae4e5867e5cde3bd9f8b242376",
           "coingeckoId": "god-of-ethereum"
         },
@@ -9945,10 +9941,6 @@
         {
           "contractAddress": "0x904567252d8f48555b7447c67dca23f0372e16be",
           "coingeckoId": "kite-2"
-        },
-        {
-          "contractAddress": "0x7b0df1cd724ec34ec9bc4bd19749b01afb490761",
-          "coingeckoId": "kittekoin"
         },
         {
           "contractAddress": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
@@ -16295,10 +16287,6 @@
           "coingeckoId": "sky"
         },
         {
-          "contractAddress": "0x42168a285252bd00e4930e2f9dc01d496b14c90a",
-          "coingeckoId": "skyops"
-        },
-        {
           "contractAddress": "0x696a1012a7f694a6f34a95872f806eda633ea463",
           "coingeckoId": "slippy"
         },
@@ -19555,10 +19543,6 @@
           "coingeckoId": "wif-on-eth"
         },
         {
-          "contractAddress": "0x0f0bbaf936f7ada2aca5b80bed7b655758d66950",
-          "coingeckoId": "wifpepemoginu"
-        },
-        {
           "contractAddress": "0x170dec83c7753aaad20c01a0016b5a2e143990d4",
           "coingeckoId": "wigger"
         },
@@ -19729,6 +19713,10 @@
         {
           "contractAddress": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
           "coingeckoId": "wozx"
+        },
+        {
+          "contractAddress": "0x775acf0fae2b97789ea58e775789925ade06b867",
+          "coingeckoId": "wqie"
         },
         {
           "contractAddress": "0xf442ff10b8def89514560a66c0ad28777094636a",
@@ -20179,10 +20167,6 @@
           "coingeckoId": "x-money"
         },
         {
-          "contractAddress": "0x6c10d1611a5a95cb967e4bcab5791fd101194949",
-          "coingeckoId": "x-project-erc"
-        },
-        {
           "contractAddress": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a",
           "coingeckoId": "xreators"
         },
@@ -20261,10 +20245,6 @@
         {
           "contractAddress": "0xf970706063b7853877f39515c96932d49d5ac9cd",
           "coingeckoId": "yala"
-        },
-        {
-          "contractAddress": "0xbb820cdc399d93b614023cae612f85eaa0db944f",
-          "coingeckoId": "yapp-ai"
         },
         {
           "contractAddress": "0x88ce174c655b6d11210a069b2c106632dabdb068",
@@ -32051,10 +32031,6 @@
           "coingeckoId": "msv-protocol"
         },
         {
-          "contractAddress": "0xcc0d48a5530cca0481105ccd61a14c495a51c901",
-          "coingeckoId": "mth-network"
-        },
-        {
           "contractAddress": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
           "coingeckoId": "mubarak"
         },
@@ -33401,10 +33377,6 @@
         {
           "contractAddress": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
           "coingeckoId": "pocoland"
-        },
-        {
-          "contractAddress": "0x41b7d66d96a30d301be938adb8a6c18656109517",
-          "coingeckoId": "podfast"
         },
         {
           "contractAddress": "0xdfa86a77c9c99c2a1d33e56f42081b40fc3bdfcc",
@@ -37315,10 +37287,6 @@
           "coingeckoId": "yellow-pepe-2"
         },
         {
-          "contractAddress": "0x1a3057027032a1af433f6f596cab15271e4d8196",
-          "coingeckoId": "yellow-road"
-        },
-        {
           "contractAddress": "0xabfd54934ca4535afa589346bf7938b8ce3f4444",
           "coingeckoId": "yellow-shib"
         },
@@ -41077,10 +41045,6 @@
         {
           "contractAddress": "0x3b7e1ce09afe2bb3a23919afb65a38e627cfbe97",
           "coingeckoId": "dragon-soul-token"
-        },
-        {
-          "contractAddress": "0x958d208cdf087843e9ad98d23823d32e17d723a1",
-          "coingeckoId": "dragon-s-quick"
         },
         {
           "contractAddress": "0xf28164a485b0b2c90639e47b0f377b4a438a16b1",
@@ -58114,10 +58078,6 @@
           "coingeckoId": "pixels"
         },
         {
-          "contractAddress": "0x6ad39689cac97a3e647fabd31534555bc7edd5c6",
-          "coingeckoId": "planet-horse-v2"
-        },
-        {
           "contractAddress": "0x394cef8bdd737ee24dbc9f43d0d5d2ab83136054",
           "coingeckoId": "power-protocol"
         },
@@ -67866,10 +67826,6 @@
           "coingeckoId": "basehoundbot-by-virtuals"
         },
         {
-          "contractAddress": "0x92f344ee566459b5ba471b5a6003224c8a2d0415",
-          "coingeckoId": "base-index"
-        },
-        {
           "contractAddress": "0x5ff986de80fc8502ea9293b8c06ef22b1e3f11e9",
           "coingeckoId": "base-inu"
         },
@@ -70692,10 +70648,6 @@
         {
           "contractAddress": "0x9aaae745cf2830fb8ddc6248b17436dc3a5e701c",
           "coingeckoId": "gochujangcoin"
-        },
-        {
-          "contractAddress": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
-          "coingeckoId": "godcoin-2"
         },
         {
           "contractAddress": "0x4b73c08ea7ba32593e8ca02c6910c6447e6f6642",
@@ -86485,10 +86437,6 @@
         {
           "contractAddress": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
           "coingeckoId": "arbius"
-        },
-        {
-          "contractAddress": "0xb5130f4767ab0acc579f25a76e8f9e977cb3f948",
-          "coingeckoId": "godcoin-2"
         },
         {
           "contractAddress": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
