@@ -13843,10 +13843,6 @@
           "coingeckoId": "pepenode"
         },
         {
-          "contractAddress": "0x5a7471876df6e7da32207ee4e50b0a61ff81e312",
-          "coingeckoId": "pepe-on-memeland"
-        },
-        {
           "contractAddress": "0x1032abe2902a23ddcbab085c20e0e69c33ceb8fa",
           "coingeckoId": "pepe-predator"
         },
@@ -14425,10 +14421,6 @@
         {
           "contractAddress": "0xeb3127a8f1aa9ae9c9ef2459657c3f4fa1f192de",
           "coingeckoId": "profit-ai"
-        },
-        {
-          "contractAddress": "0x6907ad44fa86ffb35a7e078e8b58638e69398cbb",
-          "coingeckoId": "project-89"
         },
         {
           "contractAddress": "0x871b7c4ec80cace3372016c30be62d8bc28bf65b",
@@ -25465,10 +25457,6 @@
         {
           "contractAddress": "0xc868642d123289f0a6cb34a3c2810a0a46141947",
           "coingeckoId": "bitcoin-e-wallet"
-        },
-        {
-          "contractAddress": "0x2144ee54286ba4461292dc6f517049033eb95823",
-          "coingeckoId": "bitcoin-hyper-5"
         },
         {
           "contractAddress": "0x9d2144328e1d618f54cd38540f5ee50671f6a208",
@@ -37477,6 +37465,10 @@
         {
           "contractAddress": "0x0000028a2eb8346cd5c0267856ab7594b7a55308",
           "coingeckoId": "zetachain"
+        },
+        {
+          "contractAddress": "0x984edbbb792b390c2f89fcc111aa33d3873a6f91",
+          "coingeckoId": "zetarium"
         },
         {
           "contractAddress": "0xa2be3e48170a60119b5f0400c65f65f3158fbeee",
@@ -58428,8 +58420,8 @@
     "name": "IBVM Mainnet",
     "nativeCurrency": {
       "decimals": 18,
-      "symbol": "BTC",
-      "name": "IBVM Bitcoin"
+      "symbol": "IBVM",
+      "name": "IBVM"
     },
     "blockExplorerUrls": ["https://ibvmscan.io"],
     "rpcs": ["https://rpc-mainnet.ibvm.io"],
@@ -89662,6 +89654,31 @@
     "shortName": "tgton"
   },
   {
+    "id": "50024",
+    "name": "BitBadges",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "BADGE",
+      "name": "BitBadges"
+    },
+    "blockExplorerUrls": ["https://evm.explorer.bitbadges.io"],
+    "rpcs": ["https://evm-rpc.bitbadges.io"],
+    "shortName": "bitbadges"
+  },
+  {
+    "id": "50025",
+    "isTestnet": true,
+    "name": "BitBadges Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "BADGE",
+      "name": "BitBadges"
+    },
+    "blockExplorerUrls": ["https://evm-testnet.explorer.bitbadges.io"],
+    "rpcs": ["https://evm-rpc-testnet.bitbadges.io"],
+    "shortName": "bitbadges-testnet"
+  },
+  {
     "id": "50104",
     "name": "Sophon",
     "logo": "./assets/chains/known/50104.webp",
@@ -93380,6 +93397,19 @@
     "rpcs": ["https://frigate-rpc-mainnet.cyclenetwork.io"],
     "icon": "cycle",
     "shortName": "cyclef"
+  },
+  {
+    "id": "88788",
+    "name": "PropTech Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "PTEK",
+      "name": "PropTech Token"
+    },
+    "blockExplorerUrls": ["https://explorer.ptekcoin.com"],
+    "rpcs": ["https://mainnet.ptekcoin.com"],
+    "icon": "ptek",
+    "shortName": "ptek"
   },
   {
     "id": "88800",

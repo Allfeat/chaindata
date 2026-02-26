@@ -1460,7 +1460,7 @@
     },
     "runtimeVersion": {
       "specName": "polymesh_testnet",
-      "specVersion": 7004000
+      "specVersion": 7004001
     }
   },
   {
@@ -1551,7 +1551,7 @@
     },
     "runtimeVersion": {
       "specName": "ewx-parachain",
-      "specVersion": 101
+      "specVersion": 104
     }
   },
   {

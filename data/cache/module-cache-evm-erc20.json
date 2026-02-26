@@ -102722,6 +102722,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x984edbbb792b390c2f89fcc111aa33d3873a6f91",
+    "isValid": true,
+    "symbol": "ZET",
+    "decimals": 18,
+    "name": "Zetarium"
+  },
+  {
     "id": "56:evm-erc20:0x9851feb263dd6e559c2b934f2873401cfb09ecb5",
     "symbol": "BUCK",
     "decimals": 18,

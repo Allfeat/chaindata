@@ -11090,6 +11090,20 @@
     "existentialDeposit": "33000000000000000"
   },
   {
+    "id": "hydradx:substrate-hydration:1009",
+    "platform": "polkadot",
+    "networkId": "hydradx",
+    "type": "substrate-hydration",
+    "symbol": "aSOL",
+    "decimals": 9,
+    "name": "aSOL",
+    "isDefault": true,
+    "onChainId": 1009,
+    "assetType": "Erc20",
+    "isSufficient": true,
+    "existentialDeposit": "1000000000"
+  },
+  {
     "id": "hydradx:substrate-hydration:1039",
     "platform": "polkadot",
     "networkId": "hydradx",
@@ -11864,6 +11878,20 @@
     "assetType": "Token",
     "isSufficient": true,
     "existentialDeposit": "147058823529412000"
+  },
+  {
+    "id": "hydradx:substrate-hydration:9001",
+    "platform": "polkadot",
+    "networkId": "hydradx",
+    "type": "substrate-hydration",
+    "symbol": "GSOL",
+    "decimals": 18,
+    "name": "GIGASOL",
+    "isDefault": true,
+    "onChainId": 9001,
+    "assetType": "Erc20",
+    "isSufficient": true,
+    "existentialDeposit": "1000000000"
   },
   {
     "id": "hydradx:substrate-native",
