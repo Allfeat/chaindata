@@ -7058,12 +7058,12 @@
     "platform": "polkadot",
     "networkId": "bittensor-testnet",
     "type": "substrate-dtao",
-    "symbol": "Τ",
+    "symbol": "ㄱ",
     "decimals": 9,
-    "name": "SN442 | privacyx Τ",
+    "name": "SN442 | SuperBrain ㄱ",
     "isDefault": true,
     "netuid": 442,
-    "subnetName": "privacyx",
+    "subnetName": "SuperBrain",
     "isTransferable": true
   },
   {

@@ -827,10 +827,6 @@
           "coingeckoId": "aicm-marketplace"
         },
         {
-          "contractAddress": "0x9d1a74967eca155782edf8e84782c74db33fc499",
-          "coingeckoId": "ai-com"
-        },
-        {
           "contractAddress": "0xe2432110c32d0717e33c245fe0cfa2b26c07f47a",
           "coingeckoId": "aigentx"
         },
@@ -3139,10 +3135,6 @@
           "coingeckoId": "boss-burger"
         },
         {
-          "contractAddress": "0x9532ca064278ce3ba4fcc66cebec6d9f04f58f70",
-          "coingeckoId": "bot-compiler"
-        },
-        {
           "contractAddress": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
           "coingeckoId": "botto"
         },
@@ -3509,10 +3501,6 @@
         {
           "contractAddress": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
           "coingeckoId": "cargox"
-        },
-        {
-          "contractAddress": "0x5c2975269e74cb3a8514e5b800a1e66c694d4df8",
-          "coingeckoId": "caroline"
         },
         {
           "contractAddress": "0x282a69142bac47855c3fbe1693fcc4ba3b4d5ed6",
@@ -7275,10 +7263,6 @@
           "coingeckoId": "forgotten-playland"
         },
         {
-          "contractAddress": "0x9348e94a447bf8b2ec11f374d3f055fd47d936df",
-          "coingeckoId": "for-loot-and-glory"
-        },
-        {
           "contractAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
           "coingeckoId": "forta"
         },
@@ -8849,10 +8833,6 @@
         {
           "contractAddress": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
           "coingeckoId": "husd"
-        },
-        {
-          "contractAddress": "0x8079751edb6bf16078b07585ee60010f430617d5",
-          "coingeckoId": "hushr"
         },
         {
           "contractAddress": "0x560deb3d70ac90064ff809349cdf9a771a06fd36",
@@ -12167,10 +12147,6 @@
           "coingeckoId": "mu-chan"
         },
         {
-          "contractAddress": "0x68aae81b4241ffe03d3552d42a69940604fe28bf",
-          "coingeckoId": "muffin"
-        },
-        {
           "contractAddress": "0x04c293144acc45a19da9c2817c08d1352e5be70e",
           "coingeckoId": "mugi"
         },
@@ -15199,10 +15175,6 @@
           "coingeckoId": "restake-finance"
         },
         {
-          "contractAddress": "0x7a4effd87c2f3c55ca251080b1343b605f327e3a",
-          "coingeckoId": "restaking-vault-eth"
-        },
-        {
           "contractAddress": "0x419905009e4656fdc02418c7df35b1e61ed5f726",
           "coingeckoId": "resupply"
         },
@@ -15639,7 +15611,7 @@
           "coingeckoId": "sanin-inu"
         },
         {
-          "contractAddress": "0x2c29d74a5cf9370fe1d203bd1109b503907fa0a2",
+          "contractAddress": "0x0e90b6208b9c3271a05e1d6ca548ef80b7cd2231",
           "coingeckoId": "sanity-united"
         },
         {
@@ -19643,10 +19615,6 @@
           "coingeckoId": "wolverinu-2"
         },
         {
-          "contractAddress": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
-          "coingeckoId": "wombat"
-        },
-        {
           "contractAddress": "0xc0b314a8c08637685fc3dafc477b92028c540cfb",
           "coingeckoId": "wombat-exchange"
         },
@@ -19925,10 +19893,6 @@
         {
           "contractAddress": "0xb45ffb51984d626ee758b336c61cf20990c6bf13",
           "coingeckoId": "wrapped-rbnt"
-        },
-        {
-          "contractAddress": "0xf42fcffc27a5b8d0afec45659407b82f9f32fa98",
-          "coingeckoId": "wrapped-saga"
         },
         {
           "contractAddress": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
@@ -25671,10 +25635,6 @@
           "coingeckoId": "blind-boxes"
         },
         {
-          "contractAddress": "0x10da043d0b46e43b53b74a88ac60ccc28e2afdf8",
-          "coingeckoId": "blockai"
-        },
-        {
           "contractAddress": "0x7ca058309053f90b39bfc58de1eda2a89e9c03a8",
           "coingeckoId": "block-ape-scissors"
         },
@@ -27017,10 +26977,6 @@
         {
           "contractAddress": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
           "coingeckoId": "creatorbid"
-        },
-        {
-          "contractAddress": "0xfc76ba9157ee5d079de8c1e969ee54096aaa6c9c",
-          "coingeckoId": "cred-coin-pay"
         },
         {
           "contractAddress": "0x2235e79086dd23135119366da45851c741874e5b",
@@ -30491,10 +30447,6 @@
           "coingeckoId": "kira-network"
         },
         {
-          "contractAddress": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
-          "coingeckoId": "kissan"
-        },
-        {
           "contractAddress": "0x904567252d8f48555b7447c67dca23f0372e16be",
           "coingeckoId": "kite-2"
         },
@@ -32257,10 +32209,6 @@
         {
           "contractAddress": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
           "coingeckoId": "newb-farm"
-        },
-        {
-          "contractAddress": "0x2405bcc008021f792b80c65fb73f8c86525c3be3",
-          "coingeckoId": "newera-finance"
         },
         {
           "contractAddress": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
@@ -41307,10 +41255,6 @@
           "coingeckoId": "forest-knight"
         },
         {
-          "contractAddress": "0x9111d6446ac5b88a84cf06425c6286658368542f",
-          "coingeckoId": "for-loot-and-glory"
-        },
-        {
           "contractAddress": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1",
           "coingeckoId": "forta"
         },
@@ -43525,10 +43469,6 @@
         {
           "contractAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
           "coingeckoId": "wmatic"
-        },
-        {
-          "contractAddress": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd",
-          "coingeckoId": "wombat"
         },
         {
           "contractAddress": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
@@ -53585,6 +53525,18 @@
     },
     "blockExplorerUrls": ["https://grxscan.io"],
     "rpcs": ["https://rpc.grxchain.io"],
+    "tokens": {
+      "evm-erc20": [
+        {
+          "contractAddress": "0x173462f5eb7ca0d1ab6aaea846fefe85a28029e2",
+          "coingeckoId": "grovex-bridged-usdt-grx-chain"
+        },
+        {
+          "contractAddress": "0x45c7287f897b3a79cd3f6e4f14b4ce568f023bd5",
+          "coingeckoId": "wrapped-grx"
+        }
+      ]
+    },
     "icon": "grx",
     "shortName": "grx",
     "chainSlug": "grx"
@@ -63822,10 +63774,6 @@
         {
           "contractAddress": "0xb76144f87df95816e8c55c240f874c554b4553c3",
           "coingeckoId": "saga-dollar"
-        },
-        {
-          "contractAddress": "0xa19377761fed745723b90993988e04d641c2cffe",
-          "coingeckoId": "wrapped-saga"
         }
       ]
     },
@@ -68170,10 +68118,6 @@
           "coingeckoId": "blink-galaxy-2"
         },
         {
-          "contractAddress": "0x6a27cd26a373530835b9fe7ac472b3e080070f64",
-          "coingeckoId": "blockai"
-        },
-        {
           "contractAddress": "0x6f8c1de07c9e59a8289705b1033af383dc3681b1",
           "coingeckoId": "blockchaincoinx"
         },
@@ -68848,10 +68792,6 @@
         {
           "contractAddress": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
           "coingeckoId": "clbtc"
-        },
-        {
-          "contractAddress": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
-          "coingeckoId": "clearstar-openeden-usdc"
         },
         {
           "contractAddress": "0xe42264d3470e2fdd6ec3e288ad57cf254865a941",
@@ -80747,10 +80687,12 @@
   {
     "id": "26514",
     "name": "Horizen Mainnet",
+    "logo": "./assets/chains/known/26514.webp",
     "nativeCurrency": {
       "decimals": 18,
       "symbol": "ETH",
-      "name": "Ether"
+      "name": "Ether",
+      "coingeckoId": "ethereum"
     },
     "blockExplorerUrls": ["https://horizen.calderaexplorer.xyz"],
     "rpcs": ["https://horizen.calderachain.xyz/http"],
@@ -85254,10 +85196,6 @@
         {
           "contractAddress": "0x0b3547cd0e14e7d42f8921b0c370fdfd708bff6c",
           "coingeckoId": "project-merlin"
-        },
-        {
-          "contractAddress": "0x4d840b741bc05fde325d4ec0b4cfcd0cea237e4e",
-          "coingeckoId": "quantlytica"
         },
         {
           "contractAddress": "0xbcd4d5ac29e06e4973a1ddcd782cd035d04bc0b7",
@@ -103809,10 +103747,6 @@
         {
           "contractAddress": "0xd7889cf83515ab0947d8786c43674287c2fe532e",
           "coingeckoId": "bithotelskl"
-        },
-        {
-          "contractAddress": "0xcdf030a3e65f917dfa8d74555a64a5ec5303c88e",
-          "coingeckoId": "for-loot-and-glory"
         },
         {
           "contractAddress": "0x57a3d5faa172f5984cdcd4885fd4f0baac88e558",
