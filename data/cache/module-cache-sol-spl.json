@@ -2085,6 +2085,13 @@
     "name": "MILKBAG"
   },
   {
+    "id": "solana-mainnet:sol-spl:2UfBjNeDwzZsoUnr3hNKF4vkzAgiGmBNYCAxLq72cPa2",
+    "isValid": true,
+    "symbol": "THEROS",
+    "decimals": 5,
+    "name": "THEROS"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2uic5Siiu6kwPoHZDHnhvH1MySx1vmLkVmzUTkc3pump",
     "isValid": true,
     "symbol": "SOAI",
@@ -9027,6 +9034,10 @@
     "name": "Cope man"
   },
   {
+    "id": "solana-mainnet:sol-spl:5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:5yes8vgfrsqP31JZnFxKVU8A5X1brigqkxySYvgS5kLk",
     "isValid": true,
     "symbol": "LAAI",
@@ -11616,6 +11627,13 @@
     "name": "CameoCoin"
   },
   {
+    "id": "solana-mainnet:sol-spl:739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump",
+    "isValid": true,
+    "symbol": "CLAW",
+    "decimals": 6,
+    "name": "clawpump.tech"
+  },
+  {
     "id": "solana-mainnet:sol-spl:73rzMJ8uEqjAf5vE1YPGrXbg7Cb2Yv85EoxpJh2mpump",
     "isValid": true,
     "symbol": "glam",
@@ -12796,6 +12814,10 @@
     "symbol": "YTC",
     "decimals": 6,
     "name": "YACHTS COIN"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7nePAcJhg88s1KFJptgaBvzYgHaUDzddgU65Etvtpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:7nFYpHyhDgzg3ioU2JFko5kaVwm6bjkL4MtbUiVAiYbJ",
@@ -19084,6 +19106,10 @@
     "name": "ju rugan"
   },
   {
+    "id": "solana-mainnet:sol-spl:ABc1BqTSZEwZoZr6kJUyUCMQTTxWSh18DyK5GM4Spump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:AbDm7PoYahHX12Huuq5jcg6ezpBF6nFKgLwgHTPTgeZs",
     "isValid": true,
     "symbol": "pepcat",
@@ -20933,6 +20959,10 @@
     "symbol": "MM",
     "decimals": 6,
     "name": "Milk Money"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:AX9D7Nqtu3enaeL4ELxoagsNV7AyEQEhK2ziwiyJpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:AxDKAyDsC7p8C5MeDFX6FKV2MPCSGwzkRfGY2qZZpump",
@@ -23445,6 +23475,10 @@
     "name": "firecoin"
   },
   {
+    "id": "solana-mainnet:sol-spl:BVdMM5Fd7MxcTExnokXZzmCtiLvd2Es5zZQqRLNmrzSy",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:BVdXGvmgi6A9oAiwWvBvP76fyTqcCNRJMM7zMN6ondo",
     "isValid": false
   },
@@ -24208,6 +24242,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:C9J9vZ8N79GzzxFoRkPWCkGtMKU8akg4FhUk4r9ondo",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:C9jkxMsjYhaZN6CiMqEbUfEc87kqf8dN15xmwTUWpump",
     "isValid": false
   },
   {
@@ -27694,6 +27732,13 @@
     "name": "Pepe"
   },
   {
+    "id": "solana-mainnet:sol-spl:DHsUQZYRqZ5WNEHZxL5evnAt7A7W19BJ5GxUdJz3NcPh",
+    "isValid": true,
+    "symbol": "USAD",
+    "decimals": 6,
+    "name": "Lydia"
+  },
+  {
     "id": "solana-mainnet:sol-spl:DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump",
     "isValid": true,
     "symbol": "SHEERLUCK",
@@ -28553,6 +28598,10 @@
     "symbol": "goblintown",
     "decimals": 6,
     "name": "goblintown"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Duxeg8HrG89Dq95oyiydrnFd8irZhjApGZu8PYrEpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:DuXugm4oTXrGDopgxgudyhboaf6uUg1GVbJ6jk6qbonk",
@@ -35701,6 +35750,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:gorkrgj6k4K449Qa4eF1NaWC5cNLQtMsVEikhpGn7fC",
+    "isValid": true,
+    "symbol": "gork",
+    "decimals": 6,
+    "name": "gork"
+  },
+  {
     "id": "solana-mainnet:sol-spl:GoRnxWR5h4HMYAbCWhfPxsTF6N27jTRkBDFpAsvLpump",
     "isValid": true,
     "symbol": "KSG",
@@ -40641,6 +40697,13 @@
     "symbol": "Knight",
     "decimals": 6,
     "name": "Fallen Knight"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:LWPihkg8SWDiAzG5TXAsgQuJeSZ3cXem1VStNX8PLAY",
+    "isValid": true,
+    "symbol": "CAPYSIM",
+    "decimals": 9,
+    "name": "Capybara Simulator Playcoin"
   },
   {
     "id": "solana-mainnet:sol-spl:LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",

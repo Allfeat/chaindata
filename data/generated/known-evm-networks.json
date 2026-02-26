@@ -34179,6 +34179,10 @@
           "coingeckoId": "robotic-doge"
         },
         {
+          "contractAddress": "0x475cbf5919608e0c6af00e7bf87fab83bf3ef6e2",
+          "coingeckoId": "robo-token-2"
+        },
+        {
           "contractAddress": "0x4b7c04ff792581f93f80d69c0f357cb890444444",
           "coingeckoId": "rocket-dog"
         },
@@ -66790,7 +66794,7 @@
           "coingeckoId": "agent2025"
         },
         {
-          "contractAddress": "0xd98832e8a59156acbee4744b9a94a9989a728f36",
+          "contractAddress": "0xc34803d003f582b122b9575c14007373ad8c9383",
           "coingeckoId": "agentaigo"
         },
         {
@@ -74372,6 +74376,10 @@
         {
           "contractAddress": "0xc54ffa55a3fd03381aa86cf178b60dfaf827b61c",
           "coingeckoId": "tenna-by-virtuals"
+        },
+        {
+          "contractAddress": "0xfaded58c5fac3d95643a14ee33b7ea9f50084b9a",
+          "coingeckoId": "tensorgate"
         },
         {
           "contractAddress": "0xb488fcb23333e7baa28d1dfd7b69a5d3a8bfeb3a",
@@ -93544,10 +93552,12 @@
   {
     "id": "88888",
     "name": "Chiliz Chain",
+    "logo": "./assets/chains/known/88888.webp",
     "nativeCurrency": {
       "decimals": 18,
       "symbol": "CHZ",
-      "name": "Chiliz"
+      "name": "Chiliz",
+      "coingeckoId": "chiliz"
     },
     "blockExplorerUrls": ["https://chiliscan.com/"],
     "rpcs": [
@@ -93557,6 +93567,434 @@
       "https://rpc.chiliz.com",
       "https://chiliz.publicnode.com"
     ],
+    "tokens": {
+      "evm-erc20": [
+        {
+          "contractAddress": "0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688",
+          "coingeckoId": "ac-milan-fan-token"
+        },
+        {
+          "contractAddress": "0x863f7537b38130f01a42e9e9406573b1f1e309f7",
+          "coingeckoId": "alanyaspor-fan-token"
+        },
+        {
+          "contractAddress": "0xcf6d626203011e5554c82babe17dd7cdc4ee86bf",
+          "coingeckoId": "alfa-romeo-racing-orlen-fan-token"
+        },
+        {
+          "contractAddress": "0xc5c0d1e98d9b1398a37c82ed81086674baef2a72",
+          "coingeckoId": "alliance-fan-token"
+        },
+        {
+          "contractAddress": "0xd34625c1c812439229ef53e06f22053249d011f5",
+          "coingeckoId": "argentine-football-association-fan-token"
+        },
+        {
+          "contractAddress": "0x1d4343d35f0e0e14c14115876d01deaa4792550b",
+          "coingeckoId": "arsenal-fan-token"
+        },
+        {
+          "contractAddress": "0x371863096cf5685cd37ae00c28de10b6edbab3fe",
+          "coingeckoId": "as-monaco-fan-token"
+        },
+        {
+          "contractAddress": "0xa6610b3361c4c0d206aa3364cd985016c2d89386",
+          "coingeckoId": "as-roma-fan-token"
+        },
+        {
+          "contractAddress": "0x3757951792edfc2ce196e4c06cffd04027e87403",
+          "coingeckoId": "aston-martin-cognizant-fan-token"
+        },
+        {
+          "contractAddress": "0x095726841dc9bf395114ac83f8fd42b176cfad10",
+          "coingeckoId": "aston-villa-fan-token"
+        },
+        {
+          "contractAddress": "0xe9506f70be469d2369803ccf41823713bafe8154",
+          "coingeckoId": "atletico-madrid"
+        },
+        {
+          "contractAddress": "0x33e5b3e24501774598367bc0832b52787ac39ca5",
+          "coingeckoId": "blockasset"
+        },
+        {
+          "contractAddress": "0xf3928e7871eb136dd6648ad08aeef6b6ea893001",
+          "coingeckoId": "chiliz-inu"
+        },
+        {
+          "contractAddress": "0x8a48ad8279318757ea7905b460816c4b92de447e",
+          "coingeckoId": "club-atletico-independiente"
+        },
+        {
+          "contractAddress": "0xe5274eb169e0e3a60b9dc343f02ba940958e8683",
+          "coingeckoId": "clube-atletico-mineiro-fan-token"
+        },
+        {
+          "contractAddress": "0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce",
+          "coingeckoId": "diviswap"
+        },
+        {
+          "contractAddress": "0xe92e152fc0ff1368739670a5175175154ceeef42",
+          "coingeckoId": "esporte-clube-bahia-fan-token"
+        },
+        {
+          "contractAddress": "0xabee61f8ff0eadd8d4ee87092792aaf2d9b2ca8e",
+          "coingeckoId": "everton-fan-token"
+        },
+        {
+          "contractAddress": "0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b",
+          "coingeckoId": "fc-barcelona-fan-token"
+        },
+        {
+          "contractAddress": "0xd1723eb9e7c6ee7c7e2d421b2758dc0f2166eddc",
+          "coingeckoId": "flamengo-fan-token"
+        },
+        {
+          "contractAddress": "0x86930777d43605c40ba786f7802778ff5413efab",
+          "coingeckoId": "fluminense-fc-fan-token"
+        },
+        {
+          "contractAddress": "0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d",
+          "coingeckoId": "galatasaray-fan-token"
+        },
+        {
+          "contractAddress": "0x0e469d1c78421c7952e4d9626800dad22f45361d",
+          "coingeckoId": "goztepe-s-k-fan-token"
+        },
+        {
+          "contractAddress": "0xc727c9c0f2647cb90b0fca64d8ddb14878716bed",
+          "coingeckoId": "inter-milan-fan-token"
+        },
+        {
+          "contractAddress": "0xd5febd04badd83e7ed56ca093fd57655b737cd3e",
+          "coingeckoId": "istanbul-basaksehir-fan-token"
+        },
+        {
+          "contractAddress": "0x7483263ca24bfcff716a21f4a9bbf2610bdd9ec9",
+          "coingeckoId": "italian-national-football-team-fan-token"
+        },
+        {
+          "contractAddress": "0x454038003a93cf44766af352f74bad6b745616d0",
+          "coingeckoId": "juventus-fan-token"
+        },
+        {
+          "contractAddress": "0x3ce3946a68eb044c59afe77dfdfdc71f19eb4328",
+          "coingeckoId": "legia-warsaw-fan-token"
+        },
+        {
+          "contractAddress": "0x6401b29f40a02578ae44241560625232a01b3f79",
+          "coingeckoId": "manchester-city-fan-token"
+        },
+        {
+          "contractAddress": "0xbe7f1ebb1fd6246844e093b04991ae0e66d12c77",
+          "coingeckoId": "napoli-fan-token"
+        },
+        {
+          "contractAddress": "0x05765a792a04ecc6d45102b45874bc44a95a2d7e",
+          "coingeckoId": "natus-vincere-fan-token"
+        },
+        {
+          "contractAddress": "0xb66d72efc5fd77a8f9dc2e7c0f14304828956644",
+          "coingeckoId": "ninjas-in-pyjamas"
+        },
+        {
+          "contractAddress": "0x19ca0f4adb29e2130a56b9c9422150b5dc07f294",
+          "coingeckoId": "og-fan-token"
+        },
+        {
+          "contractAddress": "0x971364ec452958d4d65ba8d508faa226d7117279",
+          "coingeckoId": "palmeiras-fan-token"
+        },
+        {
+          "contractAddress": "0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105",
+          "coingeckoId": "paris-saint-germain-fan-token"
+        },
+        {
+          "contractAddress": "0x60f397acbcfb8f4e3234c659a3e10867e6fa6b67",
+          "coingeckoId": "pepper"
+        },
+        {
+          "contractAddress": "0xffad7930b474d45933c93b83a2802204b8787129",
+          "coingeckoId": "portugal-national-team-fan-token"
+        },
+        {
+          "contractAddress": "0xde05490b7ac4b86e54eff43f4f809c3a7bb16564",
+          "coingeckoId": "professional-fighters-league-fan-token"
+        },
+        {
+          "contractAddress": "0xfc21c38f4802ab29aed8cc7367542a0955cfa9d7",
+          "coingeckoId": "samsunspor-fan-token"
+        },
+        {
+          "contractAddress": "0x540165b9dfdde31658f9ba0ca5504eda448bffd0",
+          "coingeckoId": "sao-paulo-fc-fan-token"
+        },
+        {
+          "contractAddress": "0x20bfeab58f8be903753d037ba7e307fc77c97388",
+          "coingeckoId": "s-c-corinthians-fan-token"
+        },
+        {
+          "contractAddress": "0x3175e779b42d35e2c9eeafadcf5b6e6ec6e4f910",
+          "coingeckoId": "sc-internacional-fan-token"
+        },
+        {
+          "contractAddress": "0x60a5e1f5f0071c5d870bb0a80b411bde908ad51e",
+          "coingeckoId": "sevilla-fan-token"
+        },
+        {
+          "contractAddress": "0x71bc882c60b9efdf85d0e1a28fc86f0bd822132f",
+          "coingeckoId": "sint-truidense-voetbalvereniging-fan-token"
+        },
+        {
+          "contractAddress": "0xad7c869f357b57bb03050183d1ba8ec465cd69dc",
+          "coingeckoId": "sl-benfica-fan-token"
+        },
+        {
+          "contractAddress": "0x06b4213774dd069cf603ad11770b52f1e98160a7",
+          "coingeckoId": "team-heretics-fan-token"
+        },
+        {
+          "contractAddress": "0xf17b1e028537aba705433f7cebdca881b5c5b79e",
+          "coingeckoId": "tigres-fan-token"
+        },
+        {
+          "contractAddress": "0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92",
+          "coingeckoId": "tottenham-hotspur-fc-fan-token"
+        },
+        {
+          "contractAddress": "0x304193f18f3b34647ae1f549fc825a7e50267c51",
+          "coingeckoId": "trabzonspor-fan-token"
+        },
+        {
+          "contractAddress": "0xd2571bb5e84f1a3ac643b6be1dd94fc9fb97041d",
+          "coingeckoId": "udinese-calcio-fan-token"
+        },
+        {
+          "contractAddress": "0x0ffa63502f957b66e61f87761cc240e51c74cee5",
+          "coingeckoId": "ufc-fan-token"
+        },
+        {
+          "contractAddress": "0xba0c26485b1909f80476067272d74a99cc0e1d57",
+          "coingeckoId": "valencia-cf-fan-token"
+        },
+        {
+          "contractAddress": "0x6d72034d7508d16988bf84638d51592a8c02887b",
+          "coingeckoId": "vasco-da-gama-fan-token"
+        },
+        {
+          "contractAddress": "0x859db9e2569bb87990482fc53e2f902e52585ecb",
+          "coingeckoId": "wrapped-ac-milan-kayen"
+        },
+        {
+          "contractAddress": "0x9632e5d03bb7568b68096abf34b1367b87295d82",
+          "coingeckoId": "wrapped-alfa-romeo-racing-orlen-kayen"
+        },
+        {
+          "contractAddress": "0x1eb33b4243691f6ffbe0f77bbea3be1c6b26e43e",
+          "coingeckoId": "wrapped-alliance-kayen"
+        },
+        {
+          "contractAddress": "0x7475777609ce0bd8e06b471b95ac5330511e03ae",
+          "coingeckoId": "wrapped-argentine-football-association-kayen"
+        },
+        {
+          "contractAddress": "0x109523174dd4431dfd2628eaf9435cfd14dc6c2f",
+          "coingeckoId": "wrapped-arsenal-fc-kayen"
+        },
+        {
+          "contractAddress": "0x7ad193240f89b2f60c087eb9aebcf64139dd7b89",
+          "coingeckoId": "wrapped-as-monaco-kayen"
+        },
+        {
+          "contractAddress": "0x36c8239aabd0c6f7856b20ad9deeb5080adaf0fb",
+          "coingeckoId": "wrapped-as-roma-kayen"
+        },
+        {
+          "contractAddress": "0xe51a3c216afb6e7c9bebb4968cd4a8d1e0e99f77",
+          "coingeckoId": "wrapped-aston-martin-cognizant-kayen"
+        },
+        {
+          "contractAddress": "0xc8f1c7267f7c362a178eb94ac74877ea2f6c034c",
+          "coingeckoId": "wrapped-aston-villa-kayen"
+        },
+        {
+          "contractAddress": "0x7ac8caa7c42e13d31247b1f370e2cf0c242957e8",
+          "coingeckoId": "wrapped-atletico-madrid-kayen"
+        },
+        {
+          "contractAddress": "0xb7ff11aa7612e8c04a276dfea3ff95ffc9724ea1",
+          "coingeckoId": "wrapped-atletico-mineiro-kayen"
+        },
+        {
+          "contractAddress": "0x685ba5134f373785263db5a5bc5cff686264500b",
+          "coingeckoId": "wrapped-aytemiz-alanyaspor-kayen"
+        },
+        {
+          "contractAddress": "0x677f7e16c7dd57be1d4c8ad1244883214953dc47",
+          "coingeckoId": "wrapped-chiliz-kayen"
+        },
+        {
+          "contractAddress": "0xe6ffe9e1de0e5ba375f10aeca8e710225098d233",
+          "coingeckoId": "wrapped-club-atletico-independiente-kayen"
+        },
+        {
+          "contractAddress": "0x2ea082e1053f05effeb8e28c350fa0ff8fe78538",
+          "coingeckoId": "wrapped-club-tigres-uanl-kayen"
+        },
+        {
+          "contractAddress": "0x89c2b844da2b9b12ee704e2b544cec064a9243a2",
+          "coingeckoId": "wrapped-corinthians-kayen"
+        },
+        {
+          "contractAddress": "0x081232e5fee74aca4c40bce224c64e014a6ac245",
+          "coingeckoId": "wrapped-crystal-palace-fc-kayen"
+        },
+        {
+          "contractAddress": "0x55bd5c6b24f3c445f7ea813cc37ed16473057073",
+          "coingeckoId": "wrapped-esporte-clube-bahia-kayen"
+        },
+        {
+          "contractAddress": "0xfc8799e0895b3b92936075f3b1a4d1bf5f183166",
+          "coingeckoId": "wrapped-everton-kayen"
+        },
+        {
+          "contractAddress": "0xbaaaef59f4a6c11cc87ff75eaa7a386e753b2666",
+          "coingeckoId": "wrapped-fc-barcelona-kayen"
+        },
+        {
+          "contractAddress": "0xa8732dbb1985a570a1d98f57001e3c837046f618",
+          "coingeckoId": "wrapped-flamengo-kayen"
+        },
+        {
+          "contractAddress": "0xd6e703752e5457825734f74eaf8813251a9970e4",
+          "coingeckoId": "wrapped-fluminense-fc-kayen"
+        },
+        {
+          "contractAddress": "0xcfc896fe8c791b6d1c085e69451e4b2f675a4927",
+          "coingeckoId": "wrapped-galatasaray-s-k-kayen"
+        },
+        {
+          "contractAddress": "0x2ba57f4b99e9d2401381b2d2a1f60760ce3f1e82",
+          "coingeckoId": "wrapped-gaziantep-f-k-kayen"
+        },
+        {
+          "contractAddress": "0x71103f7892c6c5becc135a22afa9f021d905b750",
+          "coingeckoId": "wrapped-goztepe-kayen"
+        },
+        {
+          "contractAddress": "0xc587cf9ff27d7722ff4a3063abaff81551803730",
+          "coingeckoId": "wrapped-inter-milan-kayen"
+        },
+        {
+          "contractAddress": "0x3415c4bf4bdc284133831c2ed414bc57dbe5cffc",
+          "coingeckoId": "wrapped-istanbul-basaksehir-kayen"
+        },
+        {
+          "contractAddress": "0x9eccd05bba630cba3e6e119f9243aa649f443b19",
+          "coingeckoId": "wrapped-italian-national-football-team-kayen"
+        },
+        {
+          "contractAddress": "0xacf221c4f6c713459981660e3146e64cba54e0b1",
+          "coingeckoId": "wrapped-juventus-kayen"
+        },
+        {
+          "contractAddress": "0x2d271b3826090872a7a79dd69ffe660367f8579d",
+          "coingeckoId": "wrapped-leeds-united-kayen"
+        },
+        {
+          "contractAddress": "0x58386a2d1c45d4c5349468892f5f73ca3e53ea22",
+          "coingeckoId": "wrapped-legia-warsaw-kayen"
+        },
+        {
+          "contractAddress": "0x57488f1c881b2d5832d61781e741d09c5b3410fb",
+          "coingeckoId": "wrapped-made-in-brasil-kayen"
+        },
+        {
+          "contractAddress": "0x368f1eb2e4fa30c1c5957980c576df6163575416",
+          "coingeckoId": "wrapped-manchester-city-kayen"
+        },
+        {
+          "contractAddress": "0x9b24b3d55737bc28fdb21171ea5fd9ee50b136e6",
+          "coingeckoId": "wrapped-napoli-fc-kayen"
+        },
+        {
+          "contractAddress": "0x07eb6147263f2fedb00002badafc79ea769240f2",
+          "coingeckoId": "wrapped-og-kayen"
+        },
+        {
+          "contractAddress": "0x6db3eca64dc5b789a70571bd81332864ba327a56",
+          "coingeckoId": "wrapped-palmeiras-kayen"
+        },
+        {
+          "contractAddress": "0x476ef844b3e8318b3bc887a7db07a1a0fede5557",
+          "coingeckoId": "wrapped-paris-saint-germain-kayen"
+        },
+        {
+          "contractAddress": "0x804c701c3d548d68773e4e06c76c03afa0e32d42",
+          "coingeckoId": "wrapped-portugal-national-team-kayen"
+        },
+        {
+          "contractAddress": "0x9b18841fe851f5b4b9400e67602ec2fe65aaae0a",
+          "coingeckoId": "wrapped-professional-fighters-league-kayen"
+        },
+        {
+          "contractAddress": "0xef571542dcf394da8b5190f75a20dacc07fac741",
+          "coingeckoId": "wrapped-real-sociedad-kayen"
+        },
+        {
+          "contractAddress": "0x72e24aadee54e65152c14246d2c62c1d42804764",
+          "coingeckoId": "wrapped-samsunspor-kayen"
+        },
+        {
+          "contractAddress": "0x60175b07658694fc1c16578376c439879c05d1cb",
+          "coingeckoId": "wrapped-sao-paulo-fc-kayen"
+        },
+        {
+          "contractAddress": "0xb71597e18d9933b38a56817ed74c64618232e325",
+          "coingeckoId": "wrapped-sevilla-fc-kayen"
+        },
+        {
+          "contractAddress": "0x8b11453f790726ec863422d47c2bdf6222dd0f2d",
+          "coingeckoId": "wrapped-sl-benfica-kayen"
+        },
+        {
+          "contractAddress": "0xe41a78c047e455c3f57f610091d0de023a7b3d0b",
+          "coingeckoId": "wrapped-sport-club-internacional-kayen"
+        },
+        {
+          "contractAddress": "0x6c5e381af6e3b237f8471a7e1448a4cdf82d3447",
+          "coingeckoId": "wrapped-team-heretics-kayen"
+        },
+        {
+          "contractAddress": "0xf6bebad8be7bb9ce05b9a71b9ab62e2e7fa58e9f",
+          "coingeckoId": "wrapped-tottenham-hotspur-kayen"
+        },
+        {
+          "contractAddress": "0x80e5dccabc8566d4b12812142a6609d6b9dd84cf",
+          "coingeckoId": "wrapped-trabzonspor-kayen"
+        },
+        {
+          "contractAddress": "0xce1e295c23d6c99909a414b0dde447c15bb4db7d",
+          "coingeckoId": "wrapped-udinese-calcio-kayen"
+        },
+        {
+          "contractAddress": "0xa698a6d7275a461d6f2d425e31dab4a61a171afd",
+          "coingeckoId": "wrapped-ultimate-fighting-championship-kayen"
+        },
+        {
+          "contractAddress": "0xf9ae77d7658ad1a1ff49ca4d082fedb680a83373",
+          "coingeckoId": "wrapped-valencia-kayen"
+        },
+        {
+          "contractAddress": "0x2eae5689908ac76996b70b48d5ce5d2f2fcc09e0",
+          "coingeckoId": "wrapped-vasco-da-gama-kayen"
+        },
+        {
+          "contractAddress": "0x8c4d631a673be24f244e4f0645be6928d0083d4e",
+          "coingeckoId": "young-boys-fan-token"
+        }
+      ]
+    },
     "icon": "chiliz",
     "shortName": "chiliz",
     "chainSlug": "chiliz"

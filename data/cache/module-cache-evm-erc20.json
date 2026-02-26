@@ -93086,6 +93086,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x475cbf5919608e0c6af00e7bf87fab83bf3ef6e2",
+    "isValid": true,
+    "symbol": "ROBO",
+    "decimals": 18,
+    "name": "Robo Token"
+  },
+  {
     "id": "56:evm-erc20:0x477bc8d23c634c154061869478bce96be6045d12",
     "symbol": "SFUND",
     "decimals": 18,
@@ -132242,6 +132249,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0xc34803d003f582b122b9575c14007373ad8c9383",
+    "isValid": true,
+    "symbol": "CLAWLETT",
+    "decimals": 18,
+    "name": "Clawlett"
+  },
+  {
     "id": "8453:evm-erc20:0xc36f19bccd51e3f1163eff07b5edf9d2850acec4",
     "symbol": "BROGG",
     "decimals": 18,
@@ -135935,6 +135949,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0xfaded58c5fac3d95643a14ee33b7ea9f50084b9a",
+    "isValid": true,
+    "symbol": "TGATE",
+    "decimals": 18,
+    "name": "TensorGate"
+  },
+  {
     "id": "8453:evm-erc20:0xfae89a7966d13195960459e6b483cacb9fe9cfcf",
     "symbol": "BMONEY",
     "decimals": 18,
@@ -136721,6 +136742,748 @@
     "decimals": 18,
     "name": "Wrapped UNIT0",
     "isValid": true
+  },
+  {
+    "id": "88888:evm-erc20:0x05765a792a04ecc6d45102b45874bc44a95a2d7e",
+    "isValid": true,
+    "symbol": "NAVI",
+    "decimals": 0,
+    "name": "Natus Vincere"
+  },
+  {
+    "id": "88888:evm-erc20:0x06b4213774dd069cf603ad11770b52f1e98160a7",
+    "isValid": true,
+    "symbol": "TH",
+    "decimals": 0,
+    "name": "Team Heretics"
+  },
+  {
+    "id": "88888:evm-erc20:0x07eb6147263f2fedb00002badafc79ea769240f2",
+    "isValid": true,
+    "symbol": "WOG",
+    "decimals": 18,
+    "name": "Wrapped OG"
+  },
+  {
+    "id": "88888:evm-erc20:0x081232e5fee74aca4c40bce224c64e014a6ac245",
+    "isValid": true,
+    "symbol": "WCPFC",
+    "decimals": 18,
+    "name": "Wrapped Crystal Palace"
+  },
+  {
+    "id": "88888:evm-erc20:0x095726841dc9bf395114ac83f8fd42b176cfad10",
+    "isValid": true,
+    "symbol": "AVL",
+    "decimals": 0,
+    "name": "Aston Villa"
+  },
+  {
+    "id": "88888:evm-erc20:0x0e469d1c78421c7952e4d9626800dad22f45361d",
+    "isValid": true,
+    "symbol": "GOZ",
+    "decimals": 0,
+    "name": "Goztepe S.K."
+  },
+  {
+    "id": "88888:evm-erc20:0x0ffa63502f957b66e61f87761cc240e51c74cee5",
+    "isValid": true,
+    "symbol": "UFC",
+    "decimals": 0,
+    "name": "UFC"
+  },
+  {
+    "id": "88888:evm-erc20:0x109523174dd4431dfd2628eaf9435cfd14dc6c2f",
+    "isValid": true,
+    "symbol": "WAFC",
+    "decimals": 18,
+    "name": "Wrapped Arsenal FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x19ca0f4adb29e2130a56b9c9422150b5dc07f294",
+    "isValid": true,
+    "symbol": "OG",
+    "decimals": 0,
+    "name": "OG"
+  },
+  {
+    "id": "88888:evm-erc20:0x1d4343d35f0e0e14c14115876d01deaa4792550b",
+    "isValid": true,
+    "symbol": "AFC",
+    "decimals": 0,
+    "name": "Arsenal FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x1eb33b4243691f6ffbe0f77bbea3be1c6b26e43e",
+    "isValid": true,
+    "symbol": "WALL",
+    "decimals": 18,
+    "name": "Wrapped Alliance"
+  },
+  {
+    "id": "88888:evm-erc20:0x20bfeab58f8be903753d037ba7e307fc77c97388",
+    "isValid": true,
+    "symbol": "SCCP",
+    "decimals": 0,
+    "name": "Corinthians"
+  },
+  {
+    "id": "88888:evm-erc20:0x2ba57f4b99e9d2401381b2d2a1f60760ce3f1e82",
+    "isValid": true,
+    "symbol": "WGFK",
+    "decimals": 18,
+    "name": "Wrapped Gaziantep FK"
+  },
+  {
+    "id": "88888:evm-erc20:0x2d271b3826090872a7a79dd69ffe660367f8579d",
+    "isValid": true,
+    "symbol": "WLUFC",
+    "decimals": 18,
+    "name": "Wrapped Leeds United FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x2ea082e1053f05effeb8e28c350fa0ff8fe78538",
+    "isValid": true,
+    "symbol": "WTIGRES",
+    "decimals": 18,
+    "name": "Wrapped Tigres"
+  },
+  {
+    "id": "88888:evm-erc20:0x2eae5689908ac76996b70b48d5ce5d2f2fcc09e0",
+    "isValid": true,
+    "symbol": "WVASCO",
+    "decimals": 18,
+    "name": "Wrapped Vasco da Gama"
+  },
+  {
+    "id": "88888:evm-erc20:0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce",
+    "isValid": true,
+    "symbol": "DSwap",
+    "decimals": 18,
+    "name": "DiviSwap"
+  },
+  {
+    "id": "88888:evm-erc20:0x304193f18f3b34647ae1f549fc825a7e50267c51",
+    "isValid": true,
+    "symbol": "TRA",
+    "decimals": 0,
+    "name": "Trabzonspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x3175e779b42d35e2c9eeafadcf5b6e6ec6e4f910",
+    "isValid": true,
+    "symbol": "SACI",
+    "decimals": 0,
+    "name": "Internacional"
+  },
+  {
+    "id": "88888:evm-erc20:0x33e5b3e24501774598367bc0832b52787ac39ca5",
+    "isValid": true,
+    "symbol": "BLOCK",
+    "decimals": 6,
+    "name": "Blockasset"
+  },
+  {
+    "id": "88888:evm-erc20:0x3415c4bf4bdc284133831c2ed414bc57dbe5cffc",
+    "isValid": true,
+    "symbol": "WIBFK",
+    "decimals": 18,
+    "name": "Wrapped İstanbul Başakşehir FK"
+  },
+  {
+    "id": "88888:evm-erc20:0x368f1eb2e4fa30c1c5957980c576df6163575416",
+    "isValid": true,
+    "symbol": "WCITY",
+    "decimals": 18,
+    "name": "Wrapped Manchester City FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x36c8239aabd0c6f7856b20ad9deeb5080adaf0fb",
+    "isValid": true,
+    "symbol": "WASR",
+    "decimals": 18,
+    "name": "Wrapped AS Roma"
+  },
+  {
+    "id": "88888:evm-erc20:0x371863096cf5685cd37ae00c28de10b6edbab3fe",
+    "isValid": true,
+    "symbol": "ASM",
+    "decimals": 0,
+    "name": "AS Monaco"
+  },
+  {
+    "id": "88888:evm-erc20:0x3757951792edfc2ce196e4c06cffd04027e87403",
+    "isValid": true,
+    "symbol": "AM",
+    "decimals": 0,
+    "name": "Aston Martin Cognizant"
+  },
+  {
+    "id": "88888:evm-erc20:0x3ce3946a68eb044c59afe77dfdfdc71f19eb4328",
+    "isValid": true,
+    "symbol": "LEG",
+    "decimals": 0,
+    "name": "Legia Warsaw"
+  },
+  {
+    "id": "88888:evm-erc20:0x454038003a93cf44766af352f74bad6b745616d0",
+    "isValid": true,
+    "symbol": "JUV",
+    "decimals": 0,
+    "name": "Juventus"
+  },
+  {
+    "id": "88888:evm-erc20:0x476ef844b3e8318b3bc887a7db07a1a0fede5557",
+    "isValid": true,
+    "symbol": "WPSG",
+    "decimals": 18,
+    "name": "Wrapped Paris Saint-Germain"
+  },
+  {
+    "id": "88888:evm-erc20:0x540165b9dfdde31658f9ba0ca5504eda448bffd0",
+    "isValid": true,
+    "symbol": "SPFC",
+    "decimals": 0,
+    "name": "São Paulo FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x55bd5c6b24f3c445f7ea813cc37ed16473057073",
+    "isValid": true,
+    "symbol": "WBAHIA",
+    "decimals": 18,
+    "name": "Wrapped EC Bahia"
+  },
+  {
+    "id": "88888:evm-erc20:0x57488f1c881b2d5832d61781e741d09c5b3410fb",
+    "isValid": true,
+    "symbol": "WMIBR",
+    "decimals": 18,
+    "name": "Wrapped MIBR"
+  },
+  {
+    "id": "88888:evm-erc20:0x58386a2d1c45d4c5349468892f5f73ca3e53ea22",
+    "isValid": true,
+    "symbol": "WLEG",
+    "decimals": 18,
+    "name": "Wrapped Legia Warsaw"
+  },
+  {
+    "id": "88888:evm-erc20:0x60175b07658694fc1c16578376c439879c05d1cb",
+    "isValid": true,
+    "symbol": "WSPFC",
+    "decimals": 18,
+    "name": "Wrapped São Paulo FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x60a5e1f5f0071c5d870bb0a80b411bde908ad51e",
+    "isValid": true,
+    "symbol": "SEVILLA",
+    "decimals": 0,
+    "name": "Sevilla FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x60f397acbcfb8f4e3234c659a3e10867e6fa6b67",
+    "isValid": true,
+    "symbol": "PEPPER",
+    "decimals": 18,
+    "name": "PEPPER"
+  },
+  {
+    "id": "88888:evm-erc20:0x6401b29f40a02578ae44241560625232a01b3f79",
+    "isValid": true,
+    "symbol": "CITY",
+    "decimals": 0,
+    "name": "Manchester City FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x677f7e16c7dd57be1d4c8ad1244883214953dc47",
+    "isValid": true,
+    "symbol": "wCHZ",
+    "decimals": 18,
+    "name": "Wrapped Chiliz"
+  },
+  {
+    "id": "88888:evm-erc20:0x685ba5134f373785263db5a5bc5cff686264500b",
+    "isValid": true,
+    "symbol": "WALA",
+    "decimals": 18,
+    "name": "Wrapped Alanyaspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x6c5e381af6e3b237f8471a7e1448a4cdf82d3447",
+    "isValid": true,
+    "symbol": "WTH",
+    "decimals": 18,
+    "name": "Wrapped Team Heretics"
+  },
+  {
+    "id": "88888:evm-erc20:0x6d72034d7508d16988bf84638d51592a8c02887b",
+    "isValid": true,
+    "symbol": "VASCO",
+    "decimals": 0,
+    "name": "Vasco da Gama"
+  },
+  {
+    "id": "88888:evm-erc20:0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d",
+    "isValid": true,
+    "symbol": "GAL",
+    "decimals": 0,
+    "name": "Galatasaray S.K."
+  },
+  {
+    "id": "88888:evm-erc20:0x6db3eca64dc5b789a70571bd81332864ba327a56",
+    "isValid": true,
+    "symbol": "WVERDAO",
+    "decimals": 18,
+    "name": "Wrapped Palmeiras"
+  },
+  {
+    "id": "88888:evm-erc20:0x71103f7892c6c5becc135a22afa9f021d905b750",
+    "isValid": true,
+    "symbol": "WGOZ",
+    "decimals": 18,
+    "name": "Wrapped Goztepe S.K."
+  },
+  {
+    "id": "88888:evm-erc20:0x71bc882c60b9efdf85d0e1a28fc86f0bd822132f",
+    "isValid": true,
+    "symbol": "STV",
+    "decimals": 18,
+    "name": "Sint-Truidense Voetbalvereniging"
+  },
+  {
+    "id": "88888:evm-erc20:0x72e24aadee54e65152c14246d2c62c1d42804764",
+    "isValid": true,
+    "symbol": "WSAM",
+    "decimals": 18,
+    "name": "Wrapped Samsunspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x7475777609ce0bd8e06b471b95ac5330511e03ae",
+    "isValid": true,
+    "symbol": "WARG",
+    "decimals": 18,
+    "name": "Wrapped Argentina"
+  },
+  {
+    "id": "88888:evm-erc20:0x7483263ca24bfcff716a21f4a9bbf2610bdd9ec9",
+    "isValid": true,
+    "symbol": "ITA",
+    "decimals": 0,
+    "name": "FIGC"
+  },
+  {
+    "id": "88888:evm-erc20:0x7ac8caa7c42e13d31247b1f370e2cf0c242957e8",
+    "isValid": true,
+    "symbol": "WATM",
+    "decimals": 18,
+    "name": "Wrapped Atlético de Madrid"
+  },
+  {
+    "id": "88888:evm-erc20:0x7ad193240f89b2f60c087eb9aebcf64139dd7b89",
+    "isValid": true,
+    "symbol": "WASM",
+    "decimals": 18,
+    "name": "Wrapped AS Monaco"
+  },
+  {
+    "id": "88888:evm-erc20:0x804c701c3d548d68773e4e06c76c03afa0e32d42",
+    "isValid": true,
+    "symbol": "WPOR",
+    "decimals": 18,
+    "name": "Wrapped Portugal National Team"
+  },
+  {
+    "id": "88888:evm-erc20:0x80e5dccabc8566d4b12812142a6609d6b9dd84cf",
+    "isValid": true,
+    "symbol": "WTRA",
+    "decimals": 18,
+    "name": "Wrapped Trabzonspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x859db9e2569bb87990482fc53e2f902e52585ecb",
+    "isValid": true,
+    "symbol": "WACM",
+    "decimals": 18,
+    "name": "Wrapped AC Milan"
+  },
+  {
+    "id": "88888:evm-erc20:0x863f7537b38130f01a42e9e9406573b1f1e309f7",
+    "isValid": true,
+    "symbol": "ALA",
+    "decimals": 0,
+    "name": "Alanyaspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x86930777d43605c40ba786f7802778ff5413efab",
+    "isValid": true,
+    "symbol": "FLU",
+    "decimals": 0,
+    "name": "Fluminense FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x89c2b844da2b9b12ee704e2b544cec064a9243a2",
+    "isValid": true,
+    "symbol": "WSCCP",
+    "decimals": 18,
+    "name": "Wrapped Corinthians"
+  },
+  {
+    "id": "88888:evm-erc20:0x8a48ad8279318757ea7905b460816c4b92de447e",
+    "isValid": true,
+    "symbol": "CAI",
+    "decimals": 0,
+    "name": "Club Atletico Independiente"
+  },
+  {
+    "id": "88888:evm-erc20:0x8b11453f790726ec863422d47c2bdf6222dd0f2d",
+    "isValid": true,
+    "symbol": "WBENFICA",
+    "decimals": 18,
+    "name": "Wrapped SL Benfica"
+  },
+  {
+    "id": "88888:evm-erc20:0x8c4d631a673be24f244e4f0645be6928d0083d4e",
+    "isValid": true,
+    "symbol": "YBO",
+    "decimals": 18,
+    "name": "BSC Young Boys"
+  },
+  {
+    "id": "88888:evm-erc20:0x93d84ff2c5f5a5a3d7291b11af97679e75eeac92",
+    "isValid": true,
+    "symbol": "SPURS",
+    "decimals": 0,
+    "name": "Tottenham Hotspur"
+  },
+  {
+    "id": "88888:evm-erc20:0x9632e5d03bb7568b68096abf34b1367b87295d82",
+    "isValid": true,
+    "symbol": "WSAUBER",
+    "decimals": 18,
+    "name": "Wrapped Alfa Romeo Racing ORLEN"
+  },
+  {
+    "id": "88888:evm-erc20:0x971364ec452958d4d65ba8d508faa226d7117279",
+    "isValid": true,
+    "symbol": "VERDAO",
+    "decimals": 0,
+    "name": "Palmeiras"
+  },
+  {
+    "id": "88888:evm-erc20:0x9b18841fe851f5b4b9400e67602ec2fe65aaae0a",
+    "isValid": true,
+    "symbol": "WPFL",
+    "decimals": 18,
+    "name": "Wrapped Professional Fighters League"
+  },
+  {
+    "id": "88888:evm-erc20:0x9b24b3d55737bc28fdb21171ea5fd9ee50b136e6",
+    "isValid": true,
+    "symbol": "WNAP",
+    "decimals": 18,
+    "name": "Wrapped Napoli"
+  },
+  {
+    "id": "88888:evm-erc20:0x9eccd05bba630cba3e6e119f9243aa649f443b19",
+    "isValid": true,
+    "symbol": "WITA",
+    "decimals": 18,
+    "name": "Wrapped FIGC"
+  },
+  {
+    "id": "88888:evm-erc20:0xa6610b3361c4c0d206aa3364cd985016c2d89386",
+    "isValid": true,
+    "symbol": "ASR",
+    "decimals": 0,
+    "name": "AS Roma"
+  },
+  {
+    "id": "88888:evm-erc20:0xa698a6d7275a461d6f2d425e31dab4a61a171afd",
+    "isValid": true,
+    "symbol": "WUFC",
+    "decimals": 18,
+    "name": "Wrapped UFC"
+  },
+  {
+    "id": "88888:evm-erc20:0xa8732dbb1985a570a1d98f57001e3c837046f618",
+    "isValid": true,
+    "symbol": "WMENGO",
+    "decimals": 18,
+    "name": "Wrapped Flamengo"
+  },
+  {
+    "id": "88888:evm-erc20:0xabee61f8ff0eadd8d4ee87092792aaf2d9b2ca8e",
+    "isValid": true,
+    "symbol": "EFC",
+    "decimals": 0,
+    "name": "Everton Football Club"
+  },
+  {
+    "id": "88888:evm-erc20:0xacf221c4f6c713459981660e3146e64cba54e0b1",
+    "isValid": true,
+    "symbol": "WJUV",
+    "decimals": 18,
+    "name": "Wrapped Juventus"
+  },
+  {
+    "id": "88888:evm-erc20:0xad7c869f357b57bb03050183d1ba8ec465cd69dc",
+    "isValid": true,
+    "symbol": "BENFICA",
+    "decimals": 0,
+    "name": "SL Benfica"
+  },
+  {
+    "id": "88888:evm-erc20:0xb66d72efc5fd77a8f9dc2e7c0f14304828956644",
+    "isValid": true,
+    "symbol": "$DOJO",
+    "decimals": 18,
+    "name": "DOJO"
+  },
+  {
+    "id": "88888:evm-erc20:0xb71597e18d9933b38a56817ed74c64618232e325",
+    "isValid": true,
+    "symbol": "WSEVILLA",
+    "decimals": 18,
+    "name": "Wrapped Sevilla FC"
+  },
+  {
+    "id": "88888:evm-erc20:0xb7ff11aa7612e8c04a276dfea3ff95ffc9724ea1",
+    "isValid": true,
+    "symbol": "WGALO",
+    "decimals": 18,
+    "name": "Wrapped Clube Atlético Mineiro"
+  },
+  {
+    "id": "88888:evm-erc20:0xba0c26485b1909f80476067272d74a99cc0e1d57",
+    "isValid": true,
+    "symbol": "VCF",
+    "decimals": 0,
+    "name": "Valencia CF"
+  },
+  {
+    "id": "88888:evm-erc20:0xbaaaef59f4a6c11cc87ff75eaa7a386e753b2666",
+    "isValid": true,
+    "symbol": "WBAR",
+    "decimals": 18,
+    "name": "Wrapped FC Barcelona"
+  },
+  {
+    "id": "88888:evm-erc20:0xbe7f1ebb1fd6246844e093b04991ae0e66d12c77",
+    "isValid": true,
+    "symbol": "NAP",
+    "decimals": 0,
+    "name": "Napoli"
+  },
+  {
+    "id": "88888:evm-erc20:0xc2661815c69c2b3924d3dd0c2c1358a1e38a3105",
+    "isValid": true,
+    "symbol": "PSG",
+    "decimals": 0,
+    "name": "Paris Saint-Germain"
+  },
+  {
+    "id": "88888:evm-erc20:0xc587cf9ff27d7722ff4a3063abaff81551803730",
+    "isValid": true,
+    "symbol": "WINTER",
+    "decimals": 18,
+    "name": "Wrapped Inter Milan"
+  },
+  {
+    "id": "88888:evm-erc20:0xc5c0d1e98d9b1398a37c82ed81086674baef2a72",
+    "isValid": true,
+    "symbol": "ALL",
+    "decimals": 0,
+    "name": "Alliance"
+  },
+  {
+    "id": "88888:evm-erc20:0xc727c9c0f2647cb90b0fca64d8ddb14878716bed",
+    "isValid": true,
+    "symbol": "INTER",
+    "decimals": 0,
+    "name": "Inter Milan"
+  },
+  {
+    "id": "88888:evm-erc20:0xc8f1c7267f7c362a178eb94ac74877ea2f6c034c",
+    "isValid": true,
+    "symbol": "WAVL",
+    "decimals": 18,
+    "name": "Wrapped Aston Villa"
+  },
+  {
+    "id": "88888:evm-erc20:0xce1e295c23d6c99909a414b0dde447c15bb4db7d",
+    "isValid": true,
+    "symbol": "WUDI",
+    "decimals": 18,
+    "name": "Wrapped Udinese"
+  },
+  {
+    "id": "88888:evm-erc20:0xcf6d626203011e5554c82babe17dd7cdc4ee86bf",
+    "isValid": true,
+    "symbol": "SAUBER",
+    "decimals": 0,
+    "name": "Alfa Romeo Racing ORLEN"
+  },
+  {
+    "id": "88888:evm-erc20:0xcfc896fe8c791b6d1c085e69451e4b2f675a4927",
+    "isValid": true,
+    "symbol": "WGAL",
+    "decimals": 18,
+    "name": "Wrapped Galatasaray S.K."
+  },
+  {
+    "id": "88888:evm-erc20:0xd1723eb9e7c6ee7c7e2d421b2758dc0f2166eddc",
+    "isValid": true,
+    "symbol": "MENGO",
+    "decimals": 0,
+    "name": "Flamengo"
+  },
+  {
+    "id": "88888:evm-erc20:0xd2571bb5e84f1a3ac643b6be1dd94fc9fb97041d",
+    "isValid": true,
+    "symbol": "UDI",
+    "decimals": 0,
+    "name": "Udinese"
+  },
+  {
+    "id": "88888:evm-erc20:0xd34625c1c812439229ef53e06f22053249d011f5",
+    "isValid": true,
+    "symbol": "ARG",
+    "decimals": 0,
+    "name": "Argentina"
+  },
+  {
+    "id": "88888:evm-erc20:0xd5febd04badd83e7ed56ca093fd57655b737cd3e",
+    "isValid": true,
+    "symbol": "IBFK",
+    "decimals": 0,
+    "name": "İstanbul Başakşehir FK"
+  },
+  {
+    "id": "88888:evm-erc20:0xd6e703752e5457825734f74eaf8813251a9970e4",
+    "isValid": true,
+    "symbol": "WFLU",
+    "decimals": 18,
+    "name": "Wrapped Fluminense FC"
+  },
+  {
+    "id": "88888:evm-erc20:0xde05490b7ac4b86e54eff43f4f809c3a7bb16564",
+    "isValid": true,
+    "symbol": "PFL",
+    "decimals": 0,
+    "name": "Professional Fighters League"
+  },
+  {
+    "id": "88888:evm-erc20:0xe41a78c047e455c3f57f610091d0de023a7b3d0b",
+    "isValid": true,
+    "symbol": "WSACI",
+    "decimals": 18,
+    "name": "Wrapped Internacional"
+  },
+  {
+    "id": "88888:evm-erc20:0xe51a3c216afb6e7c9bebb4968cd4a8d1e0e99f77",
+    "isValid": true,
+    "symbol": "WAM",
+    "decimals": 18,
+    "name": "Wrapped Aston Martin Cognizant"
+  },
+  {
+    "id": "88888:evm-erc20:0xe5274eb169e0e3a60b9dc343f02ba940958e8683",
+    "isValid": true,
+    "symbol": "GALO",
+    "decimals": 0,
+    "name": "Clube Atlético Mineiro"
+  },
+  {
+    "id": "88888:evm-erc20:0xe6ffe9e1de0e5ba375f10aeca8e710225098d233",
+    "isValid": true,
+    "symbol": "WCAI",
+    "decimals": 18,
+    "name": "Wrapped Club Atletico Independiente"
+  },
+  {
+    "id": "88888:evm-erc20:0xe92e152fc0ff1368739670a5175175154ceeef42",
+    "isValid": true,
+    "symbol": "BAHIA",
+    "decimals": 0,
+    "name": "EC Bahia"
+  },
+  {
+    "id": "88888:evm-erc20:0xe9506f70be469d2369803ccf41823713bafe8154",
+    "isValid": true,
+    "symbol": "ATM",
+    "decimals": 0,
+    "name": "Atlético de Madrid"
+  },
+  {
+    "id": "88888:evm-erc20:0xef571542dcf394da8b5190f75a20dacc07fac741",
+    "isValid": true,
+    "symbol": "WRSO",
+    "decimals": 18,
+    "name": "Wrapped Real Sociedad"
+  },
+  {
+    "id": "88888:evm-erc20:0xf17b1e028537aba705433f7cebdca881b5c5b79e",
+    "isValid": true,
+    "symbol": "TIGRES",
+    "decimals": 0,
+    "name": "Tigres"
+  },
+  {
+    "id": "88888:evm-erc20:0xf3928e7871eb136dd6648ad08aeef6b6ea893001",
+    "isValid": true,
+    "symbol": "ChzInu",
+    "decimals": 4,
+    "name": "ChilizInu"
+  },
+  {
+    "id": "88888:evm-erc20:0xf6bebad8be7bb9ce05b9a71b9ab62e2e7fa58e9f",
+    "isValid": true,
+    "symbol": "WSPURS",
+    "decimals": 18,
+    "name": "Wrapped Tottenham Hotspur"
+  },
+  {
+    "id": "88888:evm-erc20:0xf9ae77d7658ad1a1ff49ca4d082fedb680a83373",
+    "isValid": true,
+    "symbol": "WVCF",
+    "decimals": 18,
+    "name": "Wrapped Valencia CF"
+  },
+  {
+    "id": "88888:evm-erc20:0xf9c0f80a6c67b1b39bddf00ecd57f2533ef5b688",
+    "isValid": true,
+    "symbol": "ACM",
+    "decimals": 0,
+    "name": "AC Milan"
+  },
+  {
+    "id": "88888:evm-erc20:0xfc21c38f4802ab29aed8cc7367542a0955cfa9d7",
+    "isValid": true,
+    "symbol": "SAM",
+    "decimals": 0,
+    "name": "Samsunspor"
+  },
+  {
+    "id": "88888:evm-erc20:0xfc8799e0895b3b92936075f3b1a4d1bf5f183166",
+    "isValid": true,
+    "symbol": "WEFC",
+    "decimals": 18,
+    "name": "Wrapped Everton Football Club"
+  },
+  {
+    "id": "88888:evm-erc20:0xfd3c73b3b09d418841dd6aff341b2d6e3aba433b",
+    "isValid": true,
+    "symbol": "BAR",
+    "decimals": 0,
+    "name": "FC Barcelona"
+  },
+  {
+    "id": "88888:evm-erc20:0xffad7930b474d45933c93b83a2802204b8787129",
+    "isValid": true,
+    "symbol": "POR",
+    "decimals": 0,
+    "name": "Portugal National Team"
   },
   {
     "id": "888888888:evm-erc20:0x38bb7b9b87bdfbed883aaf50a2f411d330fe32d6",

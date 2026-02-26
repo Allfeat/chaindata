@@ -2386,6 +2386,17 @@
     "mintAddress": "2ubuHGFS4VJVxSEpvV3kDwz6JiuXdaAoGMwrwYC87tp8"
   },
   {
+    "id": "solana-mainnet:sol-spl:2UfBjNeDwzZsoUnr3hNKF4vkzAgiGmBNYCAxLq72cPa2",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "THEROS",
+    "decimals": 5,
+    "name": "Theros",
+    "coingeckoId": "theros",
+    "mintAddress": "2UfBjNeDwzZsoUnr3hNKF4vkzAgiGmBNYCAxLq72cPa2"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2uic5Siiu6kwPoHZDHnhvH1MySx1vmLkVmzUTkc3pump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -13901,6 +13912,17 @@
     "name": "CameoCoin",
     "coingeckoId": "cameocoin",
     "mintAddress": "733Xr5c3PThmBce5uLSnTzKT4LrAWoGy8tvQvcu8pump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "CLAW",
+    "decimals": 6,
+    "name": "clawpump.tech",
+    "coingeckoId": "clawpump-tech",
+    "mintAddress": "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump"
   },
   {
     "id": "solana-mainnet:sol-spl:73rzMJ8uEqjAf5vE1YPGrXbg7Cb2Yv85EoxpJh2mpump",
@@ -33626,6 +33648,17 @@
     "mintAddress": "DHsPzhYsz9219sQDj6vYtQMBBHeuyXAM1RA4mjv2V9AT"
   },
   {
+    "id": "solana-mainnet:sol-spl:DHsUQZYRqZ5WNEHZxL5evnAt7A7W19BJ5GxUdJz3NcPh",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "USAD",
+    "decimals": 6,
+    "name": "Lydia",
+    "coingeckoId": "lydia-coin",
+    "mintAddress": "DHsUQZYRqZ5WNEHZxL5evnAt7A7W19BJ5GxUdJz3NcPh"
+  },
+  {
     "id": "solana-mainnet:sol-spl:DhteZLhKP6xPNcHVtdYvcE5FFcPN5smU7pxJw14Cpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -43548,6 +43581,17 @@
     "mintAddress": "goodX4LG92UAcRdFRUykfP2fAfzQAVttrToEPxtxSkp"
   },
   {
+    "id": "solana-mainnet:sol-spl:gorkrgj6k4K449Qa4eF1NaWC5cNLQtMsVEikhpGn7fC",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "gork",
+    "decimals": 6,
+    "name": "gork",
+    "coingeckoId": "gork-2",
+    "mintAddress": "gorkrgj6k4K449Qa4eF1NaWC5cNLQtMsVEikhpGn7fC"
+  },
+  {
     "id": "solana-mainnet:sol-spl:GorvUUSkJGSzJUebM5W6berUkZ5pG8nmnn7tmk74pump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -49365,6 +49409,17 @@
     "name": "Fallen Knight",
     "coingeckoId": "fallen-knight",
     "mintAddress": "LVCQ1YmeK6DECKqcwmscyDRxUYJpiGth9ppGKtopump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:LWPihkg8SWDiAzG5TXAsgQuJeSZ3cXem1VStNX8PLAY",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "CAPYSIM",
+    "decimals": 9,
+    "name": "Capybara Simulator Playcoin",
+    "coingeckoId": "capybara-simulator-playcoin",
+    "mintAddress": "LWPihkg8SWDiAzG5TXAsgQuJeSZ3cXem1VStNX8PLAY"
   },
   {
     "id": "solana-mainnet:sol-spl:LX2mJPsutHkUc6iXNFgumSC6LVKyc66xpy2zDTZpump",
