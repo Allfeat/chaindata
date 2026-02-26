@@ -19703,6 +19703,10 @@
           "coingeckoId": "worldwide-usd"
         },
         {
+          "contractAddress": "0xfc9d98cdb3529f32cd7fb02d175547641e145b29",
+          "coingeckoId": "worm"
+        },
+        {
           "contractAddress": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
           "coingeckoId": "wormhole"
         },
@@ -43813,6 +43817,10 @@
         {
           "contractAddress": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
           "coingeckoId": "earnausd"
+        },
+        {
+          "contractAddress": "0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+          "coingeckoId": "ebtc-2"
         },
         {
           "contractAddress": "0x46080f31351a6568f44575e3effde7f0c86867f9",
@@ -71104,6 +71112,10 @@
         {
           "contractAddress": "0x93757336de76f24f7eee15e6150e4ec42fbdaa21",
           "coingeckoId": "ip-tokens-of-ipnft-129"
+        },
+        {
+          "contractAddress": "0x5342371c0cd491e1fdb6b70bb29a8e0054911b07",
+          "coingeckoId": "iron-claw"
         },
         {
           "contractAddress": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c",

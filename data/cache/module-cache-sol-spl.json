@@ -16982,6 +16982,10 @@
     "name": "TOCO"
   },
   {
+    "id": "solana-mainnet:sol-spl:9GM8icX8MsyAJewmqQp8RQJqUfeJtTrrKr4gCRBBpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
     "isValid": true,
     "symbol": "WBNB",
@@ -21446,6 +21450,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:b6LNCreRaHRJ6xa7JmVcPqtAW6NMogzyi4MfcQRuniC",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:b6tCZBBD21dFxa1R5tULY1BdJkxCserENFyvseWpump",
     "isValid": false
   },
   {

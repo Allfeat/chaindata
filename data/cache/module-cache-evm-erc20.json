@@ -43312,6 +43312,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0xfc9d98cdb3529f32cd7fb02d175547641e145b29",
+    "isValid": true,
+    "symbol": "WORM",
+    "decimals": 18,
+    "name": "WORM"
+  },
+  {
     "id": "1:evm-erc20:0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
     "symbol": "IXT",
     "decimals": 8,
@@ -58370,6 +58377,13 @@
     "symbol": "NXPC",
     "decimals": 18,
     "name": "NXPC"
+  },
+  {
+    "id": "143:evm-erc20:0xd691b0afed67f96cec28ab6308cbe5b2c103b7e9",
+    "isValid": true,
+    "symbol": "eBTC",
+    "decimals": 10,
+    "name": "eBTC"
   },
   {
     "id": "143:evm-erc20:0xd90f6bfed23ffde40106fc4498dd2e9edb95e4e7",
@@ -124977,6 +124991,13 @@
     "decimals": 18,
     "name": "Brett",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x5342371c0cd491e1fdb6b70bb29a8e0054911b07",
+    "isValid": true,
+    "symbol": "IRONCLAW",
+    "decimals": 18,
+    "name": "Iron Claw"
   },
   {
     "id": "8453:evm-erc20:0x534b7aad1cdb6f02ec48cabe428f0d9131e40b07",
