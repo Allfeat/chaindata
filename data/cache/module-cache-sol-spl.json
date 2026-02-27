@@ -2314,6 +2314,10 @@
     "name": "ALPHA"
   },
   {
+    "id": "solana-mainnet:sol-spl:2xMNNityqHbafNAgNBF95phKcdx97qahJMwkUh4Bpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:2Xn4cBcrksaBMMxw8EbwuxY7iG8HUiZx1XEiCXQsGeSo",
     "isValid": true,
     "symbol": "MAGAPEPE",
@@ -33674,6 +33678,13 @@
     "symbol": "Radx",
     "decimals": 9,
     "name": "Radx_AI"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FVGdJQVzAdKr8ZH7ahyhp4cvDszX3N8QYGSdzueopump",
+    "isValid": true,
+    "symbol": "attn",
+    "decimals": 6,
+    "name": "attn markets"
   },
   {
     "id": "solana-mainnet:sol-spl:FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump",

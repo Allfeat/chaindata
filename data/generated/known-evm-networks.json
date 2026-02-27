@@ -9883,6 +9883,10 @@
           "coingeckoId": "killer-bean-2"
         },
         {
+          "contractAddress": "0x2b566950ba2298acef3c730cc0129b2f4fbd30a3",
+          "coingeckoId": "kimchi-3"
+        },
+        {
           "contractAddress": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
           "coingeckoId": "kimchi-finance"
         },
@@ -26963,6 +26967,10 @@
           "coingeckoId": "crazy-tiger"
         },
         {
+          "contractAddress": "0xb150e91cb40909f47d45115ee9e90667d807464b",
+          "coingeckoId": "creator-3"
+        },
+        {
           "contractAddress": "0xa1832f7f4e534ae557f9b5ab76de54b1873e498b",
           "coingeckoId": "creatorbid"
         },
@@ -27385,6 +27393,10 @@
         {
           "contractAddress": "0xd69ee2e508363fed57f89917d5ca03e715ee5519",
           "coingeckoId": "dechat"
+        },
+        {
+          "contractAddress": "0x8073b3a474d15a0c01a14857472611d3182feaa6",
+          "coingeckoId": "decoin-flow"
         },
         {
           "contractAddress": "0xeac9873291ddaca754ea5642114151f3035c67a2",
@@ -72048,6 +72060,10 @@
         {
           "contractAddress": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
           "coingeckoId": "molten-2"
+        },
+        {
+          "contractAddress": "0x59c0d5c34c301ac0600147924d6c9be22a2f0b07",
+          "coingeckoId": "molten-3"
         },
         {
           "contractAddress": "0x595a40a21842d5514a92539a09f3ceb9c46d3284",

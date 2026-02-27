@@ -9537,11 +9537,11 @@
     "type": "substrate-dtao",
     "symbol": "ᚁ",
     "decimals": 9,
-    "name": "SN91 | τensorprox ᚁ",
+    "name": "SN91 | Bitstarter #1 ᚁ",
     "coingeckoId": "tensorprox",
     "isDefault": true,
     "netuid": 91,
-    "subnetName": "τensorprox",
+    "subnetName": "Bitstarter #1",
     "isTransferable": true
   },
   {

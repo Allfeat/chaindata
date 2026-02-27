@@ -41007,6 +41007,17 @@
     "mintAddress": "FVFZxEewzrXooU8n8PjGPWKHHzouDjPfW6rzVaeXqGvY"
   },
   {
+    "id": "solana-mainnet:sol-spl:FVGdJQVzAdKr8ZH7ahyhp4cvDszX3N8QYGSdzueopump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "attn",
+    "decimals": 6,
+    "name": "attn markets",
+    "coingeckoId": "attn-markets",
+    "mintAddress": "FVGdJQVzAdKr8ZH7ahyhp4cvDszX3N8QYGSdzueopump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:FvgqHMfL9yn39V79huDPy3YUNDoYJpuLWng2JfmQpump",
     "platform": "solana",
     "networkId": "solana-mainnet",

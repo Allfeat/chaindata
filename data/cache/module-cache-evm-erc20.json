@@ -7398,6 +7398,13 @@
     "name": "ZENTIUM"
   },
   {
+    "id": "1:evm-erc20:0x2b566950ba2298acef3c730cc0129b2f4fbd30a3",
+    "isValid": true,
+    "symbol": "KIMCHI",
+    "decimals": 9,
+    "name": "Kimchi"
+  },
+  {
     "id": "1:evm-erc20:0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
     "symbol": "HEX",
     "decimals": 8,
@@ -99929,6 +99936,13 @@
     "name": "StoneYield USD"
   },
   {
+    "id": "56:evm-erc20:0x8073b3a474d15a0c01a14857472611d3182feaa6",
+    "isValid": true,
+    "symbol": "DCF",
+    "decimals": 18,
+    "name": "DeCoin Flow"
+  },
+  {
     "id": "56:evm-erc20:0x807bd464144f68b7a431fad41c5769a66d972eca",
     "isValid": true,
     "symbol": "DIT",
@@ -105563,6 +105577,13 @@
     "decimals": 9,
     "name": "NUTGAIN",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0xb150e91cb40909f47d45115ee9e90667d807464b",
+    "isValid": true,
+    "symbol": "CRTR",
+    "decimals": 18,
+    "name": "CREATOR"
   },
   {
     "id": "56:evm-erc20:0xb1547683da678f2e1f003a780143ec10af8a832b",
@@ -125467,6 +125488,13 @@
     "decimals": 18,
     "name": "Department Of Government Efficiency",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x59c0d5c34c301ac0600147924d6c9be22a2f0b07",
+    "isValid": true,
+    "symbol": "Molten",
+    "decimals": 18,
+    "name": "Molten"
   },
   {
     "id": "8453:evm-erc20:0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
