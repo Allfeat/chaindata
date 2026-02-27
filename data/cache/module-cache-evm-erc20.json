@@ -73704,6 +73704,13 @@
     "isValid": true
   },
   {
+    "id": "42161:evm-erc20:0x51f6ee60108cbcb3b613093bd3f224cb49aa1610",
+    "isValid": true,
+    "symbol": "BRI",
+    "decimals": 9,
+    "name": "BrightPool Token"
+  },
+  {
     "id": "42161:evm-erc20:0x51fc0f6660482ea73330e414efd7808811a57fa2",
     "symbol": "PREMIA",
     "decimals": 18,
@@ -81695,6 +81702,13 @@
     "decimals": 18,
     "name": "JEWEL",
     "isValid": true
+  },
+  {
+    "id": "43114:evm-erc20:0x9987b9992ecf263318c7701392c3fd6450bc8847",
+    "isValid": true,
+    "symbol": "CLE",
+    "decimals": 18,
+    "name": "CLECOIN"
   },
   {
     "id": "43114:evm-erc20:0x99f2bdf00acd067c65a79a0b6a3914c555196ea4",

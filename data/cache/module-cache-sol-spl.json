@@ -41046,6 +41046,13 @@
     "name": "CATBAT"
   },
   {
+    "id": "solana-mainnet:sol-spl:moLtguTf84g34S34PbnJDRKR1FXb5di1UCRsnB7hKjE",
+    "isValid": true,
+    "symbol": "MOLTID",
+    "decimals": 6,
+    "name": "MoltID"
+  },
+  {
     "id": "solana-mainnet:sol-spl:MoNAoCoXKLb38Y2VpbukGacdNYhvRTyVn92DvRApXep",
     "isValid": true,
     "symbol": "Mona",
