@@ -22219,6 +22219,13 @@
     "name": "Bilibili (Ondo Tokenized)"
   },
   {
+    "id": "1:evm-erc20:0x7e2ac793f3e692f388e66c7dc28f739d13b0b71a",
+    "isValid": true,
+    "symbol": "GGBR",
+    "decimals": 18,
+    "name": "Goldfish"
+  },
+  {
     "id": "1:evm-erc20:0x7e331b55e4fbba7cb9c1fc855ed0dac2983e7798",
     "symbol": "KOAI",
     "decimals": 18,
@@ -31117,6 +31124,13 @@
     "decimals": 18,
     "name": "DOSE",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0xb32e10022ffbedfe10bc818a1c7e67d9d87e0fa7",
+    "isValid": true,
+    "symbol": "DIME",
+    "decimals": 18,
+    "name": "DIME"
   },
   {
     "id": "1:evm-erc20:0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
@@ -123836,6 +123850,13 @@
     "symbol": "AGD",
     "decimals": 18,
     "name": "AgroDeri Governance & Utility Token"
+  },
+  {
+    "id": "8453:evm-erc20:0x407a5fb66cb1b3d50004f7091c08a27b42ba6d6f",
+    "isValid": true,
+    "symbol": "ROBO",
+    "decimals": 18,
+    "name": "Robo Token"
   },
   {
     "id": "8453:evm-erc20:0x408e16d4e07812a963189dc15fa61806eb8a4e9d",
