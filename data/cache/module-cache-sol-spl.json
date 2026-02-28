@@ -11825,6 +11825,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:78KiD7Y4rWuKQeyfnue9ayYNTzqxXvv2DK4bBj8Wbonk",
+    "isValid": true,
+    "symbol": "BTC2",
+    "decimals": 6,
+    "name": "Bitcoin 2.0"
+  },
+  {
     "id": "solana-mainnet:sol-spl:78Lw55CHo3UKxznxuWotAkWrviEDhcFaMga9QxRtpump",
     "isValid": true,
     "symbol": "CONOR",
@@ -16934,6 +16941,13 @@
     "name": "XerisCoin"
   },
   {
+    "id": "solana-mainnet:sol-spl:9f52wiW2zrt2497HroMHtZtuj7VzWu4AsEusmW3pump",
+    "isValid": true,
+    "symbol": "$NRG",
+    "decimals": 6,
+    "name": "Energy"
+  },
+  {
     "id": "solana-mainnet:sol-spl:9F6VbPeM8xR9Nkntyjp5nPY52w9YG9331bLuyhe3pump",
     "isValid": true,
     "symbol": "AKA",
@@ -19182,6 +19196,10 @@
     "name": "Orderly Network"
   },
   {
+    "id": "solana-mainnet:sol-spl:ABTZw146nJeRBbsxHqxtZasNnwMJBKaYrfxVk6zSJGip",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Abub8cRJviGWsv1qWjkR1wHqNdYjRenoaZxroFxbpump",
     "isValid": true,
     "symbol": "Shortcoin",
@@ -19304,6 +19322,10 @@
     "symbol": "PSY",
     "decimals": 6,
     "name": "PsyNova"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:ACXK4KmfXrf93e3AEo1ZiGDDDpcBpNEnWVxy9BHFpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:AcY6RWuWKM5NU7BeSE4c4zQxBZpyU7pTLNF3g5DTWUC2",
@@ -33972,6 +33994,13 @@
     "symbol": "POPI",
     "decimals": 9,
     "name": "PoPi 4i"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FYt532fCsCuoHd9aaX5QN7pZLUTiSXwEjhBmZijgBAGS",
+    "isValid": true,
+    "symbol": "SEED",
+    "decimals": 9,
+    "name": "SEEDLESS WALLET"
   },
   {
     "id": "solana-mainnet:sol-spl:FyyDnWQUAcGoJ4L7ab9P7VUFmT3Bs2ggW2DSJz5cpump",

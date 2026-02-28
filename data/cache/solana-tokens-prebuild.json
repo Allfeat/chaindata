@@ -14112,6 +14112,17 @@
     "mintAddress": "77RBCP95AFT9XRsx4xuGUHjBQsjcatGYCZ2VXx8Epump"
   },
   {
+    "id": "solana-mainnet:sol-spl:78KiD7Y4rWuKQeyfnue9ayYNTzqxXvv2DK4bBj8Wbonk",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "BTC2",
+    "decimals": 6,
+    "name": "Bitcoin 2.0",
+    "coingeckoId": "bitcoin-2-0-3",
+    "mintAddress": "78KiD7Y4rWuKQeyfnue9ayYNTzqxXvv2DK4bBj8Wbonk"
+  },
+  {
     "id": "solana-mainnet:sol-spl:791hZNiCJy1qGSGzAvqUU8X6gejiBJ2mBV8JjYoVnzBR",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -20468,6 +20479,17 @@
     "name": "XerisCoin",
     "coingeckoId": "xeriscoin",
     "mintAddress": "9ezFthWrDUpSSeMdpLW6SDD9TJigHdc4AuQ5QN5bpump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:9f52wiW2zrt2497HroMHtZtuj7VzWu4AsEusmW3pump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "$NRG",
+    "decimals": 6,
+    "name": "Energy",
+    "coingeckoId": "energy-2",
+    "mintAddress": "9f52wiW2zrt2497HroMHtZtuj7VzWu4AsEusmW3pump"
   },
   {
     "id": "solana-mainnet:sol-spl:9F6VbPeM8xR9Nkntyjp5nPY52w9YG9331bLuyhe3pump",
@@ -41225,6 +41247,17 @@
     "name": "PoPi 4i",
     "coingeckoId": "popi-4i",
     "mintAddress": "FySqgkyoZXVYbtFM2DHSjzSHj8e2h1TcguGeiPDboop"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FYt532fCsCuoHd9aaX5QN7pZLUTiSXwEjhBmZijgBAGS",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "SEED",
+    "decimals": 9,
+    "name": "SEEDLESS WALLET",
+    "coingeckoId": "seedless-wallet",
+    "mintAddress": "FYt532fCsCuoHd9aaX5QN7pZLUTiSXwEjhBmZijgBAGS"
   },
   {
     "id": "solana-mainnet:sol-spl:FyyDnWQUAcGoJ4L7ab9P7VUFmT3Bs2ggW2DSJz5cpump",

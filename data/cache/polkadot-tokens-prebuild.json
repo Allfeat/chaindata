@@ -1360,7 +1360,7 @@
     "type": "substrate-tokens",
     "symbol": "TNKR",
     "decimals": 12,
-    "name": "Tinkernet",
+    "name": "TNKR",
     "coingeckoId": "tinkernet",
     "isDefault": true,
     "onChainId": 6,

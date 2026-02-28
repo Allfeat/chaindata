@@ -25931,6 +25931,10 @@
           "coingeckoId": "bubb"
         },
         {
+          "contractAddress": "0xa2320fff1069ed5b4b02ddb386823e837a7e7777",
+          "coingeckoId": "bubbleflap"
+        },
+        {
           "contractAddress": "0x7d814b9ed370ec0a502edc3267393bf62d891b62",
           "coingeckoId": "bubblemaps"
         },
@@ -71686,6 +71690,10 @@
           "coingeckoId": "meeds-dao"
         },
         {
+          "contractAddress": "0x6e02f4a1631379a49e8b7e222cfa6bf913b05e89",
+          "coingeckoId": "megprime"
+        },
+        {
           "contractAddress": "0x91b518dfbefe614aa14f38a6bc02c7d22d6210cd",
           "coingeckoId": "mello-ai"
         },
@@ -85580,6 +85588,10 @@
         {
           "contractAddress": "0x63db244bc895b3accec6698ce11b0dbd1d3e1c44",
           "coingeckoId": "trust-ai"
+        },
+        {
+          "contractAddress": "0xb14448b48452d7ba076abeb3c505fc044deaf4e9",
+          "coingeckoId": "unbound-science"
         },
         {
           "contractAddress": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",

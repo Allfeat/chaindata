@@ -76323,6 +76323,13 @@
     "isValid": true
   },
   {
+    "id": "42161:evm-erc20:0xb14448b48452d7ba076abeb3c505fc044deaf4e9",
+    "isValid": true,
+    "symbol": "UNITE",
+    "decimals": 4,
+    "name": "UNITE"
+  },
+  {
     "id": "42161:evm-erc20:0xb1bc21f748ae2be95674876710bc6d78235480e0",
     "symbol": "HORD",
     "decimals": 18,
@@ -103898,6 +103905,13 @@
     "name": "OPEN"
   },
   {
+    "id": "56:evm-erc20:0xa2320fff1069ed5b4b02ddb386823e837a7e7777",
+    "isValid": true,
+    "symbol": "BFLAP",
+    "decimals": 18,
+    "name": "BubbleFlap"
+  },
+  {
     "id": "56:evm-erc20:0xa24259b154f6199f881c99fca26d7b3e8f8f2711",
     "symbol": "GTTM",
     "decimals": 18,
@@ -126867,6 +126881,13 @@
     "symbol": "SOLVR",
     "decimals": 18,
     "name": "SOLVR"
+  },
+  {
+    "id": "8453:evm-erc20:0x6e02f4a1631379a49e8b7e222cfa6bf913b05e89",
+    "isValid": true,
+    "symbol": "MPP",
+    "decimals": 18,
+    "name": "MegPrime Token"
   },
   {
     "id": "8453:evm-erc20:0x6e1e7f52a9178fa1e9c58810b97d5eb6a8d31198",
