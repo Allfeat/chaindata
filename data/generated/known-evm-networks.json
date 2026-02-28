@@ -30803,6 +30803,10 @@
           "coingeckoId": "lnkd-networks"
         },
         {
+          "contractAddress": "0xeccbb861c0dda7efd964010085488b69317e4444",
+          "coingeckoId": "lobster-2"
+        },
+        {
           "contractAddress": "0xd09f7b75b9659b864c6f82bb00ff096f9d277998",
           "coingeckoId": "lockheed-ondo-tokenized-stock"
         },
@@ -71968,6 +71972,10 @@
         {
           "contractAddress": "0x92b5fea742ecfd24f1ef41f35497373363599b07",
           "coingeckoId": "molt-doge"
+        },
+        {
+          "contractAddress": "0x88a082df256da966170689e10782b2851402eb07",
+          "coingeckoId": "molt-domains"
         },
         {
           "contractAddress": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",

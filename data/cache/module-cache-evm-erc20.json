@@ -112118,6 +112118,13 @@
     "name": "Toyota (Ondo Tokenized)"
   },
   {
+    "id": "56:evm-erc20:0xeccbb861c0dda7efd964010085488b69317e4444",
+    "isValid": true,
+    "symbol": "龙虾",
+    "decimals": 18,
+    "name": "龙虾"
+  },
+  {
     "id": "56:evm-erc20:0xecd042fe089473194dce264a4686298003fc173e",
     "symbol": "Optimus Elon AI",
     "decimals": 9,
@@ -128407,6 +128414,13 @@
     "decimals": 18,
     "name": "Slap",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x88a082df256da966170689e10782b2851402eb07",
+    "isValid": true,
+    "symbol": "MOLTD",
+    "decimals": 18,
+    "name": "Molt domains"
   },
   {
     "id": "8453:evm-erc20:0x88a78c5035bdc8c9a8bb5c029e6cfcdd14b822fe",
