@@ -12927,6 +12927,10 @@
     "name": "Wojak"
   },
   {
+    "id": "solana-mainnet:sol-spl:7opAGer4hk78N7VtYjk2bVif6SzvPkBm8PzQAvzspump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:7otQqMyZrVLfVg3nf6BdxZLDL52q2A1e97H3GCi1daos",
     "isValid": false
   },
@@ -20241,6 +20245,10 @@
     "symbol": "opan",
     "decimals": 6,
     "name": "Opanarchy"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:AnvacL8c4PDLyrQ92bbhfxMYtnckRja3dj6p6Yzepump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:AnXE9mZYWReqBw4v5HrY2S2utt42uEtcBGmuCXASvRAi",
