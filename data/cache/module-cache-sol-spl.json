@@ -12916,6 +12916,10 @@
     "name": "Central African Republic Meme"
   },
   {
+    "id": "solana-mainnet:sol-spl:7okHmAi1re834jSp2kAdduML9a1RfZ5fQJfQ878k8y7g",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:7okPYisaUFvpTKu96KJcPLLwGB9ZyCZJjxyKr8CdEooM",
     "isValid": true,
     "symbol": "BBEER",
@@ -13664,6 +13668,13 @@
     "symbol": "SACHI",
     "decimals": 6,
     "name": "Sachicoin"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7Y6Rix8X2botuMaJ2mno4UqSWdQZqU4RezY6qp7zpump",
+    "isValid": true,
+    "symbol": "BOLT",
+    "decimals": 6,
+    "name": "Groks Dog"
   },
   {
     "id": "solana-mainnet:sol-spl:7YbHBageaxpyR8jBFtzCqofTetZkZjouQPhgVPKJ8Fwx",
@@ -16091,6 +16102,10 @@
     "symbol": "SDOGE",
     "decimals": 0,
     "name": "SolDoge"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:8yXrtJ54jZtE84xEBzTESKuegjcAkAuDrdAhRd8i8n3T",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:8YYrkf1hvL5aCacfLXDvhVfjWZ7ce5NdVt4iLPxYsmdh",
@@ -18769,6 +18784,13 @@
   {
     "id": "solana-mainnet:sol-spl:A3HyGZqe451CBesNqieNPfJ4A9Mu332ui8ni6dobVSLB",
     "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:A3t817aK6XkhqQA148bjXKWJMhBmP9t2d9caWvQNaHQR",
+    "isValid": true,
+    "symbol": "CHURRO",
+    "decimals": 6,
+    "name": "CHURRO"
   },
   {
     "id": "solana-mainnet:sol-spl:a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump",

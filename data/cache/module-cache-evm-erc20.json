@@ -16576,6 +16576,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x609e79a9fb9a71655b017f637a962b9962f4a9fc",
+    "isValid": true,
+    "symbol": "OXN",
+    "decimals": 18,
+    "name": "Orexn"
+  },
+  {
     "id": "1:evm-erc20:0x60ae7d760a1c7b528c0384bc945fadf1438f47a5",
     "isValid": true,
     "symbol": "BTGOx",
@@ -97258,6 +97265,13 @@
     "name": "Zama"
   },
   {
+    "id": "56:evm-erc20:0x69395fceca0d6b6529216df1fec8f3e7f25f7777",
+    "isValid": true,
+    "symbol": "蝴蝶金库",
+    "decimals": 18,
+    "name": "FlapVault"
+  },
+  {
     "id": "56:evm-erc20:0x694c0ac0f5bf9acda2ca81bcc0f212fa33f8350f",
     "isValid": true,
     "symbol": "ARTHUR",
@@ -129298,6 +129312,13 @@
     "name": "Staked Sherpa USD"
   },
   {
+    "id": "8453:evm-erc20:0x963e83082e0500ce5da98c78e79a49c09084bb07",
+    "isValid": true,
+    "symbol": "CLAWDVINE",
+    "decimals": 18,
+    "name": "ClawdVine"
+  },
+  {
     "id": "8453:evm-erc20:0x96419929d7949d6a801a6909c145c8eef6a40431",
     "symbol": "SPEC",
     "decimals": 18,
@@ -130248,6 +130269,13 @@
     "symbol": "RNBW",
     "decimals": 18,
     "name": "Rainbow"
+  },
+  {
+    "id": "8453:evm-erc20:0xa601877977340862ca67f816eb079958e5bd0ba3",
+    "isValid": true,
+    "symbol": "BOTCOIN",
+    "decimals": 18,
+    "name": "BOTCOIN"
   },
   {
     "id": "8453:evm-erc20:0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",

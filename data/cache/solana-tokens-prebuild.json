@@ -16334,6 +16334,17 @@
     "mintAddress": "7Y2TPeq3hqw21LRTCi4wBWoivDngCpNNJsN1hzhZpump"
   },
   {
+    "id": "solana-mainnet:sol-spl:7Y6Rix8X2botuMaJ2mno4UqSWdQZqU4RezY6qp7zpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "BOLT",
+    "decimals": 6,
+    "name": "Groks Dog",
+    "coingeckoId": "groks-dog",
+    "mintAddress": "7Y6Rix8X2botuMaJ2mno4UqSWdQZqU4RezY6qp7zpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:7ybKUMNTuK9it2mFd7y5P4RMk7dUU3EqSffRm24Vpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -22668,6 +22679,17 @@
     "name": "🫕 Fondue Coin",
     "coingeckoId": "fondue-coin",
     "mintAddress": "A3GCAAwFxAUgx97j9uw8Vkf8MaFqUut2tsyAXq9Cpump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:A3t817aK6XkhqQA148bjXKWJMhBmP9t2d9caWvQNaHQR",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "CHURRO",
+    "decimals": 6,
+    "name": "Churro",
+    "coingeckoId": "churro",
+    "mintAddress": "A3t817aK6XkhqQA148bjXKWJMhBmP9t2d9caWvQNaHQR"
   },
   {
     "id": "solana-mainnet:sol-spl:a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump",
