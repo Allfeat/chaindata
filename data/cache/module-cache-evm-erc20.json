@@ -92046,6 +92046,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x3e17ee3b1895dd1a7cf993a89769c5e029584444",
+    "isValid": true,
+    "symbol": "Freedom of Money",
+    "decimals": 18,
+    "name": "Freedom of Money"
+  },
+  {
     "id": "56:evm-erc20:0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757",
     "symbol": "Forky",
     "decimals": 18,
@@ -121041,6 +121048,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x1903160806e9ec3c77e31c6821ff8592dee9963c",
+    "isValid": true,
+    "symbol": "CHARLES",
+    "decimals": 18,
+    "name": "Charles AI by Virtuals"
+  },
+  {
     "id": "8453:evm-erc20:0x1925450f5e5fb974b0aae1f3408cf5286fbd1a72",
     "isValid": true,
     "symbol": "YO",
@@ -128463,6 +128477,13 @@
     "symbol": "waBasGHO",
     "decimals": 18,
     "name": "Wrapped Aave Base GHO"
+  },
+  {
+    "id": "8453:evm-erc20:0x88bc71cba9330b39c5091ec295247b6886bd4f4d",
+    "isValid": true,
+    "symbol": "$SNG",
+    "decimals": 18,
+    "name": "$SNG"
   },
   {
     "id": "8453:evm-erc20:0x88c23896a91e7f21cba56f4090193730630d5f04",
