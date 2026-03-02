@@ -24430,6 +24430,17 @@
     "mintAddress": "AnXE9mZYWReqBw4v5HrY2S2utt42uEtcBGmuCXASvRAi"
   },
   {
+    "id": "solana-mainnet:sol-spl:AoR5LncBpmpv6WwxCqiEM96Z9Lwiim2bSAyZAHt9MudA",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "AOR",
+    "decimals": 6,
+    "name": "American Oil Reserve",
+    "coingeckoId": "american-oil-reserve",
+    "mintAddress": "AoR5LncBpmpv6WwxCqiEM96Z9Lwiim2bSAyZAHt9MudA"
+  },
+  {
     "id": "solana-mainnet:sol-spl:APBcWeYBwkBPMtyEj1QGy1AFzEqnYcQcVYCQofjwpump",
     "platform": "solana",
     "networkId": "solana-mainnet",

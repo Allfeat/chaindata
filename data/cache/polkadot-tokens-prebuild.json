@@ -4681,10 +4681,10 @@
     "type": "substrate-dtao",
     "symbol": "ई",
     "decimals": 9,
-    "name": "SN278 | CookingTao ई",
+    "name": "SN278 | Subnet 278 ई",
     "isDefault": true,
     "netuid": 278,
-    "subnetName": "CookingTao",
+    "subnetName": "Subnet 278",
     "isTransferable": true
   },
   {

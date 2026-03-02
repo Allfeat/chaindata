@@ -20310,6 +20310,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:AoR5LncBpmpv6WwxCqiEM96Z9Lwiim2bSAyZAHt9MudA",
+    "isValid": true,
+    "symbol": "AOR",
+    "decimals": 6,
+    "name": "American Oil Reserve"
+  },
+  {
     "id": "solana-mainnet:sol-spl:APBcWeYBwkBPMtyEj1QGy1AFzEqnYcQcVYCQofjwpump",
     "isValid": true,
     "symbol": "ECO",
