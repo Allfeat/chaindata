@@ -19449,6 +19449,10 @@
     "name": "Infinite Games"
   },
   {
+    "id": "solana-mainnet:sol-spl:AdsT8339RRmJbYCJo6d75cAbTguC7yMk4pft4e19pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:ADVgDMbbn6LZTdo84UDAgCUew2JMMHe6BnH3KNN3qiLb",
     "isValid": true,
     "symbol": "PZP",
@@ -20749,6 +20753,10 @@
     "symbol": "wSN48",
     "decimals": 9,
     "name": "NextPlace"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:atVjZ7uM8sVrLFi5Xe1JiLGW6mW9pvQdTCWzhNFpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:AtVzTp2yyhrb6aS3a2rJkD1a7oKKcp851PJYJkuhpump",
@@ -27983,6 +27991,13 @@
     "symbol": "$jacky",
     "decimals": 9,
     "name": "jacky"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:DKqgMMtEiAMXR8iz4tpVXgnmL8Bgzbu4XPyUrZWrpump",
+    "isValid": true,
+    "symbol": "ruck",
+    "decimals": 6,
+    "name": "ruck"
   },
   {
     "id": "solana-mainnet:sol-spl:DKtX6xzAjzkUFmXF9ewTARSsmjR57CisFqM8QmPQMtxH",
@@ -39311,6 +39326,13 @@
     "symbol": "MOLT",
     "decimals": 6,
     "name": "Monkey Cult"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:HYnsveQmKoG3qPhWypcgx938widsvJ9BECd9xzmKpump",
+    "isValid": true,
+    "symbol": "ENTRO",
+    "decimals": 6,
+    "name": "Entro Finance"
   },
   {
     "id": "solana-mainnet:sol-spl:HysNUGUyrapf4A9AtkDz2JaAHCQKmv3rsGV41mdVpump",

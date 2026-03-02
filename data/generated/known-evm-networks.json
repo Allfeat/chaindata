@@ -47218,7 +47218,12 @@
       "coingeckoId": "hedera-hashgraph"
     },
     "blockExplorerUrls": ["https://explorer.arkhia.io"],
-    "rpcs": ["https://hedera.linkpool.pro", "https://295.rpc.thirdweb.com", "https://mainnet.hashio.io/api"],
+    "rpcs": [
+      "https://mainnet.hedera.api.hgraph.io/rpc",
+      "https://hedera.linkpool.pro",
+      "https://295.rpc.thirdweb.com",
+      "https://mainnet.hashio.io/api"
+    ],
     "tokens": {
       "evm-erc20": [
         {
@@ -47391,6 +47396,7 @@
     "rpcs": [
       "https://endpoints.omniatech.io/v1/zksync-era/sepolia/public",
       "https://rpc.ankr.com/zksync_era_sepolia",
+      "https://zksync-sepolia.api.onfinality.io/public",
       "https://sepolia.era.zksync.dev",
       "https://zksync-sepolia.drpc.org"
     ],
@@ -55129,6 +55135,18 @@
     "shortName": "ELY"
   },
   {
+    "id": "1342",
+    "name": "BIE",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "BIE",
+      "name": "BIE"
+    },
+    "blockExplorerUrls": ["https://app.bie.ai/explorer"],
+    "rpcs": ["https://rpc.bie.ai", "https://api.bie.ai"],
+    "shortName": "bie"
+  },
+  {
     "id": "1343",
     "name": "Blitz Subnet",
     "nativeCurrency": {
@@ -60009,20 +60027,6 @@
     "rpcs": ["https://aarmarpc.com"],
     "icon": "arma",
     "shortName": "ARMA"
-  },
-  {
-    "id": "2892",
-    "isTestnet": true,
-    "name": "Alpen Testnet",
-    "nativeCurrency": {
-      "decimals": 8,
-      "symbol": "sBTC",
-      "name": "Signet BTC"
-    },
-    "blockExplorerUrls": ["https://explorer.testnet.alpenlabs.io"],
-    "rpcs": ["https://rpc.testnet.alpenlabs.io"],
-    "icon": "https://avatars.githubusercontent.com/u/113091135",
-    "shortName": "alpen"
   },
   {
     "id": "2907",
@@ -66197,6 +66201,19 @@
     "rpcs": ["https://rpc-forknet.t.conduit.xyz"],
     "icon": "forknet",
     "shortName": "forknet"
+  },
+  {
+    "id": "8379",
+    "name": "Bery",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "BRY",
+      "name": "BRY"
+    },
+    "blockExplorerUrls": ["https://bery.in/explorer"],
+    "rpcs": ["https://bery.in/rpc"],
+    "shortName": "bry",
+    "chainSlug": "bery"
   },
   {
     "id": "8387",
@@ -78253,6 +78270,19 @@
     "shortName": "PDA-TESTNET"
   },
   {
+    "id": "12786",
+    "name": "BrickChain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "BRKG",
+      "name": "Brick Gas"
+    },
+    "blockExplorerUrls": ["https://explorer.firstbrick.cloud"],
+    "rpcs": ["https://rpc.firstbrick.cloud"],
+    "icon": "brickchain",
+    "shortName": "brick"
+  },
+  {
     "id": "12865",
     "isTestnet": true,
     "name": "Liberland testnet",
@@ -81579,6 +81609,20 @@
     "shortName": "q-testnet"
   },
   {
+    "id": "35935",
+    "isTestnet": true,
+    "name": "Tractsafe Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "TRCT",
+      "name": "Tractsafe"
+    },
+    "blockExplorerUrls": ["https://testnet.tractsafe.com"],
+    "rpcs": ["https://tapi.tractsafe.com"],
+    "icon": "tractsafe",
+    "shortName": "trct"
+  },
+  {
     "id": "36888",
     "name": "AB Core Mainnet",
     "nativeCurrency": {
@@ -81668,6 +81712,19 @@
     "rpcs": ["https://robin-cm.rangersprotocol.com/api/jsonrpc"],
     "icon": "rangers",
     "shortName": "ttrpg"
+  },
+  {
+    "id": "38833",
+    "name": "Igra Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "IKAS",
+      "name": "IKas"
+    },
+    "blockExplorerUrls": ["https://explorer.igralabs.com"],
+    "rpcs": ["https://rpc.igralabs.com:8545"],
+    "icon": "https://ipfs.io/ipfs/bafkreigamdso3uh3pabmjoci7yyomvrhg2ynocp6fbagbaufsu7wzkaahy",
+    "shortName": "igra"
   },
   {
     "id": "39656",
@@ -94399,6 +94456,19 @@
     "shortName": "ELt"
   },
   {
+    "id": "99566",
+    "name": "Tractsafe Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "TRCT",
+      "name": "Tractsafe"
+    },
+    "blockExplorerUrls": ["https://explorer.tractsafe.com"],
+    "rpcs": ["https://xapi.tractsafe.com"],
+    "icon": "tractsafe",
+    "shortName": "trct"
+  },
+  {
     "id": "99876",
     "isTestnet": true,
     "name": "Edge Matrix Chain Testnet",
@@ -94958,7 +95028,11 @@
       "name": "Mars Credit"
     },
     "blockExplorerUrls": [],
-    "rpcs": ["https://node99-production-dd5f.up.railway.app", "https://rpc.marscredit.xyz"],
+    "rpcs": [
+      "https://rpc.marscredit.xyz",
+      "https://node99-production-dd5f.up.railway.app",
+      "https://rpc.marscredit.xyz"
+    ],
     "icon": "marscredit",
     "shortName": "mars"
   },
@@ -99073,6 +99147,19 @@
     "shortName": "tTSC"
   },
   {
+    "id": "824642",
+    "isTestnet": true,
+    "name": "ZugChain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "ZUG",
+      "name": "ZUG"
+    },
+    "blockExplorerUrls": ["https://explorer.zugchain.org"],
+    "rpcs": ["https://rpc.zugchain.org"],
+    "shortName": "zug"
+  },
+  {
     "id": "827431",
     "name": "CURVE Mainnet",
     "nativeCurrency": {
@@ -102754,6 +102841,19 @@
     "rpcs": ["https://rpc-0x4e454165.aurora-cloud.dev"],
     "icon": "tuxa",
     "shortName": "tuxa"
+  },
+  {
+    "id": "1313161916",
+    "name": "Omega Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "symbol": "OMEGA",
+      "name": "Omega"
+    },
+    "blockExplorerUrls": ["https://0x4e4542bc.explorer.aurora-cloud.dev/"],
+    "rpcs": ["https://0x4e4542bc.rpc.aurora-cloud.dev"],
+    "icon": "omega",
+    "shortName": "omega"
   },
   {
     "id": "1350216234",

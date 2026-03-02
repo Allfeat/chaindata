@@ -33560,6 +33560,17 @@
     "mintAddress": "DKnXmFGBcpYEnPsoHLrdj5cbZdEq9DV9z6bVfYrrDEBE"
   },
   {
+    "id": "solana-mainnet:sol-spl:DKqgMMtEiAMXR8iz4tpVXgnmL8Bgzbu4XPyUrZWrpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "ruck",
+    "decimals": 6,
+    "name": "ruck",
+    "coingeckoId": "ruck",
+    "mintAddress": "DKqgMMtEiAMXR8iz4tpVXgnmL8Bgzbu4XPyUrZWrpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -47264,6 +47275,17 @@
     "name": "Monkey Cult",
     "coingeckoId": "monkey-cult",
     "mintAddress": "HyLXondhNhGkvWPXr8z4EPSgZNRRs4j8BHdyqMdVpump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:HYnsveQmKoG3qPhWypcgx938widsvJ9BECd9xzmKpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "ENTRO",
+    "decimals": 6,
+    "name": "Entro Finance",
+    "coingeckoId": "entro-finance",
+    "mintAddress": "HYnsveQmKoG3qPhWypcgx938widsvJ9BECd9xzmKpump"
   },
   {
     "id": "solana-mainnet:sol-spl:HysNUGUyrapf4A9AtkDz2JaAHCQKmv3rsGV41mdVpump",

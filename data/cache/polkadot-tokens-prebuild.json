@@ -4746,10 +4746,10 @@
     "type": "substrate-dtao",
     "symbol": "ए",
     "decimals": 9,
-    "name": "SN282 | Subnet 282 ए",
+    "name": "SN282 | Reddevil-Shelter ए",
     "isDefault": true,
     "netuid": 282,
-    "subnetName": "Subnet 282",
+    "subnetName": "Reddevil-Shelter",
     "isTransferable": true
   },
   {
