@@ -87449,6 +87449,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x1382992c4f997a21256be58dc546e9937a5f7777",
+    "isValid": true,
+    "symbol": "BURN",
+    "decimals": 18,
+    "name": "Burn Reward Systeam"
+  },
+  {
     "id": "56:evm-erc20:0x1384555d00144c7725ac71da2bb1fd67b9ad889a",
     "symbol": "Dsun",
     "decimals": 18,
@@ -91582,6 +91589,13 @@
     "symbol": "AVGOx",
     "decimals": 18,
     "name": "Broadcom xStock"
+  },
+  {
+    "id": "56:evm-erc20:0x38c4b187834f6351c5e523182f23ed64adf9ffff",
+    "isValid": true,
+    "symbol": "Ensoul",
+    "decimals": 18,
+    "name": "Ensoul"
   },
   {
     "id": "56:evm-erc20:0x38e382f74dfb84608f3c1f10187f6bef5951de93",

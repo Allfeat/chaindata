@@ -25999,6 +25999,10 @@
           "coingeckoId": "burnedfi"
         },
         {
+          "contractAddress": "0x1382992c4f997a21256be58dc546e9937a5f7777",
+          "coingeckoId": "burn-reward-systeam"
+        },
+        {
           "contractAddress": "0x6c104b6b8f61236fda2b751ccdebcc00a11c7777",
           "coingeckoId": "butterfly-miracle"
         },
@@ -27993,6 +27997,10 @@
         {
           "contractAddress": "0xfeb339236d25d3e415f280189bc7c2fbab6ae9ef",
           "coingeckoId": "enso"
+        },
+        {
+          "contractAddress": "0x38c4b187834f6351c5e523182f23ed64adf9ffff",
+          "coingeckoId": "ensoul"
         },
         {
           "contractAddress": "0xd6b8e4f8c9f4694ae8e2a9565f7e039307e98b34",
