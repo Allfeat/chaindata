@@ -1335,6 +1335,13 @@
     "name": "WAR OF MEME"
   },
   {
+    "id": "solana-mainnet:sol-spl:2jUSPvEuxSxJ6nGpUHyXVAcNxyhugPC1iBeNjhTXzAUy",
+    "isValid": true,
+    "symbol": "CNS",
+    "decimals": 8,
+    "name": "Centric SWAP"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2jvsWRkT17ofmv9pkW7ofqAFWSCNyJYdykJ7kPKbmoon",
     "isValid": true,
     "symbol": "AIR3",

@@ -26631,6 +26631,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x98a878b1cd98131b271883b390f68d2c90674665",
+    "isValid": true,
+    "symbol": "apxUSD",
+    "decimals": 18,
+    "name": "apxUSD"
+  },
+  {
     "id": "1:evm-erc20:0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
     "symbol": "aEthUSDC",
     "decimals": 6,
