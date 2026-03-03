@@ -50306,6 +50306,13 @@
     "isValid": true
   },
   {
+    "id": "137:evm-erc20:0x070c3e8a408bbacc61f40ef023d30e173f268f5e",
+    "isValid": true,
+    "symbol": "GMTO",
+    "decimals": 18,
+    "name": "GameMeteorCoin"
+  },
+  {
     "id": "137:evm-erc20:0x071ac29d569a47ebffb9e57517f855cb577dcc4c",
     "symbol": "GFC",
     "decimals": 18,
@@ -123577,6 +123584,13 @@
     "decimals": 18,
     "name": "Mamba",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x3b1228c3ede7e0898d57054cd9b8f812d24315c1",
+    "isValid": true,
+    "symbol": "BRITT",
+    "decimals": 9,
+    "name": "Britt"
   },
   {
     "id": "8453:evm-erc20:0x3b313f5615bbd6b200c71f84ec2f677b94df8674",

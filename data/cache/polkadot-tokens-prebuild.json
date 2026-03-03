@@ -4967,10 +4967,10 @@
     "type": "substrate-dtao",
     "symbol": "ड",
     "decimals": 9,
-    "name": "SN298 | habibi ड",
+    "name": "SN298 | chronoseek ड",
     "isDefault": true,
     "netuid": 298,
-    "subnetName": "habibi",
+    "subnetName": "chronoseek",
     "isTransferable": true
   },
   {
