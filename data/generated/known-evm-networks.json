@@ -827,6 +827,10 @@
           "coingeckoId": "aicm-marketplace"
         },
         {
+          "contractAddress": "0x9f4acbb0617b4f2c6b92806b92348955c9a55a58",
+          "coingeckoId": "aicre8"
+        },
+        {
           "contractAddress": "0xe2432110c32d0717e33c245fe0cfa2b26c07f47a",
           "coingeckoId": "aigentx"
         },
@@ -2709,6 +2713,10 @@
         {
           "contractAddress": "0xc669928185dbce49d2230cc9b0979be6dc797957",
           "coingeckoId": "bittorrent"
+        },
+        {
+          "contractAddress": "0x3a63de3572c69a1307ff08394f3ee7702c16d25d",
+          "coingeckoId": "bitway"
         },
         {
           "contractAddress": "0xbf5ce69a0e7a078675741723f770ae820716e298",
@@ -15883,7 +15891,7 @@
           "coingeckoId": "shib-original-vision"
         },
         {
-          "contractAddress": "0xe2512a2f19f0388ad3d7a5263eaa82acd564827b",
+          "contractAddress": "0x0e173Bfd28eF21bc460718bcd9b610b7Fcd7F041",
           "coingeckoId": "shido-2"
         },
         {
@@ -23707,6 +23715,10 @@
           "coingeckoId": "ai-companions"
         },
         {
+          "contractAddress": "0x9f4acbb0617b4f2c6b92806b92348955c9a55a58",
+          "coingeckoId": "aicre8"
+        },
+        {
           "contractAddress": "0xaa9f209c295437c31bde75eee1aa8453f2acabcd",
           "coingeckoId": "aid"
         },
@@ -25385,6 +25397,10 @@
         {
           "contractAddress": "0x8595f9da7b868b1822194faed312235e43007b49",
           "coingeckoId": "bittorrent-old"
+        },
+        {
+          "contractAddress": "0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+          "coingeckoId": "bitway"
         },
         {
           "contractAddress": "0x9cc484ded7a7851a03f05a03e8d19eb5f5a73f20",
@@ -33611,6 +33627,10 @@
           "coingeckoId": "realm"
         },
         {
+          "contractAddress": "0x2454c09a8bd1e0dd77781139e345bc03af3a1504",
+          "coingeckoId": "real-smurf-cat-bsc"
+        },
+        {
           "contractAddress": "0xbb1861068fca591bd3009a1d3b7f985f3a6400f8",
           "coingeckoId": "realvirm"
         },
@@ -36239,6 +36259,10 @@
           "coingeckoId": "verizon-ondo-tokenized"
         },
         {
+          "contractAddress": "0x167315be60caafde69183d35b3f1501ea5677777",
+          "coingeckoId": "vertex-privacy"
+        },
+        {
           "contractAddress": "0x9cea8a7be1ab0320b709d368ad60d8500f55995f",
           "coingeckoId": "vertiv-ondo-tokenized"
         },
@@ -36693,6 +36717,10 @@
         {
           "contractAddress": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
           "coingeckoId": "wowswap"
+        },
+        {
+          "contractAddress": "0x775acf0fae2b97789ea58e775789925ade06b867",
+          "coingeckoId": "wqie"
         },
         {
           "contractAddress": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
@@ -40827,6 +40855,10 @@
           "coingeckoId": "etherfuse-ktb"
         },
         {
+          "contractAddress": "0xd574b191b5a00262ff19953d3ce25543ab7c8098",
+          "coingeckoId": "etherfuse-tesouro"
+        },
+        {
           "contractAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
           "coingeckoId": "ethermon"
         },
@@ -43444,6 +43476,10 @@
           "coingeckoId": "bridged-nxpc"
         },
         {
+          "contractAddress": "0x834df4c1d8f51be24322e39e4766697be015512f",
+          "coingeckoId": "cetes"
+        },
+        {
           "contractAddress": "0x6fe981dbd557f81ff66836af0932cba535cbc343",
           "coingeckoId": "chainlink"
         },
@@ -43466,6 +43502,10 @@
         {
           "contractAddress": "0xe9c082921dc3564e10196c5cc15db1250ac7d5c6",
           "coingeckoId": "etherfuse-ktb"
+        },
+        {
+          "contractAddress": "0x7a9990ffe3057edc18558ca4c8804430fe917456",
+          "coingeckoId": "etherfuse-tesouro"
         },
         {
           "contractAddress": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
@@ -43498,6 +43538,10 @@
         {
           "contractAddress": "0x123468b48eadbc13c65cd9c66a9913cde4e94321",
           "coingeckoId": "long-3"
+        },
+        {
+          "contractAddress": "0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+          "coingeckoId": "magma-staked-monad"
         },
         {
           "contractAddress": "0x1c8ee940b654bfced403f2a44c1603d5be0f50fa",
@@ -52059,6 +52103,10 @@
         {
           "contractAddress": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
           "coingeckoId": "hyperbeat-x-ether-fi-hype"
+        },
+        {
+          "contractAddress": "0xbd6dab50f03a305a80037294fa8d1a9dc0cac91b",
+          "coingeckoId": "hyperlend"
         },
         {
           "contractAddress": "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5",
@@ -66492,6 +66540,14 @@
           "coingeckoId": "aibrk"
         },
         {
+          "contractAddress": "0x49bfa462ef61aea99eed375e35784dfd1360aba3",
+          "coingeckoId": "aicolabs"
+        },
+        {
+          "contractAddress": "0xc64ffad34ce96d5ee8585cfee7eef619463e3d6e",
+          "coingeckoId": "aicre8"
+        },
+        {
           "contractAddress": "0x20ef84969f6d81ff74ae4591c331858b20ad82cd",
           "coingeckoId": "aicrostrategy"
         },
@@ -68512,6 +68568,10 @@
           "coingeckoId": "coinage"
         },
         {
+          "contractAddress": "0x5cda0e1ca4ce2af96315f7f8963c85399c172204",
+          "coingeckoId": "coinbase-global-inc-st0x"
+        },
+        {
           "contractAddress": "0xcbada732173e39521cdbe8bf59a6dc85a9fc7b8c",
           "coingeckoId": "coinbase-wrapped-ada"
         },
@@ -69686,6 +69746,10 @@
         {
           "contractAddress": "0x0f9b0468391cfa83160dae6b693df87df379bd06",
           "coingeckoId": "etherfuse-ktb"
+        },
+        {
+          "contractAddress": "0x7cee47e7b7cd04cf984e8dd86c42595b5771a9b2",
+          "coingeckoId": "etherfuse-tesouro"
         },
         {
           "contractAddress": "0xac86f3556cbd2b4d800d17adc3a266b500fcb9f5",
@@ -80332,6 +80396,14 @@
     },
     "blockExplorerUrls": ["https://horizen.calderaexplorer.xyz"],
     "rpcs": ["https://horizen.calderachain.xyz/http"],
+    "tokens": {
+      "evm-erc20": [
+        {
+          "contractAddress": "0x57da2d504bf8b83ef304759d9f2648522d7a9280",
+          "coingeckoId": "zencash"
+        }
+      ]
+    },
     "icon": "horizen",
     "shortName": "horizen"
   },

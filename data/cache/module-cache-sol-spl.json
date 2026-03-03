@@ -2867,6 +2867,10 @@
     "name": "GM"
   },
   {
+    "id": "solana-mainnet:sol-spl:3ADvYyTbmQcLMiqdFSo1m2KpQWxYg9X6wW4N8viRTNf9",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:3aEMpHgz1U1Eupqt1Tc5KMTLmVW7k1cVY4DQinSepump",
     "isValid": true,
     "symbol": "ORION",
@@ -10251,6 +10255,10 @@
     "symbol": "wSN55",
     "decimals": 9,
     "name": "Precog"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:6iA73gWCKkLWKbVr8rgibV57MMRxzsaqS9cWpgKBpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:6icM9VTZpbBxeLpBCHbSDtoYPmDmENpc8YkyKKWmnAKH",
@@ -30066,6 +30074,10 @@
     "name": "DWAIN"
   },
   {
+    "id": "solana-mainnet:sol-spl:EiUKEQXENExJjjuU2ZPVK3RgrJ1gDpaQb5w3UxAwpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:EiVMQrvdDYK77eK6N6cyh5sGBe5Y1MQWVA7YaURVpump",
     "isValid": true,
     "symbol": "AINTI",
@@ -32771,6 +32783,10 @@
     "symbol": "BLOP",
     "decimals": 6,
     "name": "BLOP"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FJPoRjKUkE4BP3cULAKiqztBjTxRG3qcRTV9SFf7pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:FJpuy1NFuAb4uqkBVYWzsc7gBC9iDj3QT5yaDSZdpump",

@@ -5357,10 +5357,10 @@
     "type": "substrate-dtao",
     "symbol": "カ",
     "decimals": 9,
-    "name": "SN324 | superdupernet カ",
+    "name": "SN324 | Hello World カ",
     "isDefault": true,
     "netuid": 324,
-    "subnetName": "superdupernet",
+    "subnetName": "Hello World",
     "isTransferable": true
   },
   {

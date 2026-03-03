@@ -2629,6 +2629,13 @@
     "name": "HONO V2"
   },
   {
+    "id": "1:evm-erc20:0x0e173bfd28ef21bc460718bcd9b610b7fcd7f041",
+    "isValid": true,
+    "symbol": "SHIDO",
+    "decimals": 18,
+    "name": "Shido"
+  },
+  {
     "id": "1:evm-erc20:0x0e186357c323c806c1efdad36d217f7a54b63d18",
     "symbol": "CGT2.0",
     "decimals": 18,
@@ -10081,6 +10088,13 @@
     "decimals": 18,
     "name": "FLIP Token",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x3a63de3572c69a1307ff08394f3ee7702c16d25d",
+    "isValid": true,
+    "symbol": "BTW",
+    "decimals": 18,
+    "name": "Bitway Token"
   },
   {
     "id": "1:evm-erc20:0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
@@ -27830,6 +27844,13 @@
     "decimals": 18,
     "name": "Guzzler",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x9f4acbb0617b4f2c6b92806b92348955c9a55a58",
+    "isValid": true,
+    "symbol": "AICRE8",
+    "decimals": 18,
+    "name": "AICre8"
   },
   {
     "id": "1:evm-erc20:0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
@@ -56561,6 +56582,13 @@
     "name": "Quantoz EURQ"
   },
   {
+    "id": "137:evm-erc20:0xd574b191b5a00262ff19953d3ce25543ab7c8098",
+    "isValid": true,
+    "symbol": "TESOURO",
+    "decimals": 6,
+    "name": "Etherfuse TESOURO"
+  },
+  {
     "id": "137:evm-erc20:0xd57f8b6f3e5d1e0ab85118f5e0dd893a08c43346",
     "symbol": "OSEA",
     "decimals": 18,
@@ -58351,11 +58379,32 @@
     "name": "USDC"
   },
   {
+    "id": "143:evm-erc20:0x7a9990ffe3057edc18558ca4c8804430fe917456",
+    "isValid": true,
+    "symbol": "TESOURO",
+    "decimals": 6,
+    "name": "Etherfuse TESOURO"
+  },
+  {
     "id": "143:evm-erc20:0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
     "isValid": true,
     "symbol": "GMONAD",
     "decimals": 18,
     "name": "GMONAD"
+  },
+  {
+    "id": "143:evm-erc20:0x834df4c1d8f51be24322e39e4766697be015512f",
+    "isValid": true,
+    "symbol": "CETES",
+    "decimals": 6,
+    "name": "Etherfuse CETES"
+  },
+  {
+    "id": "143:evm-erc20:0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081",
+    "isValid": true,
+    "symbol": "gMON",
+    "decimals": 18,
+    "name": "gMON"
   },
   {
     "id": "143:evm-erc20:0x85a0b9bda81a12c760e96497a5b7155dbf897a39",
@@ -66095,6 +66144,13 @@
     "symbol": "LINK",
     "decimals": 18,
     "name": "ChainLink Token"
+  },
+  {
+    "id": "26514:evm-erc20:0x57da2d504bf8b83ef304759d9f2648522d7a9280",
+    "isValid": true,
+    "symbol": "ZEN",
+    "decimals": 18,
+    "name": "Horizen"
   },
   {
     "id": "2741:evm-erc20:0x0035b877c3ab50cffa9ed52ba05282c7045f78dd",
@@ -87887,6 +87943,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x167315be60caafde69183d35b3f1501ea5677777",
+    "isValid": true,
+    "symbol": "VERTEX",
+    "decimals": 18,
+    "name": "Vertex Privacy"
+  },
+  {
     "id": "56:evm-erc20:0x167a6375da1efc4a5be0f470e73ecefd66245048",
     "isValid": true,
     "symbol": "UNHx",
@@ -89495,6 +89558,13 @@
     "decimals": 18,
     "name": "Deer Token",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x2454c09a8bd1e0dd77781139e345bc03af3a1504",
+    "isValid": true,
+    "symbol": "шайлушай",
+    "decimals": 18,
+    "name": "Real Smurf Cat"
   },
   {
     "id": "56:evm-erc20:0x2456493e757fdeedf569781f053998a72adfad03",
@@ -92748,6 +92818,13 @@
     "decimals": 18,
     "name": "Torum",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x444045b0ee1ee319a660a5e3d604ca0ffa35acaa",
+    "isValid": true,
+    "symbol": "BTW",
+    "decimals": 18,
+    "name": "Bitway Token"
   },
   {
     "id": "56:evm-erc20:0x44440f83419de123d7d411187adb9962db017d03",
@@ -98928,6 +99005,13 @@
     "name": "4nonSwap"
   },
   {
+    "id": "56:evm-erc20:0x775acf0fae2b97789ea58e775789925ade06b867",
+    "isValid": true,
+    "symbol": "WQIE",
+    "decimals": 18,
+    "name": "WQIE"
+  },
+  {
     "id": "56:evm-erc20:0x7765a659c5b0cfbfd9fbc2ef2298b75a598f2d2d",
     "isValid": true,
     "symbol": "ESIM",
@@ -103658,6 +103742,13 @@
     "decimals": 18,
     "name": "Acet Token",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x9f4acbb0617b4f2c6b92806b92348955c9a55a58",
+    "isValid": true,
+    "symbol": "AICRE8",
+    "decimals": 18,
+    "name": "AICre8"
   },
   {
     "id": "56:evm-erc20:0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
@@ -124531,6 +124622,13 @@
     "name": "AllUnity EUR"
   },
   {
+    "id": "8453:evm-erc20:0x49bfa462ef61aea99eed375e35784dfd1360aba3",
+    "isValid": true,
+    "symbol": "AICO",
+    "decimals": 18,
+    "name": "Aicolabs"
+  },
+  {
     "id": "8453:evm-erc20:0x49c86046903807d0a3193a221c1a3e1b1b6c9ba3",
     "symbol": "CYI",
     "decimals": 18,
@@ -125824,6 +125922,13 @@
     "symbol": "TRANSLATE",
     "decimals": 18,
     "name": "TRANSLATE"
+  },
+  {
+    "id": "8453:evm-erc20:0x5cda0e1ca4ce2af96315f7f8963c85399c172204",
+    "isValid": true,
+    "symbol": "wtCOIN",
+    "decimals": 18,
+    "name": "Wrapped Coinbase Global Inc ST0x"
   },
   {
     "id": "8453:evm-erc20:0x5d0dd05bb095fdd6af4865a1adf97c39c85ad2d8",
@@ -127791,6 +127896,13 @@
     "decimals": 18,
     "name": "MIA",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x7cee47e7b7cd04cf984e8dd86c42595b5771a9b2",
+    "isValid": true,
+    "symbol": "TESOURO",
+    "decimals": 6,
+    "name": "Etherfuse TESOURO"
   },
   {
     "id": "8453:evm-erc20:0x7cf7132ede0ca592a236b6198a681bb7b42dd5ae",
@@ -132671,6 +132783,13 @@
     "decimals": 18,
     "name": "Gyroscope",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xc64ffad34ce96d5ee8585cfee7eef619463e3d6e",
+    "isValid": true,
+    "symbol": "AICRE8",
+    "decimals": 18,
+    "name": "AICre8"
   },
   {
     "id": "8453:evm-erc20:0xc655c331d1aa7f96c252f1f40ce13d80eac53504",
@@ -139494,6 +139613,13 @@
     "symbol": "USD₮0",
     "decimals": 6,
     "name": "USD₮0"
+  },
+  {
+    "id": "999:evm-erc20:0xbd6dab50f03a305a80037294fa8d1a9dc0cac91b",
+    "isValid": true,
+    "symbol": "HPL",
+    "decimals": 18,
+    "name": "HyperLend"
   },
   {
     "id": "999:evm-erc20:0xbe65f0f410a72bec163dc65d46c83699e957d588",
