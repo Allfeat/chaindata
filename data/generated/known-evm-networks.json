@@ -23475,6 +23475,10 @@
           "coingeckoId": "4everland"
         },
         {
+          "contractAddress": "0xac927db34e4648781a32a9a4b673cee28c4ec4fe",
+          "coingeckoId": "4-next-unicorn"
+        },
+        {
           "contractAddress": "0x77374a4a55a9a15361d95edaaadba29eeee74444",
           "coingeckoId": "4nonswap"
         },
@@ -50068,6 +50072,10 @@
           "coingeckoId": "wrapped-astar"
         },
         {
+          "contractAddress": "0x37795fdd8c165cab4d6c05771d564d80439cd093",
+          "coingeckoId": "wrapped-astr"
+        },
+        {
           "contractAddress": "0x75364d4f779d0bd0facd9a218c67f87dd9aff3b4",
           "coingeckoId": "wrapped-shiden-network"
         },
@@ -70908,6 +70916,10 @@
           "coingeckoId": "jungle-bay-memes"
         },
         {
+          "contractAddress": "0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
+          "coingeckoId": "juno-agent"
+        },
+        {
           "contractAddress": "0xba5ed8a0e261bf2a5ad629d4d5de884ccbfdf3f7",
           "coingeckoId": "just-a-based-guy"
         },
@@ -73198,6 +73210,10 @@
         {
           "contractAddress": "0xe0023e73aab4fe9a22f059a9d27e857e027ee3dc",
           "coingeckoId": "rwax"
+        },
+        {
+          "contractAddress": "0x3597194c3b8a9481141fb9c628fc398c120a58a9",
+          "coingeckoId": "ryft"
         },
         {
           "contractAddress": "0xc33b0ba16875b94aaa55ae6c870cc01cd31501c2",

@@ -609,7 +609,7 @@
     "type": "substrate-psp22",
     "symbol": "PANX",
     "decimals": 12,
-    "name": "Panorama Swap Token",
+    "name": "PANX",
     "coingeckoId": "panorama-swap-token",
     "isDefault": true,
     "contractAddress": "5GSGAcvqpF5SuH2MhJ1YUdbLAbssCjeqCn2miMUCWUjnr5DQ"
