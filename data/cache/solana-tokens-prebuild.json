@@ -6181,6 +6181,17 @@
     "mintAddress": "4bXCaDUciWA5Qj1zmcZ9ryJsoqv4rahKD4r8zYYsbonk"
   },
   {
+    "id": "solana-mainnet:sol-spl:4c1HzBShCHc1EckQTVXZZ5feDCgkDweaw3t3JQQqpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "DiCaprio",
+    "decimals": 6,
+    "name": "ディカプリオ",
+    "coingeckoId": "dicaprio",
+    "mintAddress": "4c1HzBShCHc1EckQTVXZZ5feDCgkDweaw3t3JQQqpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:4c53VeEq8jVA9EoeGAz9tBC9hhNYHj5quwrMDqEiYxM3",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -7796,6 +7807,17 @@
     "name": "tired of it all",
     "coingeckoId": "tired-of-it-all",
     "mintAddress": "4WzLp3sV5uReVvxatfYmxoJWH7fY65QZBbcSAF76pump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:4xB2NGznSwQXAAjRsyAputhonM2uDD1FYwnGo92pdoge",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "BAKA",
+    "decimals": 9,
+    "name": "doge秽土转生版真名",
+    "coingeckoId": "doge-3",
+    "mintAddress": "4xB2NGznSwQXAAjRsyAputhonM2uDD1FYwnGo92pdoge"
   },
   {
     "id": "solana-mainnet:sol-spl:4xgZmdKKHE3PXtUwUtvJGPSCSTJMJohSmWufJhiVo6q",
@@ -48476,6 +48498,17 @@
     "mintAddress": "Kkkhb2uaCYwXoTrWC7CMPLa7T5UsbVVeeiQXrTSuZUT"
   },
   {
+    "id": "solana-mainnet:sol-spl:kLf5mp1wpHfJPhHxgM1DEDwJherwWrz91txmQagpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "oilcoin",
+    "decimals": 6,
+    "name": "oilcoin",
+    "coingeckoId": "oilcoin",
+    "mintAddress": "kLf5mp1wpHfJPhHxgM1DEDwJherwWrz91txmQagpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:KMnDBXcPXoz6oMJW5XG4tXdwSWpmWEP2RQM1Uujpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -50091,6 +50124,17 @@
     "name": "Pou",
     "coingeckoId": "pou",
     "mintAddress": "PouWaap6bHZv1oT7T7rzRgQHTBD4nsWQRHGbB5hfDA6"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:PqXub2t6A2vvUb3Mevk4uhj339rMhhmxq2HQzYNmoon",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "OILX",
+    "decimals": 6,
+    "name": "Oil Exchange",
+    "coingeckoId": "oil-exchange",
+    "mintAddress": "PqXub2t6A2vvUb3Mevk4uhj339rMhhmxq2HQzYNmoon"
   },
   {
     "id": "solana-mainnet:sol-spl:prmmgF5GJCSDNEcwZe2HWb5DsDsFngxTetZ95C4VKxX",

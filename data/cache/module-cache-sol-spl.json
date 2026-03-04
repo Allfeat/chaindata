@@ -5261,6 +5261,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:4c1HzBShCHc1EckQTVXZZ5feDCgkDweaw3t3JQQqpump",
+    "isValid": true,
+    "symbol": "DiCaprio",
+    "decimals": 6,
+    "name": "ディカプリオ"
+  },
+  {
     "id": "solana-mainnet:sol-spl:4c53VeEq8jVA9EoeGAz9tBC9hhNYHj5quwrMDqEiYxM3",
     "isValid": true,
     "symbol": "AIM",
@@ -6613,6 +6620,13 @@
     "symbol": "tired",
     "decimals": 6,
     "name": "tired of it all"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:4xB2NGznSwQXAAjRsyAputhonM2uDD1FYwnGo92pdoge",
+    "isValid": true,
+    "symbol": "BAKA",
+    "decimals": 9,
+    "name": "doge秽土转生版真名"
   },
   {
     "id": "solana-mainnet:sol-spl:4XF6arXUcBHyEBB7ZyRFSSZ4pNFfEYvJM7jg4vVwGrBD",
@@ -8597,6 +8611,10 @@
     "name": "gary"
   },
   {
+    "id": "solana-mainnet:sol-spl:5su44fkvYNM1WnMCgteXu7HFUywQBtKZqjwgmCk9pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump",
     "isValid": true,
     "symbol": "SIGMA",
@@ -10375,6 +10393,10 @@
     "symbol": "MEMES",
     "decimals": 6,
     "name": "Memes Protocol"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:6KmwvVo8gDUVAnoAftMuyUTojfx6xtgm2xkHp2ixpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:6kP6Qjgo7Vke9HTe3tZ9DeRtKw2NDiE5fDABWEUspump",
@@ -13331,6 +13353,10 @@
     "symbol": "CATF",
     "decimals": 6,
     "name": "The Blinking AI Cat - Catfather"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7uerT1tMCury3t6HHhAMbBmq7t75dP9H4T9ug8AKpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:7UiTAJhzDcqc5CvVAUWS6sUyeXcQWUXuh7zsbUrNzb8K",
@@ -17694,6 +17720,10 @@
     "symbol": "DWAKE",
     "decimals": 6,
     "name": "Dwake"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:9oxGicd5KXNcthYM6yD23X9zcznQVnHjrAEN38fFpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:9P32yqucXfZnDoXmmJNzBpqXQgfou4tA4sB1RaQh9cYw",
@@ -22178,6 +22208,10 @@
     "symbol": "Qkitty",
     "decimals": 9,
     "name": "QueenKitty"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:BERrTba2FLMEzxzgcu3XiuZ9XopVdPKmDmEnmZUfB6B7",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:BEsnQvkfeaQ3G8qbeN5FmUnsQUqXzXW5i83Hv3syoTTc",
@@ -30180,6 +30214,10 @@
     "name": "TRUMP INU (Wormhole)"
   },
   {
+    "id": "solana-mainnet:sol-spl:EjR5wxxVmv3zKbhawpfJb2f1GeHWsQjGQX6JVDgLpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:EJRs2ephB8kZX1w196DBt7q3uvLAVqs6LEVgXEwhpump",
     "isValid": true,
     "symbol": "AGI",
@@ -34554,6 +34592,10 @@
     "symbol": "SMZAI",
     "decimals": 6,
     "name": "Simulize AI"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:G9ivB7K41a4G8m1k4QdxxN4L5eGKL7Mr12S26B85pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:G9NuZu43iESYk4bGpEuPTfovzyoDFUgP6tdshHhGpump",
@@ -40508,6 +40550,13 @@
     "name": "PawPaw"
   },
   {
+    "id": "solana-mainnet:sol-spl:kLf5mp1wpHfJPhHxgM1DEDwJherwWrz91txmQagpump",
+    "isValid": true,
+    "symbol": "oilcoin",
+    "decimals": 6,
+    "name": "oilcoin"
+  },
+  {
     "id": "solana-mainnet:sol-spl:kMKX8hBaj3BTRBbeYix9c16EieBP5dih8DTSSwCpump",
     "isValid": false
   },
@@ -41910,6 +41959,13 @@
     "symbol": "HOWDY",
     "decimals": 6,
     "name": "Howdy"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:PqXub2t6A2vvUb3Mevk4uhj339rMhhmxq2HQzYNmoon",
+    "isValid": true,
+    "symbol": "OILX",
+    "decimals": 6,
+    "name": "Oil Exchange"
   },
   {
     "id": "solana-mainnet:sol-spl:Pre2Y4gaf97C4T8ckygDpYbja3w6mH6zmCEs3SA8ALH",
