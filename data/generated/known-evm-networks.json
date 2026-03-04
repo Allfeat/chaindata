@@ -28943,6 +28943,10 @@
           "coingeckoId": "govworld"
         },
         {
+          "contractAddress": "0x26740be159dc0a11ce53e32f530f056d4b205c0c",
+          "coingeckoId": "gpstarter"
+        },
+        {
           "contractAddress": "0x94e00656e69cc6c8d49155412dc9c58d8d950561",
           "coingeckoId": "gpuai"
         },
@@ -37982,10 +37986,6 @@
         {
           "contractAddress": "0x8e3c2b00efebb64a6b775c451197a9dba1077967",
           "coingeckoId": "dice-kingdom"
-        },
-        {
-          "contractAddress": "0x6527d3d38a7ff4e62f98fe27dd9242a36227fe23",
-          "coingeckoId": "tao-meme"
         },
         {
           "contractAddress": "0x8debbb77e8a17cffcfc0c7f1f40308886edd3f9f",
@@ -66236,8 +66236,16 @@
           "coingeckoId": "aaigotchi"
         },
         {
+          "contractAddress": "0xb56aa0cbee33c4b6b281027ebaa7697aad42a853",
+          "coingeckoId": "aarna-atv111-base"
+        },
+        {
           "contractAddress": "0x9dc3f0f25d793bee5eec75da3058b0c919f71166",
           "coingeckoId": "aarna-atvbtc"
+        },
+        {
+          "contractAddress": "0xa4e26449eb2aac50e5d7a788a59359b65a32c990",
+          "coingeckoId": "aarna-atv-usdc-base"
         },
         {
           "contractAddress": "0x63706e401c06ac8513145b7687a14804d17f814b",
@@ -67428,10 +67436,6 @@
           "coingeckoId": "baseswap"
         },
         {
-          "contractAddress": "0x484c46efdc3f2f9ed6c28ef8a907b0da25245889",
-          "coingeckoId": "basetard"
-        },
-        {
           "contractAddress": "0xd386a121991e51eab5e3433bf5b1cf4c8884b47a",
           "coingeckoId": "base-velocimeter"
         },
@@ -68022,10 +68026,6 @@
         {
           "contractAddress": "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987",
           "coingeckoId": "briun-armstrung"
-        },
-        {
-          "contractAddress": "0x41ed0311640a5e489a90940b1c33433501a21b07",
-          "coingeckoId": "brnd"
         },
         {
           "contractAddress": "0x02537463e57a44f861ee861ba4f590c413f984a6",
@@ -73258,10 +73258,6 @@
         {
           "contractAddress": "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5",
           "coingeckoId": "sharp-ai-2"
-        },
-        {
-          "contractAddress": "0x5f3005fe69bae934d796d46d650791f98bb4ab07",
-          "coingeckoId": "shelltown"
         },
         {
           "contractAddress": "0x041fdf3f472d2c8a7ecc458fc3b7f543e6c57ef7",

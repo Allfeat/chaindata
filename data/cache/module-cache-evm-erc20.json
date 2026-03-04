@@ -89847,6 +89847,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x26740be159dc0a11ce53e32f530f056d4b205c0c",
+    "isValid": true,
+    "symbol": "GPST",
+    "decimals": 18,
+    "name": "GPStarter"
+  },
+  {
     "id": "56:evm-erc20:0x269b7a30497f92ebf307e7467fd4f1210a6c36b6",
     "symbol": "evin",
     "decimals": 18,
@@ -130481,6 +130488,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0xa4e26449eb2aac50e5d7a788a59359b65a32c990",
+    "isValid": true,
+    "symbol": "atvUSDC",
+    "decimals": 18,
+    "name": "aarna atv USDC"
+  },
+  {
     "id": "8453:evm-erc20:0xa4ff56ef7ef4a2cad03cfa130208c9bc1b45d293",
     "isValid": true,
     "symbol": "SAUCE",
@@ -131554,6 +131568,13 @@
     "decimals": 18,
     "name": "APOLLO AI by Virtuals",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xb56aa0cbee33c4b6b281027ebaa7697aad42a853",
+    "isValid": true,
+    "symbol": "atv111",
+    "decimals": 18,
+    "name": "aarna atv111"
   },
   {
     "id": "8453:evm-erc20:0xb56b5269c03421765c28aa61037536ea5690741c",
