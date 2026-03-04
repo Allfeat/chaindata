@@ -9823,6 +9823,10 @@
           "coingeckoId": "kimchi-3"
         },
         {
+          "contractAddress": "0xfccd6fbca272b4cc11069402f4123b070b7838f9",
+          "coingeckoId": "kimchi-coin"
+        },
+        {
           "contractAddress": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
           "coingeckoId": "kimchi-finance"
         },
@@ -29599,6 +29603,10 @@
           "coingeckoId": "icecream-ai"
         },
         {
+          "contractAddress": "0xe1ab61f7b093435204df32f5b3a405de55445ea8",
+          "coingeckoId": "ice-open-network"
+        },
+        {
           "contractAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
           "coingeckoId": "ice-token"
         },
@@ -43632,6 +43640,10 @@
           "coingeckoId": "wrapped-bitcoin"
         },
         {
+          "contractAddress": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+          "coingeckoId": "wrapped-eeth"
+        },
+        {
           "contractAddress": "0x3bd359c1119da7da1d913d1c4d2b7c461115433a",
           "coingeckoId": "wrapped-monad"
         },
@@ -50757,6 +50769,10 @@
         {
           "contractAddress": "0x6a64e027e3f6a94acbdcf39cf0cbb4bead5f5ecb",
           "coingeckoId": "hotcocoa"
+        },
+        {
+          "contractAddress": "0x99af3eea856556646c98c8b9b2548fe815240750",
+          "coingeckoId": "layerzero-bridged-pyusd0"
         },
         {
           "contractAddress": "0x10448481630fb6d20b597e5b3d7e42dcb1247c8a",
@@ -62057,6 +62073,10 @@
     "tokens": {
       "evm-erc20": [
         {
+          "contractAddress": "0xa2f1c73fe7705c80f65d4db43529220d5b4fb154",
+          "coingeckoId": "ani-token"
+        },
+        {
           "contractAddress": "0x18ffd46709f9ebc7c686fbdd8e2a7531ce34869f",
           "coingeckoId": "changex"
         },
@@ -66790,6 +66810,10 @@
         {
           "contractAddress": "0xddf98aad8180c3e368467782cd07ae2e3e8d36a5",
           "coingeckoId": "animated"
+        },
+        {
+          "contractAddress": "0x48acdfacc520cd50da3a5824e794daac5677363e",
+          "coingeckoId": "ani-token"
         },
         {
           "contractAddress": "0xe2f3fae4bc62e21826018364aa30ae45d430bb07",

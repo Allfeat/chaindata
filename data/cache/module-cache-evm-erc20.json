@@ -43417,6 +43417,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0xfccd6fbca272b4cc11069402f4123b070b7838f9",
+    "isValid": true,
+    "symbol": "KIMCHI",
+    "decimals": 9,
+    "name": "Kimchi Coin"
+  },
+  {
     "id": "1:evm-erc20:0xfcd7ccee4071aa4ecfac1683b7cc0afecaf42a36",
     "symbol": "BLAZE",
     "decimals": 18,
@@ -58440,6 +58447,13 @@
     "symbol": "sMON",
     "decimals": 18,
     "name": "Kintsu Staked Monad"
+  },
+  {
+    "id": "143:evm-erc20:0xa3d68b74bf0528fdd07263c60d6488749044914b",
+    "isValid": true,
+    "symbol": "weETH",
+    "decimals": 18,
+    "name": "Wrapped eETH"
   },
   {
     "id": "143:evm-erc20:0xad96c3dffcd6374294e2573a7fbba96097cc8d7c",
@@ -83473,6 +83487,13 @@
     "decimals": 18,
     "name": "Wrapped Hydra",
     "isValid": true
+  },
+  {
+    "id": "4488:evm-erc20:0xa2f1c73fe7705c80f65d4db43529220d5b4fb154",
+    "isValid": true,
+    "symbol": "ANI",
+    "decimals": 18,
+    "name": "ANI Token"
   },
   {
     "id": "4488:evm-erc20:0xb8043294eff43bcd01bd33968c7ae9dbc6a4bf8b",
@@ -111113,6 +111134,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0xe1ab61f7b093435204df32f5b3a405de55445ea8",
+    "isValid": true,
+    "symbol": "ION",
+    "decimals": 9,
+    "name": "Ice Open Network"
+  },
+  {
     "id": "56:evm-erc20:0xe1b8f4053de96ab94513864f409ac72d752a3703",
     "symbol": "FTPXBT",
     "decimals": 18,
@@ -116261,6 +116289,13 @@
     "decimals": 18,
     "name": "GangGang",
     "isValid": true
+  },
+  {
+    "id": "747:evm-erc20:0x99af3eea856556646c98c8b9b2548fe815240750",
+    "isValid": true,
+    "symbol": "PYUSD0",
+    "decimals": 6,
+    "name": "PYUSD0"
   },
   {
     "id": "747:evm-erc20:0x9b565507858812e8b5ffbfbde9b200a3bc2e8f76",
@@ -124585,6 +124620,13 @@
     "decimals": 18,
     "name": "Yum! Brands, Inc. - Dinari",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x48acdfacc520cd50da3a5824e794daac5677363e",
+    "isValid": true,
+    "symbol": "ANI",
+    "decimals": 18,
+    "name": "ANI Token"
   },
   {
     "id": "8453:evm-erc20:0x48c6740bcf807d6c47c864faeea15ed4da3910ab",
