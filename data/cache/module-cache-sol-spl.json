@@ -27602,6 +27602,13 @@
     "name": "Bonk"
   },
   {
+    "id": "solana-mainnet:sol-spl:DF4zASfiDBr3uuAz4s2Sxtsjo7tDFZiQ2nLeKJGfBAGS",
+    "isValid": true,
+    "symbol": "RECAP",
+    "decimals": 9,
+    "name": "RecapThisBot"
+  },
+  {
     "id": "solana-mainnet:sol-spl:DF5yCVTfhVwvS1VRfHETNzEeh1n6DjAqEBs3kj9frdAr",
     "isValid": true,
     "symbol": "APE",
