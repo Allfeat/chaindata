@@ -28680,6 +28680,10 @@
     "name": "The Bitcoin Mascot"
   },
   {
+    "id": "solana-mainnet:sol-spl:DU7BqqKt7vC9i7paUQSeduxkWkTHQmoVR85M79pfpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DUCK4JNpgd6SziPDLKP7fogV5KQsAg6Hdx5MCwwYAYuF",
     "isValid": true,
     "symbol": "DUCKAI",
@@ -42185,6 +42189,13 @@
   {
     "id": "solana-mainnet:sol-spl:PsyFiqqjiv41G7o5SMRzDJCu4psptThNR2GtfeGHfSq",
     "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:PuLSHCKeLRxaB4qCdwZAoZFj297oTSgVh8SzYZtUfQP",
+    "isValid": true,
+    "symbol": "PULSE",
+    "decimals": 6,
+    "name": "PULSE"
   },
   {
     "id": "solana-mainnet:sol-spl:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",

@@ -1551,10 +1551,6 @@
           "coingeckoId": "arena-z"
         },
         {
-          "contractAddress": "0x358aa737e033f34df7c54306960a38d09aabd523",
-          "coingeckoId": "ares-protocol"
-        },
-        {
           "contractAddress": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
           "coingeckoId": "argentine-peso"
         },
@@ -2389,10 +2385,6 @@
         {
           "contractAddress": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
           "coingeckoId": "betswirl"
-        },
-        {
-          "contractAddress": "0x2d5d69da90b4c02b95c802344b48e3e57ce220d7",
-          "coingeckoId": "beware-of-geeks-bearing-grifts"
         },
         {
           "contractAddress": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
@@ -6315,10 +6307,6 @@
           "coingeckoId": "elons-pet-snail"
         },
         {
-          "contractAddress": "0xc0200b1c6598a996a339196259ffdc30c1f44339",
-          "coingeckoId": "el-risitas"
-        },
-        {
           "contractAddress": "0x69e15ab0fd240de689d09e4851181a6667968008",
           "coingeckoId": "el-sapo-pepe"
         },
@@ -10127,10 +10115,6 @@
           "coingeckoId": "launch-on-usd1"
         },
         {
-          "contractAddress": "0xa39819b999b2471bfdf03d1d8b6f93c83fe8caba",
-          "coingeckoId": "laura-ai"
-        },
-        {
           "contractAddress": "0x88909d489678dd17aa6d9609f89b0419bf78fd9a",
           "coingeckoId": "layer3"
         },
@@ -13795,10 +13779,6 @@
           "coingeckoId": "petrobras-ondo-tokenized-stock"
         },
         {
-          "contractAddress": "0x8a4b65d4c6faf9d404f332a80634284c5b8c6f37",
-          "coingeckoId": "petrok"
-        },
-        {
           "contractAddress": "0x06954faa913fa14c28eb1b2e459594f22f33f3de",
           "coingeckoId": "pfizer-ondo-tokenized-stock"
         },
@@ -14137,10 +14117,6 @@
         {
           "contractAddress": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
           "coingeckoId": "pongo"
-        },
-        {
-          "contractAddress": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
-          "coingeckoId": "pontoon"
         },
         {
           "contractAddress": "0x4b7c762af92dbd917d159eb282b85aa13e955739",
@@ -15483,10 +15459,6 @@
           "coingeckoId": "satlayer"
         },
         {
-          "contractAddress": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
-          "coingeckoId": "sator"
-        },
-        {
           "contractAddress": "0xcbf4d5efa82e32a9187385480a7c74cb062b956c",
           "coingeckoId": "satoshi-nakamoto"
         },
@@ -15781,10 +15753,6 @@
         {
           "contractAddress": "0x2de7b02ae3b1f11d51ca7b2495e9094874a064c0",
           "coingeckoId": "shib2"
-        },
-        {
-          "contractAddress": "0x34ba042827996821cffeb06477d48a2ff9474483",
-          "coingeckoId": "shib2-0"
         },
         {
           "contractAddress": "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c",
@@ -16573,10 +16541,6 @@
         {
           "contractAddress": "0x7ebab7190d3d574ce82d29f2fa1422f18e29969c",
           "coingeckoId": "squill"
-        },
-        {
-          "contractAddress": "0xf32d61b55a0704e52a12963c4b71315847b0d04e",
-          "coingeckoId": "squirrel-by"
         },
         {
           "contractAddress": "0x195f5c217b96cd3dd75d39327161b8911a42e509",
@@ -23563,10 +23527,6 @@
           "coingeckoId": "afrostar"
         },
         {
-          "contractAddress": "0x18c4af61dbe6fd55d6470943b4ab8530777d009c",
-          "coingeckoId": "agatech"
-        },
-        {
           "contractAddress": "0x976e33b07565b0c05b08b2e13affd3113e3d178d",
           "coingeckoId": "aga-token"
         },
@@ -24121,10 +24081,6 @@
         {
           "contractAddress": "0x2a17dc11a1828725cdb318e0036acf12727d27a2",
           "coingeckoId": "arena-token"
-        },
-        {
-          "contractAddress": "0xf9752a6e8a5e5f5e6eb3ab4e7d8492460fb319f0",
-          "coingeckoId": "ares-protocol"
         },
         {
           "contractAddress": "0x851f7a700c5d67db59612b871338a85526752c25",
@@ -33075,10 +33031,6 @@
           "coingeckoId": "pomerium-ecosystem"
         },
         {
-          "contractAddress": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
-          "coingeckoId": "pontoon"
-        },
-        {
           "contractAddress": "0xb27adaffb9fea1801459a1a81b17218288c097cc",
           "coingeckoId": "poocoin"
         },
@@ -33197,10 +33149,6 @@
         {
           "contractAddress": "0x79be2b20389a869476d183b1f42b9950eaf457d8",
           "coingeckoId": "project-merlin"
-        },
-        {
-          "contractAddress": "0xb19289b436b2f7a92891ac391d8f52580d3087e4",
-          "coingeckoId": "project-oasis"
         },
         {
           "contractAddress": "0x510975eda48a97e0ca228dd04d1217292487bea6",
@@ -51961,10 +51909,6 @@
           "coingeckoId": "heyanon"
         },
         {
-          "contractAddress": "0xb2589c360fbb7b3a6ee061359c5a9a2714d26006",
-          "coingeckoId": "hl-gato"
-        },
-        {
           "contractAddress": "0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81",
           "coingeckoId": "hlp0"
         },
@@ -52848,10 +52792,6 @@
         {
           "contractAddress": "0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278",
           "coingeckoId": "netswap"
-        },
-        {
-          "contractAddress": "0x966b25d174be6ba703e0ff80c68bb6e167236ba2",
-          "coingeckoId": "revenant"
         },
         {
           "contractAddress": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
@@ -57591,10 +57531,6 @@
         {
           "contractAddress": "0x06f7481d937eb637d7d9deedf175957d5d881397",
           "coingeckoId": "cute-asian-girl"
-        },
-        {
-          "contractAddress": "0x0f1dcb6e6a4390a1f1a46bf039d29ba4a469af56",
-          "coingeckoId": "doll-fantasy-token"
         },
         {
           "contractAddress": "0x5f3262ede02ca4a31bda6683124539c87cc73138",
@@ -67764,10 +67700,6 @@
           "coingeckoId": "blue-apu"
         },
         {
-          "contractAddress": "0x4c40454659c8ec1283355d8e3911ba1745ff6fd1",
-          "coingeckoId": "blue-chip"
-        },
-        {
           "contractAddress": "0x35bf529320899d661803d2794c8084dc1dc28599",
           "coingeckoId": "blueclaw"
         },
@@ -68074,6 +68006,10 @@
         {
           "contractAddress": "0xc7584340d6b8444b069de8c0b526caa6961c5b07",
           "coingeckoId": "builder-arena"
+        },
+        {
+          "contractAddress": "0x8fe435d4f6900bbbe6b48431b91833f69beacba3",
+          "coingeckoId": "builderscout"
         },
         {
           "contractAddress": "0x56d4938431f7fae7c6741e061aa2683df12256f8",
@@ -72332,10 +72268,6 @@
           "coingeckoId": "pepe-clanker"
         },
         {
-          "contractAddress": "0x19706c142d33376240e418d6385f05691a5fa8e2",
-          "coingeckoId": "pepe-inscriptions"
-        },
-        {
           "contractAddress": "0x5fe872bf640e06380b848976c7927827a0f2a3ce",
           "coingeckoId": "pepe-inverted"
         },
@@ -74172,10 +74104,6 @@
           "coingeckoId": "tren-protocol-token"
         },
         {
-          "contractAddress": "0xe13e40e8fdb815fbc4a1e2133ab5588c33bac45d",
-          "coingeckoId": "tribal-triballygames"
-        },
-        {
           "contractAddress": "0x0e6214f42992683a9177ce65d022f163d7bbd1d2",
           "coingeckoId": "triviagent-by-virtuals"
         },
@@ -74278,10 +74206,6 @@
         {
           "contractAddress": "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270",
           "coingeckoId": "unstable-coin"
-        },
-        {
-          "contractAddress": "0xec4abc31e35ba30350eeaa4c06e841ccdc9d8e00",
-          "coingeckoId": "unstable-tit"
         },
         {
           "contractAddress": "0x3628d69aa2d66e9efe95ab1267d440dec24389b6",
@@ -87987,10 +87911,6 @@
         {
           "contractAddress": "0x4f3c5c53279536ffcfe8bcafb78e612e933d53c6",
           "coingeckoId": "phoenic-token"
-        },
-        {
-          "contractAddress": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
-          "coingeckoId": "platypus-finance"
         },
         {
           "contractAddress": "0x15fa5d3dbd11a831b72b92c1705bc9f801e233cb",
