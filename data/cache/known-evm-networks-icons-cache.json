@@ -4880,6 +4880,11 @@
     "path": "./assets/chains/known/waterfall-main.webp"
   },
   {
+    "icon": "wchain",
+    "etag": "W/\"5af4-sLoxnUJIk8bCvcwcrhR/+0CW9jY\"",
+    "path": "./assets/chains/known/wchain.webp"
+  },
+  {
     "icon": "weavevm",
     "etag": "W/\"2af61b0e7461be99e6a92b3f857026fd1a4620fca9e0123ec4cfdb3a6840ccb6\"",
     "path": "./assets/chains/known/weavevm.webp"

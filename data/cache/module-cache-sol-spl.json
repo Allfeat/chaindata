@@ -19268,6 +19268,13 @@
     "name": "Station This"
   },
   {
+    "id": "solana-mainnet:sol-spl:ABmMqCr6ybUhSPoG2iT1JKaf9ix5dqJU4eqmaBBCUipJ",
+    "isValid": true,
+    "symbol": "OIL",
+    "decimals": 6,
+    "name": "Trump Oil Reserve"
+  },
+  {
     "id": "solana-mainnet:sol-spl:AbP5LEN4sAAjghBy6ww37ngAAT7hnBVfXmXNdCnbpump",
     "isValid": false
   },

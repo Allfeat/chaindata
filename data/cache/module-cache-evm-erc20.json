@@ -21533,6 +21533,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0",
+    "isValid": true,
+    "symbol": "OPN",
+    "decimals": 18,
+    "name": "OPINION"
+  },
+  {
     "id": "1:evm-erc20:0x79801ac51d18543579d26c5b392581d17b273b89",
     "isValid": true,
     "symbol": "BRO",
@@ -32899,6 +32906,13 @@
     "decimals": 18,
     "name": "EQIFi Token",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0xbd4dfc058eb95b8de5ceaf39966a1a70f5556f78",
+    "isValid": true,
+    "symbol": "CHFAU",
+    "decimals": 6,
+    "name": "AllUnity CHF"
   },
   {
     "id": "1:evm-erc20:0xbd6323a83b613f668687014e8a5852079494fb68",
@@ -99327,6 +99341,13 @@
     "name": "你可以在一天内改变人生"
   },
   {
+    "id": "56:evm-erc20:0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0",
+    "isValid": true,
+    "symbol": "OPN",
+    "decimals": 18,
+    "name": "OPINION"
+  },
+  {
     "id": "56:evm-erc20:0x799a290f9cc4085a0ce5b42b5f2c30193a7a872b",
     "symbol": "ELDE",
     "decimals": 18,
@@ -105313,6 +105334,13 @@
     "name": "Beaver"
   },
   {
+    "id": "56:evm-erc20:0xadb50d6a3f931e5b4a14d06a4a77fe71171a462f",
+    "isValid": true,
+    "symbol": "DUCKY",
+    "decimals": 18,
+    "name": "Ducky"
+  },
+  {
     "id": "56:evm-erc20:0xadcdbcb0db9edf31509971f64f0a8e0fc53b384d",
     "symbol": "$AIAGENT",
     "decimals": 18,
@@ -109406,6 +109434,13 @@
     "symbol": "ASTER",
     "decimals": 9,
     "name": "Aster"
+  },
+  {
+    "id": "56:evm-erc20:0xd1ed7cae60660cf85848eb6ead0fc00c0f9c0dd1",
+    "isValid": true,
+    "symbol": "PEANUT",
+    "decimals": 18,
+    "name": "Peanut"
   },
   {
     "id": "56:evm-erc20:0xd1f6cc234b9b82e90ac277c9c2e3c7a91d17daf9",

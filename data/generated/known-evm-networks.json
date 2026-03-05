@@ -1015,6 +1015,10 @@
           "coingeckoId": "alloy-tether"
         },
         {
+          "contractAddress": "0xbd4dfc058eb95b8de5ceaf39966a1a70f5556f78",
+          "coingeckoId": "allunity-chf"
+        },
+        {
           "contractAddress": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
           "coingeckoId": "allunity-eur"
         },
@@ -13067,6 +13071,10 @@
           "coingeckoId": "opes-wrapped-pe"
         },
         {
+          "contractAddress": "0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0",
+          "coingeckoId": "opinion"
+        },
+        {
           "contractAddress": "0x888888888889c00c67689029d7856aac1065ec11",
           "coingeckoId": "opium"
         },
@@ -21372,10 +21380,6 @@
           "coingeckoId": "smart-layer-network"
         },
         {
-          "contractAddress": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
-          "coingeckoId": "sonne-finance"
-        },
-        {
           "contractAddress": "0x1d1498166ddceee616a6d99868e1e0677300056f",
           "coingeckoId": "space-token-bsc"
         },
@@ -27607,6 +27611,10 @@
           "coingeckoId": "duckie-land-multi-metaverse"
         },
         {
+          "contractAddress": "0xadb50d6a3f931e5b4a14d06a4a77fe71171a462f",
+          "coingeckoId": "ducky"
+        },
+        {
           "contractAddress": "0xe215f9575e2fafff8d0d3f9c6866ac656bd25bd9",
           "coingeckoId": "ducky-2"
         },
@@ -32299,6 +32307,10 @@
           "coingeckoId": "operon-origins"
         },
         {
+          "contractAddress": "0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0",
+          "coingeckoId": "opinion"
+        },
+        {
           "contractAddress": "0x4c906b99a2f45a47c8570b7a41ffe940f71676af",
           "coingeckoId": "opipets"
         },
@@ -32661,6 +32673,10 @@
         {
           "contractAddress": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a",
           "coingeckoId": "peanut"
+        },
+        {
+          "contractAddress": "0xd1ed7cae60660cf85848eb6ead0fc00c0f9c0dd1",
+          "coingeckoId": "peanut-2"
         },
         {
           "contractAddress": "0x413c2834f02003752d6cc0bcd1ce85af04d62fbe",
@@ -73412,10 +73428,6 @@
           "coingeckoId": "songjam-by-virtuals"
         },
         {
-          "contractAddress": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
-          "coingeckoId": "sonne-finance"
-        },
-        {
           "contractAddress": "0xf395680803b269b62702554723e05b373171b07b",
           "coingeckoId": "son-of-brett"
         },
@@ -95431,7 +95443,8 @@
     "blockExplorerUrls": ["https://scan.w-chain.com"],
     "rpcs": ["https://rpc.w-chain.com"],
     "icon": "https://apricot-deep-swordtail-337.mypinata.cloud/ipfs/bafkreifnbotmhobqceuj5ghefo76gherr2pjugc2g6jssy4w5dlexqgvue",
-    "shortName": "wcn"
+    "shortName": "wcn",
+    "chainSlug": "wchain"
   },
   {
     "id": "175177",

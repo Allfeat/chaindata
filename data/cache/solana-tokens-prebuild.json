@@ -22846,6 +22846,17 @@
     "mintAddress": "AbktLHcNzEoZc9qfVgNaQhJbqDTEmLwsARY7JcTndsPg"
   },
   {
+    "id": "solana-mainnet:sol-spl:ABmMqCr6ybUhSPoG2iT1JKaf9ix5dqJU4eqmaBBCUipJ",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "OIL",
+    "decimals": 6,
+    "name": "Trump Oil Reserve",
+    "coingeckoId": "trump-oil-reserve",
+    "mintAddress": "ABmMqCr6ybUhSPoG2iT1JKaf9ix5dqJU4eqmaBBCUipJ"
+  },
+  {
     "id": "solana-mainnet:sol-spl:AbrMJWfDVRZ2EWCQ1xSCpoVeVgZNpq1U2AoYG98oRXfn",
     "platform": "solana",
     "networkId": "solana-mainnet",
