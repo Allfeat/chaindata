@@ -137367,6 +137367,20 @@
     "name": "Wrapped Paris Saint-Germain"
   },
   {
+    "id": "88888:evm-erc20:0x4c360be766dd95c973be30c4130e7b4b762113e0",
+    "isValid": true,
+    "symbol": "SACI",
+    "decimals": 18,
+    "name": "Internacional"
+  },
+  {
+    "id": "88888:evm-erc20:0x4f3a607bb2717683108865fc785badfa90094431",
+    "isValid": true,
+    "symbol": "AVL",
+    "decimals": 18,
+    "name": "Aston Villa"
+  },
+  {
     "id": "88888:evm-erc20:0x540165b9dfdde31658f9ba0ca5504eda448bffd0",
     "isValid": true,
     "symbol": "SPFC",
@@ -137486,6 +137500,13 @@
     "name": "Wrapped Samsunspor"
   },
   {
+    "id": "88888:evm-erc20:0x7308f4c7b4a9a0e180fd08c003255762dd139d54",
+    "isValid": true,
+    "symbol": "TIGRES",
+    "decimals": 18,
+    "name": "Tigres"
+  },
+  {
     "id": "88888:evm-erc20:0x7475777609ce0bd8e06b471b95ac5330511e03ae",
     "isValid": true,
     "symbol": "WARG",
@@ -137526,6 +137547,13 @@
     "symbol": "WTRA",
     "decimals": 18,
     "name": "Wrapped Trabzonspor"
+  },
+  {
+    "id": "88888:evm-erc20:0x83d7d1df01c698b4379077af4bceb2d4af113bff",
+    "isValid": true,
+    "symbol": "VCF",
+    "decimals": 18,
+    "name": "Valencia CF"
   },
   {
     "id": "88888:evm-erc20:0x859db9e2569bb87990482fc53e2f902e52585ecb",
@@ -137598,6 +137626,20 @@
     "name": "Palmeiras"
   },
   {
+    "id": "88888:evm-erc20:0x9840dc03032f4f35d7dbdc8db832acfaf6ff3e77",
+    "isValid": true,
+    "symbol": "FLU",
+    "decimals": 18,
+    "name": "Fluminense FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x99f7b1f8d445b6cbd231017820de372e2c5f9a27",
+    "isValid": true,
+    "symbol": "CAI",
+    "decimals": 18,
+    "name": "Club Atletico Independiente"
+  },
+  {
     "id": "88888:evm-erc20:0x9b18841fe851f5b4b9400e67602ec2fe65aaae0a",
     "isValid": true,
     "symbol": "WPFL",
@@ -137659,6 +137701,13 @@
     "symbol": "BENFICA",
     "decimals": 0,
     "name": "SL Benfica"
+  },
+  {
+    "id": "88888:evm-erc20:0xb46357d8ed050d35d3a24154c39d7236dae86187",
+    "isValid": true,
+    "symbol": "VERDAO",
+    "decimals": 18,
+    "name": "Palmeiras"
   },
   {
     "id": "88888:evm-erc20:0xb66d72efc5fd77a8f9dc2e7c0f14304828956644",
@@ -137780,6 +137829,13 @@
     "name": "Argentina"
   },
   {
+    "id": "88888:evm-erc20:0xd5f1b2454db115967bfac73bfea21da5e2543c8e",
+    "isValid": true,
+    "symbol": "VASCO",
+    "decimals": 18,
+    "name": "Vasco da Gama"
+  },
+  {
     "id": "88888:evm-erc20:0xd5febd04badd83e7ed56ca093fd57655b737cd3e",
     "isValid": true,
     "symbol": "IBFK",
@@ -137864,11 +137920,25 @@
     "name": "ChilizInu"
   },
   {
+    "id": "88888:evm-erc20:0xf4c653b74929953b29b966aba99b681fb5ab69cf",
+    "isValid": true,
+    "symbol": "BENFICA",
+    "decimals": 18,
+    "name": "SL Benfica"
+  },
+  {
     "id": "88888:evm-erc20:0xf6bebad8be7bb9ce05b9a71b9ab62e2e7fa58e9f",
     "isValid": true,
     "symbol": "WSPURS",
     "decimals": 18,
     "name": "Wrapped Tottenham Hotspur"
+  },
+  {
+    "id": "88888:evm-erc20:0xf78e9ce916a7d6b3d4facba95b9e9b8bba5df609",
+    "isValid": true,
+    "symbol": "SAM",
+    "decimals": 18,
+    "name": "Samsunspor"
   },
   {
     "id": "88888:evm-erc20:0xf9ae77d7658ad1a1ff49ca4d082fedb680a83373",

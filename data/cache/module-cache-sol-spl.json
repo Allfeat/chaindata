@@ -1684,6 +1684,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:2ocYd9f3564zUL1j6zUi8FR6Rn4Yo76BvXoZwLYASYFR",
+    "isValid": true,
+    "symbol": "SYFR",
+    "decimals": 6,
+    "name": "SYFR AI"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
     "isValid": true,
     "symbol": "PUPS",
@@ -5623,6 +5630,10 @@
     "name": "Cat Terminal"
   },
   {
+    "id": "solana-mainnet:sol-spl:4HhWcsfjaWYKJtjaxd4EyGSAL4Ky8C3DvqAWPHnrpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:4HjE7Eebj7iowo1GFfthmvvcp1Zb4QUXKLc3uq3opump",
     "isValid": true,
     "symbol": "CHILLAX",
@@ -6856,6 +6867,10 @@
     "symbol": "APEX",
     "decimals": 9,
     "name": "APEX"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:51XMD1jprfRvd1dbPZLkBuef6xMduwjrmSLxyYiqpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:51Yc9NkkNKMbo31XePni6ZFKMFz4d6H273M8CRhCpump",
@@ -10903,6 +10918,10 @@
     "name": "Apex AI"
   },
   {
+    "id": "solana-mainnet:sol-spl:6RFfHjBTgjK3VjDTH6GQ7FN3EsYjjxWcTdExaubzsx1W",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:6rpjuhgH4WBCSEHgLBVAt8wLv9gbSW6MwiQit4dYpump",
     "isValid": true,
     "symbol": "GHIBLICHAD",
@@ -13639,6 +13658,13 @@
   {
     "id": "solana-mainnet:sol-spl:7xhB6DFcoRFtY1pHxxkMRbN1MwuNYjsqx4zWqzu6pump",
     "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7XiycwkFwd1ig3yhncPxaq3qwJ6S2RpHc63C541hgmdC",
+    "isValid": true,
+    "symbol": "HYDAO",
+    "decimals": 9,
+    "name": "HYPERSDAO TOKEN"
   },
   {
     "id": "solana-mainnet:sol-spl:7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
@@ -17908,6 +17934,10 @@
     "symbol": "Stupid",
     "decimals": 6,
     "name": "StupidCoin"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:9rTrsxzcDRMKpBHsbmdMkfPsU6K8FHepcyp43Dr6pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:9RUup1LmD5PBsnd23JmTy39wSwALB7JF7xMfUJP8K7je",
@@ -30020,6 +30050,10 @@
     "name": "Libertarian Dog"
   },
   {
+    "id": "solana-mainnet:sol-spl:EgrWay6HeQV7VeZ6CiKuLaMJDESZa1woKuznhyTEpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Eh1fXbAipe4k7CYR9UMb2bbWmBcpU3HcyX3LWuRVFBLz",
     "isValid": true,
     "symbol": "FM",
@@ -39848,6 +39882,10 @@
     "symbol": "SCORPIO",
     "decimals": 6,
     "name": "Scorpio"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:J4ixzSEG99FWNoHRYfoaE3y2e7T7e7KX8NKNPy96pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:J4ywFdm8H7hjwKzCaEQujhkDRfCnRviVnHMvFNDAoLNQ",

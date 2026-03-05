@@ -7203,6 +7203,10 @@
           "coingeckoId": "forta"
         },
         {
+          "contractAddress": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+          "coingeckoId": "forte-aud"
+        },
+        {
           "contractAddress": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
           "coingeckoId": "fort-knox"
         },
@@ -40881,6 +40885,10 @@
         {
           "contractAddress": "0x9ff62d1fc52a907b6dcba8077c2ddca6e6a9d3e1",
           "coingeckoId": "forta"
+        },
+        {
+          "contractAddress": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+          "coingeckoId": "forte-aud"
         },
         {
           "contractAddress": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
@@ -87353,6 +87361,10 @@
           "coingeckoId": "fort-block-games"
         },
         {
+          "contractAddress": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+          "coingeckoId": "forte-aud"
+        },
+        {
           "contractAddress": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
           "coingeckoId": "frankencoin"
         },
@@ -93137,7 +93149,7 @@
           "coingeckoId": "aston-martin-cognizant-fan-token"
         },
         {
-          "contractAddress": "0x095726841dc9bf395114ac83f8fd42b176cfad10",
+          "contractAddress": "0x4f3a607bb2717683108865fc785badfa90094431",
           "coingeckoId": "aston-villa-fan-token"
         },
         {
@@ -93153,7 +93165,7 @@
           "coingeckoId": "chiliz-inu"
         },
         {
-          "contractAddress": "0x8a48ad8279318757ea7905b460816c4b92de447e",
+          "contractAddress": "0x99f7b1f8d445b6cbd231017820de372e2c5f9a27",
           "coingeckoId": "club-atletico-independiente"
         },
         {
@@ -93181,7 +93193,7 @@
           "coingeckoId": "flamengo-fan-token"
         },
         {
-          "contractAddress": "0x86930777d43605c40ba786f7802778ff5413efab",
+          "contractAddress": "0x9840dc03032f4f35d7dbdc8db832acfaf6ff3e77",
           "coingeckoId": "fluminense-fc-fan-token"
         },
         {
@@ -93233,7 +93245,7 @@
           "coingeckoId": "og-fan-token"
         },
         {
-          "contractAddress": "0x971364ec452958d4d65ba8d508faa226d7117279",
+          "contractAddress": "0xb46357d8ed050d35d3a24154c39d7236dae86187",
           "coingeckoId": "palmeiras-fan-token"
         },
         {
@@ -93253,7 +93265,7 @@
           "coingeckoId": "professional-fighters-league-fan-token"
         },
         {
-          "contractAddress": "0xfc21c38f4802ab29aed8cc7367542a0955cfa9d7",
+          "contractAddress": "0xf78e9ce916a7d6b3d4facba95b9e9b8bba5df609",
           "coingeckoId": "samsunspor-fan-token"
         },
         {
@@ -93265,7 +93277,7 @@
           "coingeckoId": "s-c-corinthians-fan-token"
         },
         {
-          "contractAddress": "0x3175e779b42d35e2c9eeafadcf5b6e6ec6e4f910",
+          "contractAddress": "0x4c360be766dd95c973be30c4130e7b4b762113e0",
           "coingeckoId": "sc-internacional-fan-token"
         },
         {
@@ -93277,7 +93289,7 @@
           "coingeckoId": "sint-truidense-voetbalvereniging-fan-token"
         },
         {
-          "contractAddress": "0xad7c869f357b57bb03050183d1ba8ec465cd69dc",
+          "contractAddress": "0xf4c653b74929953b29b966aba99b681fb5ab69cf",
           "coingeckoId": "sl-benfica-fan-token"
         },
         {
@@ -93285,7 +93297,7 @@
           "coingeckoId": "team-heretics-fan-token"
         },
         {
-          "contractAddress": "0xf17b1e028537aba705433f7cebdca881b5c5b79e",
+          "contractAddress": "0x7308f4c7b4a9a0e180fd08c003255762dd139d54",
           "coingeckoId": "tigres-fan-token"
         },
         {
@@ -93301,11 +93313,11 @@
           "coingeckoId": "ufc-fan-token"
         },
         {
-          "contractAddress": "0xba0c26485b1909f80476067272d74a99cc0e1d57",
+          "contractAddress": "0x83d7d1df01c698b4379077af4bceb2d4af113bff",
           "coingeckoId": "valencia-cf-fan-token"
         },
         {
-          "contractAddress": "0x6d72034d7508d16988bf84638d51592a8c02887b",
+          "contractAddress": "0xd5f1b2454db115967bfac73bfea21da5e2543c8e",
           "coingeckoId": "vasco-da-gama-fan-token"
         },
         {

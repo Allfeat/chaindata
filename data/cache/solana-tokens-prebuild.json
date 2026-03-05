@@ -1913,6 +1913,17 @@
     "mintAddress": "2obLASom28dxTDLJxfocejSD5emSzbESWmXuX4Fubonk"
   },
   {
+    "id": "solana-mainnet:sol-spl:2ocYd9f3564zUL1j6zUi8FR6Rn4Yo76BvXoZwLYASYFR",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "SYFR",
+    "decimals": 6,
+    "name": "SYFR AI",
+    "coingeckoId": "syfr-ai",
+    "mintAddress": "2ocYd9f3564zUL1j6zUi8FR6Rn4Yo76BvXoZwLYASYFR"
+  },
+  {
     "id": "solana-mainnet:sol-spl:2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -16101,6 +16112,17 @@
     "name": "Bunnie",
     "coingeckoId": "bunnie-2",
     "mintAddress": "7XeR2pjfqocWAVmV3fefcCPgZNE4eByV2vgdcjs9pump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7XiycwkFwd1ig3yhncPxaq3qwJ6S2RpHc63C541hgmdC",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "HYDAO",
+    "decimals": 9,
+    "name": "HYPERSDAO TOKEN",
+    "coingeckoId": "hydao",
+    "mintAddress": "7XiycwkFwd1ig3yhncPxaq3qwJ6S2RpHc63C541hgmdC"
   },
   {
     "id": "solana-mainnet:sol-spl:7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
