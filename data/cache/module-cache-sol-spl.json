@@ -28232,6 +28232,10 @@
     "name": "bullish"
   },
   {
+    "id": "solana-mainnet:sol-spl:Dob5TVKdisbwk1QSppADF8knxHtLR6DovxHGqaocpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DocTwz3QhCgKy1CJJMruEAFEG5xTGoC43vPMkC41pump",
     "isValid": true,
     "symbol": "diarrhea",
