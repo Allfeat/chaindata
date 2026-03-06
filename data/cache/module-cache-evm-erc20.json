@@ -74432,6 +74432,13 @@
     "isValid": true
   },
   {
+    "id": "42161:evm-erc20:0x68731d6f14b827bbcffbebb62b19daa18de1d79c",
+    "isValid": true,
+    "symbol": "IDOS",
+    "decimals": 18,
+    "name": "IDOSToken"
+  },
+  {
     "id": "42161:evm-erc20:0x68d6d2545f14751baf36c417c2cc7cdf8da8a15b",
     "symbol": "PlsSyk",
     "decimals": 18,
@@ -139277,6 +139284,13 @@
     "symbol": "NEIRO",
     "decimals": 9,
     "name": "Neiro"
+  },
+  {
+    "id": "999:evm-erc20:0x2749bc3291ba74c01ff9f81de4dcb109ebfee7c7",
+    "isValid": true,
+    "symbol": "HMT",
+    "decimals": 18,
+    "name": "HUMAN Token"
   },
   {
     "id": "999:evm-erc20:0x27ec642013bcb3d80ca3706599d3cda04f6f4452",

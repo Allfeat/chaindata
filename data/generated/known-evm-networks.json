@@ -9523,10 +9523,6 @@
           "coingeckoId": "journart"
         },
         {
-          "contractAddress": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
-          "coingeckoId": "jpeg-d"
-        },
-        {
           "contractAddress": "0x03c1ec4ca9dbb168e6db0def827c085999cbffaf",
           "coingeckoId": "jpmorgan-chase-ondo-tokenized-stock"
         },
@@ -31259,10 +31255,6 @@
           "coingeckoId": "metavpad"
         },
         {
-          "contractAddress": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
-          "coingeckoId": "metawars"
-        },
-        {
           "contractAddress": "0x9d39ef3bbca5927909dde44476656b81bbe4ee75",
           "coingeckoId": "metawear"
         },
@@ -31957,10 +31949,6 @@
         {
           "contractAddress": "0xe94db607eba8f76a377d9bcc327c9856ed90fbde",
           "coingeckoId": "nina"
-        },
-        {
-          "contractAddress": "0x5ac5e6af46ef285b3536833e65d245c49b608d9b",
-          "coingeckoId": "niob"
         },
         {
           "contractAddress": "0xc6f9edbee6042a237d72493bbda3ee2c3c62f708",
@@ -51931,6 +51919,10 @@
         {
           "contractAddress": "0x738dd55c272b0b686382f62dd4a590056839f4f6",
           "coingeckoId": "holy-liquid"
+        },
+        {
+          "contractAddress": "0x2749bc3291ba74c01ff9f81de4dcb109ebfee7c7",
+          "coingeckoId": "human-protocol"
         },
         {
           "contractAddress": "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77",
@@ -83907,6 +83899,10 @@
         {
           "contractAddress": "0x6db8b088c4d41d622b44cd81b900ba690f2d496c",
           "coingeckoId": "idia"
+        },
+        {
+          "contractAddress": "0x68731d6f14b827bbcffbebb62b19daa18de1d79c",
+          "coingeckoId": "idos"
         },
         {
           "contractAddress": "0xe649e6a1f2afc63ca268c2363691cecaf75cf47c",
