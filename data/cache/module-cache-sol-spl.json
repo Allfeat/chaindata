@@ -8658,6 +8658,10 @@
     "name": "Gorillas In The Mist"
   },
   {
+    "id": "solana-mainnet:sol-spl:5T17aqgJ8cM39SNuVBu2LK2cq5MWUpZxcQnnuwNjpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:5t3hBZDnxksnWiUu1jw42rq4b7h3VCSXUSTEojHDpump",
     "isValid": true,
     "symbol": "VIVEK",
@@ -28334,6 +28338,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:doPqjCxi6UkANkvMz5fSuYGEo5PGppVpTZMeB5vondo",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Dor8frTyjvgrok3zg95PzVHxnJTKyUP7tmL2Pvo8pump",
     "isValid": false
   },
   {

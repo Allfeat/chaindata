@@ -37063,6 +37063,13 @@
     "name": "AppLovin (Ondo Tokenized)"
   },
   {
+    "id": "1:evm-erc20:0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
+    "isValid": true,
+    "symbol": "kpk_USDC_YieldV2",
+    "decimals": 18,
+    "name": "kpk USDC Yield V2"
+  },
+  {
     "id": "1:evm-erc20:0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
     "symbol": "WRLD",
     "decimals": 18,
@@ -92044,6 +92051,13 @@
     "symbol": "HAVEN",
     "decimals": 18,
     "name": "Haven"
+  },
+  {
+    "id": "56:evm-erc20:0x3c10e343095e4fddf5cc36fcd41e298cf9ad2eaa",
+    "isValid": true,
+    "symbol": "ORX",
+    "decimals": 18,
+    "name": "OREX"
   },
   {
     "id": "56:evm-erc20:0x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0",
