@@ -46042,6 +46042,13 @@
     "isValid": true
   },
   {
+    "id": "100:evm-erc20:0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "isValid": true,
+    "symbol": "wARS",
+    "decimals": 18,
+    "name": "Peso Argentino"
+  },
+  {
     "id": "100:evm-erc20:0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
     "symbol": "bERNA",
     "decimals": 18,
@@ -50563,6 +50570,13 @@
     "decimals": 18,
     "name": "Cropto Wheat Token",
     "isValid": true
+  },
+  {
+    "id": "137:evm-erc20:0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "isValid": true,
+    "symbol": "wARS",
+    "decimals": 18,
+    "name": "Peso Argentino"
   },
   {
     "id": "137:evm-erc20:0x0dde4811c4dd68dc740a1d7997f33ff46cd186a9",
@@ -86943,6 +86957,13 @@
     "symbol": "HYGon",
     "decimals": 18,
     "name": "iBoxx $ High Yield Corporate Bond ETF (Ondo Tokenized)"
+  },
+  {
+    "id": "56:evm-erc20:0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+    "isValid": true,
+    "symbol": "wARS",
+    "decimals": 18,
+    "name": "Peso Argentino"
   },
   {
     "id": "56:evm-erc20:0x0dcd05357b83bf100e668f152bf14bf96b679cd1",
@@ -137241,6 +137262,13 @@
     "isValid": true
   },
   {
+    "id": "88888:evm-erc20:0x02728748392f1875682940681f4c936fc683a68e",
+    "isValid": true,
+    "symbol": "NAVI",
+    "decimals": 18,
+    "name": "Natus Vincere"
+  },
+  {
     "id": "88888:evm-erc20:0x05765a792a04ecc6d45102b45874bc44a95a2d7e",
     "isValid": true,
     "symbol": "NAVI",
@@ -137295,6 +137323,13 @@
     "symbol": "WAFC",
     "decimals": 18,
     "name": "Wrapped Arsenal FC"
+  },
+  {
+    "id": "88888:evm-erc20:0x109b738569a04ea31ca06b47af06cfdda87adf48",
+    "isValid": true,
+    "symbol": "ALL",
+    "decimals": 18,
+    "name": "Alliance"
   },
   {
     "id": "88888:evm-erc20:0x19ca0f4adb29e2130a56b9c9422150b5dc07f294",
@@ -137855,6 +137890,13 @@
     "symbol": "WAVL",
     "decimals": 18,
     "name": "Wrapped Aston Villa"
+  },
+  {
+    "id": "88888:evm-erc20:0xc9f723625e80a81cba2cad3e6871d3bdf2a7ecc7",
+    "isValid": true,
+    "symbol": "UFC",
+    "decimals": 18,
+    "name": "UFC"
   },
   {
     "id": "88888:evm-erc20:0xce1e295c23d6c99909a414b0dde447c15bb4db7d",

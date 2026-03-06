@@ -3623,10 +3623,6 @@
           "coingeckoId": "chaingpt"
         },
         {
-          "contractAddress": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
-          "coingeckoId": "chain-guardians"
-        },
-        {
           "contractAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
           "coingeckoId": "chainlink"
         },
@@ -24011,6 +24007,10 @@
           "coingeckoId": "arena-token"
         },
         {
+          "contractAddress": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+          "coingeckoId": "argentine-peso"
+        },
+        {
           "contractAddress": "0x851f7a700c5d67db59612b871338a85526752c25",
           "coingeckoId": "argon"
         },
@@ -26057,10 +26057,6 @@
         {
           "contractAddress": "0xbac405e6b93846cdc809db7af3380746efa2c06f",
           "coingeckoId": "chaingpu"
-        },
-        {
-          "contractAddress": "0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
-          "coingeckoId": "chain-guardians"
         },
         {
           "contractAddress": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
@@ -37961,6 +37957,10 @@
           "coingeckoId": "angle-usd"
         },
         {
+          "contractAddress": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+          "coingeckoId": "argentine-peso"
+        },
+        {
           "contractAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
           "coingeckoId": "aura-finance"
         },
@@ -39527,6 +39527,10 @@
           "coingeckoId": "ares3-network"
         },
         {
+          "contractAddress": "0x0dc4f92879b7670e5f4e4e6e3c801d229129d90d",
+          "coingeckoId": "argentine-peso"
+        },
+        {
           "contractAddress": "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e",
           "coingeckoId": "arianee"
         },
@@ -40033,10 +40037,6 @@
         {
           "contractAddress": "0xd55fce7cdab84d84f2ef3f99816d765a2a94a509",
           "coingeckoId": "chain-games"
-        },
-        {
-          "contractAddress": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5",
-          "coingeckoId": "chain-guardians"
         },
         {
           "contractAddress": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
@@ -92829,7 +92829,7 @@
           "coingeckoId": "alfa-romeo-racing-orlen-fan-token"
         },
         {
-          "contractAddress": "0xc5c0d1e98d9b1398a37c82ed81086674baef2a72",
+          "contractAddress": "0x109b738569a04ea31ca06b47af06cfdda87adf48",
           "coingeckoId": "alliance-fan-token"
         },
         {
@@ -92937,7 +92937,7 @@
           "coingeckoId": "napoli-fan-token"
         },
         {
-          "contractAddress": "0x05765a792a04ecc6d45102b45874bc44a95a2d7e",
+          "contractAddress": "0x02728748392f1875682940681f4c936fc683a68e",
           "coingeckoId": "natus-vincere-fan-token"
         },
         {
@@ -93013,7 +93013,7 @@
           "coingeckoId": "trabzonspor-fan-token"
         },
         {
-          "contractAddress": "0x0ffa63502f957b66e61f87761cc240e51c74cee5",
+          "contractAddress": "0xc9f723625e80a81cba2cad3e6871d3bdf2a7ecc7",
           "coingeckoId": "ufc-fan-token"
         },
         {

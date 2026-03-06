@@ -329,6 +329,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:217dt9idH1Q9UXT8rjpknnyFggizXUVD2r5EZNjopump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:21AErpiB8uSb94oQKRcwuHqyHF93njAxBSbdUrpupump",
     "isValid": true,
     "symbol": "Wif",
@@ -29474,6 +29478,10 @@
     "symbol": "SORACLE",
     "decimals": 6,
     "name": "Soracle"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:E9SmMCvtLfitMwkLzkduwgN8ZYcfepiELLQ8d1SApump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:e9tZR9VJXqpjbGGjBuf3ypAgaf4w3K1p22pDfTTMDTc",

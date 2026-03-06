@@ -7933,11 +7933,11 @@
     "type": "substrate-dtao",
     "symbol": "ვ",
     "decimals": 9,
-    "name": "SN102 | ViewCast ვ",
+    "name": "SN102 | Vocence ვ",
     "coingeckoId": "better-therapy",
     "isDefault": true,
     "netuid": 102,
-    "subnetName": "ViewCast",
+    "subnetName": "Vocence",
     "isTransferable": true
   },
   {
