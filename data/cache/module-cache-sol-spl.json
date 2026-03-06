@@ -3933,6 +3933,10 @@
     "name": "Wrapped BTC (Wormhole)"
   },
   {
+    "id": "solana-mainnet:sol-spl:3oaRkLHm94Y2fisjNPwkcHV7iUjTMdh5cSQyGarUpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:3oEHLDg8VokqBM37u7ohkbKUKcdPE8sT8Btgrxovpump",
     "isValid": false
   },
@@ -18300,6 +18304,10 @@
     "name": "Bobby Rizz"
   },
   {
+    "id": "solana-mainnet:sol-spl:9VYUuSVZGw82Nz8rcSix4x4zurBmvkfiKtyvYCY4pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:9W2f1XcQrMqcDpfzXL9kjBtjNwCkpFq27X7eqtBynieS",
     "isValid": true,
     "symbol": "BOOSEY",
@@ -32407,6 +32415,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:FEhfph34VeoCfkuiNnv89pEGPiGPukWfhrKtLko66mvj",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FEhKKF3xMEzgHkBHRGJArdQ8TpkCX9KQD6DhJRMzpump",
     "isValid": false
   },
   {

@@ -130432,6 +130432,13 @@
     "name": "DONNIE$"
   },
   {
+    "id": "8453:evm-erc20:0xa2c22252cdc8b7cddee1b0b2e242818509fcf7b8",
+    "isValid": true,
+    "symbol": "SXT",
+    "decimals": 18,
+    "name": "Space and Time"
+  },
+  {
     "id": "8453:evm-erc20:0xa2cac0023a4797b4729db94783405189a4203afc",
     "symbol": "Re7WETH",
     "decimals": 18,

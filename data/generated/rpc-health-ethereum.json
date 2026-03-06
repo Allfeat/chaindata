@@ -328,7 +328,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:58.605Z"
+    "timestamp": "2026-03-06T12:16:15.225Z"
   },
   {
     "networkId": "169",
@@ -947,7 +947,7 @@
       "status": "MEH",
       "error": "HTTP 429 - Too Many Requests"
     },
-    "timestamp": "2026-02-23T12:19:59.615Z"
+    "timestamp": "2026-03-06T12:16:23.179Z"
   },
   {
     "networkId": "81457",
@@ -1045,7 +1045,7 @@
       "status": "MEH",
       "error": "HTTP 429 - Too Many Requests"
     },
-    "timestamp": "2026-02-23T06:31:01.585Z"
+    "timestamp": "2026-03-06T12:16:17.425Z"
   },
   {
     "networkId": "1135",
@@ -1977,7 +1977,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:58.420Z"
+    "timestamp": "2026-03-06T12:16:23.325Z"
   },
   {
     "networkId": "137",
@@ -2726,7 +2726,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:00.963Z"
+    "timestamp": "2026-03-06T12:16:16.482Z"
   },
   {
     "networkId": "1398243",
@@ -2815,10 +2815,10 @@
     "networkId": "43113",
     "rpc": "https://avalanche-fuji.therpc.io",
     "health": {
-      "status": "NOK",
-      "error": "HTTP 525 - <none>"
+      "status": "MEH",
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:30:52.676Z"
+    "timestamp": "2026-03-06T12:16:10.541Z"
   },
   {
     "networkId": "43114",
@@ -2867,9 +2867,9 @@
     "rpc": "https://avalanche.therpc.io",
     "health": {
       "status": "MEH",
-      "error": "Timeout"
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:30:56.238Z"
+    "timestamp": "2026-03-06T12:16:10.968Z"
   },
   {
     "networkId": "43114",
@@ -2878,7 +2878,7 @@
       "status": "MEH",
       "error": "Timeout"
     },
-    "timestamp": "2026-02-23T06:31:06.230Z"
+    "timestamp": "2026-03-06T12:16:23.954Z"
   },
   {
     "networkId": "43113",
@@ -2887,7 +2887,7 @@
       "status": "MEH",
       "error": "Timeout"
     },
-    "timestamp": "2026-02-23T06:30:56.824Z"
+    "timestamp": "2026-03-06T12:16:15.253Z"
   },
   {
     "networkId": "700",
@@ -2905,7 +2905,7 @@
       "status": "NOK",
       "error": "HTTP 404 - Not Found"
     },
-    "timestamp": "2026-02-23T06:30:57.564Z"
+    "timestamp": "2026-03-06T12:16:12.947Z"
   },
   {
     "networkId": "43114",
@@ -2914,7 +2914,7 @@
       "status": "MEH",
       "error": "HTTP 402 - Payment Required"
     },
-    "timestamp": "2026-02-23T06:30:52.238Z"
+    "timestamp": "2026-03-06T12:16:11.253Z"
   },
   {
     "networkId": "43114",
@@ -2922,7 +2922,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:52.385Z"
+    "timestamp": "2026-03-06T12:16:10.608Z"
   },
   {
     "networkId": "43114",
@@ -3400,7 +3400,7 @@
       "status": "NOK",
       "error": "HTTP 400 - Bad Request"
     },
-    "timestamp": "2026-02-23T12:19:56.884Z"
+    "timestamp": "2026-03-06T12:16:21.664Z"
   },
   {
     "networkId": "80069",
@@ -3418,7 +3418,7 @@
       "status": "MEH",
       "error": "HTTP 402 - Payment Required"
     },
-    "timestamp": "2026-02-23T12:19:57.056Z"
+    "timestamp": "2026-03-06T12:16:22.063Z"
   },
   {
     "networkId": "80094",
@@ -3443,7 +3443,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:56.971Z"
+    "timestamp": "2026-03-06T12:16:21.996Z"
   },
   {
     "networkId": "80094",
@@ -3682,7 +3682,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:58.736Z"
+    "timestamp": "2026-03-06T12:16:22.464Z"
   },
   {
     "networkId": "81457",
@@ -3691,7 +3691,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T12:19:58.753Z"
+    "timestamp": "2026-03-06T12:16:22.488Z"
   },
   {
     "networkId": "81457",
@@ -3909,7 +3909,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:00.322Z"
+    "timestamp": "2026-03-06T12:16:16.168Z"
   },
   {
     "networkId": "60808",
@@ -3917,7 +3917,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:00.644Z"
+    "timestamp": "2026-03-06T12:16:16.378Z"
   },
   {
     "networkId": "9728",
@@ -3935,7 +3935,7 @@
       "status": "NOK",
       "error": "HTTP 400 - Bad Request"
     },
-    "timestamp": "2026-02-23T06:30:57.043Z"
+    "timestamp": "2026-03-06T12:16:11.818Z"
   },
   {
     "networkId": "56288",
@@ -3944,7 +3944,7 @@
       "status": "NOK",
       "error": "HTTP 404 - Not Found"
     },
-    "timestamp": "2026-02-23T06:30:57.328Z"
+    "timestamp": "2026-03-06T12:16:12.469Z"
   },
   {
     "networkId": "288",
@@ -4749,7 +4749,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.903Z"
+    "timestamp": "2026-03-06T12:16:13.963Z"
   },
   {
     "networkId": "383353",
@@ -6396,7 +6396,7 @@
       "status": "MEH",
       "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T12:19:58.904Z"
+    "timestamp": "2026-03-06T12:16:22.649Z"
   },
   {
     "networkId": "168587773",
@@ -6603,7 +6603,7 @@
       "status": "NOK",
       "error": "HTTP 410 - Gone"
     },
-    "timestamp": "2026-02-23T12:19:55.478Z"
+    "timestamp": "2026-03-06T12:16:20.463Z"
   },
   {
     "networkId": "4200",
@@ -6720,7 +6720,7 @@
       "status": "MEH",
       "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:30:52.548Z"
+    "timestamp": "2026-03-06T12:16:10.329Z"
   },
   {
     "networkId": "324",
@@ -7310,7 +7310,7 @@
       "status": "MEH",
       "error": "Timeout"
     },
-    "timestamp": "2026-02-23T06:30:56.750Z"
+    "timestamp": "2026-03-06T12:16:14.836Z"
   },
   {
     "networkId": "42421",
@@ -7319,7 +7319,7 @@
       "status": "MEH",
       "error": "Timeout"
     },
-    "timestamp": "2026-02-23T06:30:56.788Z"
+    "timestamp": "2026-03-06T12:16:14.969Z"
   },
   {
     "networkId": "1",
@@ -7556,7 +7556,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.009Z"
+    "timestamp": "2026-03-06T12:16:19.052Z"
   },
   {
     "networkId": "721",
@@ -9437,7 +9437,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:56.445Z"
+    "timestamp": "2026-03-06T12:16:10.778Z"
   },
   {
     "networkId": "48898",
@@ -9556,7 +9556,7 @@
       "status": "NOK",
       "error": "HTTP 404 - Not Found"
     },
-    "timestamp": "2026-02-23T12:19:55.591Z"
+    "timestamp": "2026-03-06T12:16:20.550Z"
   },
   {
     "networkId": "137",
@@ -10122,7 +10122,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.022Z"
+    "timestamp": "2026-03-06T12:16:11.563Z"
   },
   {
     "networkId": "11235",
@@ -10789,10 +10789,9 @@
     "networkId": "57073",
     "rpc": "https://ink-public.nodies.app",
     "health": {
-      "status": "NOK",
-      "error": "HTTP 404 - Not Found"
+      "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.715Z"
+    "timestamp": "2026-03-06T12:16:13.485Z"
   },
   {
     "networkId": "763373",
@@ -10808,7 +10807,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:58.292Z"
+    "timestamp": "2026-03-06T12:16:14.945Z"
   },
   {
     "networkId": "57073",
@@ -10816,7 +10815,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.249Z"
+    "timestamp": "2026-03-06T12:16:12.336Z"
   },
   {
     "networkId": "88559",
@@ -11963,7 +11962,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.782Z"
+    "timestamp": "2026-03-06T12:16:13.582Z"
   },
   {
     "networkId": "59141",
@@ -11972,16 +11971,16 @@
       "status": "NOK",
       "error": "Missing info in batch response"
     },
-    "timestamp": "2026-02-23T06:30:58.247Z"
+    "timestamp": "2026-03-06T12:16:14.291Z"
   },
   {
     "networkId": "59141",
     "rpc": "https://linea-sepolia.therpc.io",
     "health": {
       "status": "MEH",
-      "error": "Timeout"
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:31:02.605Z"
+    "timestamp": "2026-03-06T12:16:17.522Z"
   },
   {
     "networkId": "19546",
@@ -11998,7 +11997,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:00.883Z"
+    "timestamp": "2026-03-06T12:16:16.743Z"
   },
   {
     "networkId": "59144",
@@ -12007,7 +12006,7 @@
       "status": "MEH",
       "error": "Timeout"
     },
-    "timestamp": "2026-02-23T12:20:00.760Z"
+    "timestamp": "2026-03-06T12:16:27.223Z"
   },
   {
     "networkId": "59144",
@@ -12015,16 +12014,16 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:58.323Z"
+    "timestamp": "2026-03-06T12:16:14.914Z"
   },
   {
     "networkId": "59144",
     "rpc": "https://linea.therpc.io",
     "health": {
       "status": "MEH",
-      "error": "Timeout"
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:31:02.999Z"
+    "timestamp": "2026-03-06T12:16:17.799Z"
   },
   {
     "networkId": "84",
@@ -12134,7 +12133,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:05.256Z"
+    "timestamp": "2026-03-06T12:16:20.254Z"
   },
   {
     "networkId": "1",
@@ -12186,7 +12185,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.385Z"
+    "timestamp": "2026-03-06T12:16:19.327Z"
   },
   {
     "networkId": "73115",
@@ -12194,7 +12193,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.909Z"
+    "timestamp": "2026-03-06T12:16:21.102Z"
   },
   {
     "networkId": "3030",
@@ -13605,7 +13604,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.144Z"
+    "timestamp": "2026-03-06T12:16:12.098Z"
   },
   {
     "networkId": "25186",
@@ -14809,7 +14808,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.389Z"
+    "timestamp": "2026-03-06T12:16:20.453Z"
   },
   {
     "networkId": "2288",
@@ -14817,7 +14816,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.352Z"
+    "timestamp": "2026-03-06T12:16:20.438Z"
   },
   {
     "networkId": "919",
@@ -16244,9 +16243,9 @@
     "rpc": "https://nrpc.lambda.im",
     "health": {
       "status": "MEH",
-      "error": "Connection blocked: ECONNREFUSED"
+      "error": "Timeout"
     },
-    "timestamp": "2026-02-23T06:30:59.031Z"
+    "timestamp": "2026-03-06T12:16:19.225Z"
   },
   {
     "networkId": "988207",
@@ -17123,7 +17122,7 @@
       "status": "NOK",
       "error": "HTTP 404 - Not Found"
     },
-    "timestamp": "2026-02-23T12:19:56.760Z"
+    "timestamp": "2026-03-06T12:16:21.954Z"
   },
   {
     "networkId": "137",
@@ -17146,10 +17145,9 @@
     "networkId": "80002",
     "rpc": "https://polygon-amoy-public.nodies.app",
     "health": {
-      "status": "NOK",
-      "error": "HTTP 404 - Not Found"
+      "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:56.140Z"
+    "timestamp": "2026-03-06T12:16:21.558Z"
   },
   {
     "networkId": "80002",
@@ -17157,7 +17155,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:56.631Z"
+    "timestamp": "2026-03-06T12:16:21.489Z"
   },
   {
     "networkId": "80002",
@@ -17166,7 +17164,7 @@
       "status": "MEH",
       "error": "HTTP 521 - "
     },
-    "timestamp": "2026-02-23T12:20:00.203Z"
+    "timestamp": "2026-03-06T12:16:23.222Z"
   },
   {
     "networkId": "80002",
@@ -17174,7 +17172,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.677Z"
+    "timestamp": "2026-03-06T12:16:20.577Z"
   },
   {
     "networkId": "80002",
@@ -17183,7 +17181,7 @@
       "status": "MEH",
       "error": "HTTP 402 - Payment Required"
     },
-    "timestamp": "2026-02-23T12:19:56.119Z"
+    "timestamp": "2026-03-06T12:16:21.408Z"
   },
   {
     "networkId": "80002",
@@ -17191,16 +17189,16 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:56.914Z"
+    "timestamp": "2026-03-06T12:16:21.932Z"
   },
   {
     "networkId": "80002",
     "rpc": "https://polygon-amoy.therpc.io",
     "health": {
-      "status": "NOK",
-      "error": "HTTP 525 - <none>"
+      "status": "MEH",
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T12:19:58.352Z"
+    "timestamp": "2026-03-06T12:16:22.354Z"
   },
   {
     "networkId": "80002",
@@ -17209,7 +17207,7 @@
       "status": "NOK",
       "error": "HTTP 404 - Not Found"
     },
-    "timestamp": "2026-02-23T12:19:56.027Z"
+    "timestamp": "2026-03-06T12:16:21.112Z"
   },
   {
     "networkId": "137",
@@ -17279,7 +17277,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T12:19:55.378Z"
+    "timestamp": "2026-03-06T12:16:20.368Z"
   },
   {
     "networkId": "80001",
@@ -17288,7 +17286,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T12:19:55.411Z"
+    "timestamp": "2026-03-06T12:16:20.423Z"
   },
   {
     "networkId": "80001",
@@ -17332,7 +17330,7 @@
       "status": "MEH",
       "error": "HTTP 403 - Forbidden"
     },
-    "timestamp": "2026-02-23T12:19:55.731Z"
+    "timestamp": "2026-03-06T12:16:20.627Z"
   },
   {
     "networkId": "2442",
@@ -17459,7 +17457,7 @@
       "status": "MEH",
       "error": "Connection blocked: ECONNREFUSED"
     },
-    "timestamp": "2026-02-23T12:19:55.861Z"
+    "timestamp": "2026-03-06T12:16:20.810Z"
   },
   {
     "networkId": "2013",
@@ -17576,7 +17574,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:02.679Z"
+    "timestamp": "2026-03-06T12:16:18.143Z"
   },
   {
     "networkId": "70103",
@@ -17584,7 +17582,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:03.547Z"
+    "timestamp": "2026-03-06T12:16:18.973Z"
   },
   {
     "networkId": "70002",
@@ -17592,7 +17590,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:03.406Z"
+    "timestamp": "2026-03-06T12:16:18.348Z"
   },
   {
     "networkId": "3068",
@@ -17956,7 +17954,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T12:19:55.608Z"
+    "timestamp": "2026-03-06T12:16:20.625Z"
   },
   {
     "networkId": "7890",
@@ -19204,7 +19202,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:58.557Z"
+    "timestamp": "2026-03-06T12:16:22.489Z"
   },
   {
     "networkId": "5545",
@@ -19358,7 +19356,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:03.885Z"
+    "timestamp": "2026-03-06T12:16:18.759Z"
   },
   {
     "networkId": "11501",
@@ -19374,7 +19372,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.031Z"
+    "timestamp": "2026-03-06T12:16:19.229Z"
   },
   {
     "networkId": "62050",
@@ -19479,7 +19477,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.875Z"
+    "timestamp": "2026-03-06T12:16:21.217Z"
   },
   {
     "networkId": "707",
@@ -19564,7 +19562,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:03.498Z"
+    "timestamp": "2026-03-06T12:16:18.274Z"
   },
   {
     "networkId": "2468",
@@ -20044,7 +20042,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:56.877Z"
+    "timestamp": "2026-03-06T12:16:11.493Z"
   },
   {
     "networkId": "531050104",
@@ -20525,7 +20523,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:05.028Z"
+    "timestamp": "2026-03-06T12:16:19.579Z"
   },
   {
     "networkId": "22225",
@@ -21799,7 +21797,7 @@
       "status": "NOK",
       "error": "RPC doesnt support batch requests"
     },
-    "timestamp": "2026-02-23T06:30:57.062Z"
+    "timestamp": "2026-03-06T12:16:11.828Z"
   },
   {
     "networkId": "570",
@@ -21843,7 +21841,7 @@
       "status": "NOK",
       "error": "HTTP 401 - Unauthorized"
     },
-    "timestamp": "2026-02-23T06:30:52.750Z"
+    "timestamp": "2026-03-06T12:16:10.491Z"
   },
   {
     "networkId": "57054",
@@ -21852,7 +21850,7 @@
       "status": "MEH",
       "error": "HTTP 403 - Forbidden"
     },
-    "timestamp": "2026-02-23T06:30:57.155Z"
+    "timestamp": "2026-03-06T12:16:12.108Z"
   },
   {
     "networkId": "146",
@@ -23281,7 +23279,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:02.229Z"
+    "timestamp": "2026-03-06T12:16:17.359Z"
   },
   {
     "networkId": "369369",
@@ -26085,7 +26083,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:01.438Z"
+    "timestamp": "2026-03-06T12:16:16.956Z"
   },
   {
     "networkId": "62621",
@@ -26471,7 +26469,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:59.792Z"
+    "timestamp": "2026-03-06T12:16:22.974Z"
   },
   {
     "networkId": "777888",
@@ -26627,7 +26625,7 @@
       "status": "NOK",
       "error": "HTTP 401 - Unauthorized"
     },
-    "timestamp": "2026-02-23T12:20:00.460Z"
+    "timestamp": "2026-03-06T12:16:23.415Z"
   },
   {
     "networkId": "56",
@@ -26681,7 +26679,7 @@
       "status": "NOK",
       "error": "HTTP 401 - Unauthorized"
     },
-    "timestamp": "2026-02-23T06:30:58.998Z"
+    "timestamp": "2026-03-06T12:16:15.581Z"
   },
   {
     "networkId": "5000",
@@ -27135,7 +27133,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T06:30:58.731Z"
+    "timestamp": "2026-03-06T12:16:15.130Z"
   },
   {
     "networkId": "1284",
@@ -27412,7 +27410,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ERR_TLS_CERT_ALTNAME_INVALID"
     },
-    "timestamp": "2026-02-23T06:30:58.396Z"
+    "timestamp": "2026-03-06T12:16:15.696Z"
   },
   {
     "networkId": "337",
@@ -28644,7 +28642,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:01.863Z"
+    "timestamp": "2026-03-06T12:16:16.821Z"
   },
   {
     "networkId": "46630",
@@ -29112,7 +29110,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T06:30:56.472Z"
+    "timestamp": "2026-03-06T12:16:10.834Z"
   },
   {
     "networkId": "299892",
@@ -30253,7 +30251,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.962Z"
+    "timestamp": "2026-03-06T12:16:19.953Z"
   },
   {
     "networkId": "20010",
@@ -30304,7 +30302,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.585Z"
+    "timestamp": "2026-03-06T12:16:19.685Z"
   },
   {
     "networkId": "20011",
@@ -30670,7 +30668,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:05.250Z"
+    "timestamp": "2026-03-06T12:16:20.247Z"
   },
   {
     "networkId": "6565",
@@ -30687,7 +30685,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:31:04.557Z"
+    "timestamp": "2026-03-06T12:16:20.386Z"
   },
   {
     "networkId": "2477",
@@ -31251,7 +31249,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:52.787Z"
+    "timestamp": "2026-03-06T12:16:10.581Z"
   },
   {
     "networkId": "998",
@@ -32590,10 +32588,10 @@
     "networkId": "57054",
     "rpc": "https://sonic-blaze.therpc.io",
     "health": {
-      "status": "NOK",
-      "error": "HTTP 525 - <none>"
+      "status": "MEH",
+      "error": "HTTP 521 - <none>"
     },
-    "timestamp": "2026-02-23T06:30:59.904Z"
+    "timestamp": "2026-03-06T12:16:16.095Z"
   },
   {
     "networkId": "146",
@@ -32625,7 +32623,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:57.229Z"
+    "timestamp": "2026-03-06T12:16:12.241Z"
   },
   {
     "networkId": "146",
@@ -32692,7 +32690,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T06:30:52.824Z"
+    "timestamp": "2026-03-06T12:16:11.272Z"
   },
   {
     "networkId": "998",
@@ -33506,7 +33504,7 @@
       "status": "NOK",
       "error": "Invalid certificate: CERT_HAS_EXPIRED"
     },
-    "timestamp": "2026-02-23T06:30:59.517Z"
+    "timestamp": "2026-03-06T12:16:15.743Z"
   },
   {
     "networkId": "60001",
@@ -33515,7 +33513,7 @@
       "status": "NOK",
       "error": "Invalid certificate: CERT_HAS_EXPIRED"
     },
-    "timestamp": "2026-02-23T06:30:59.894Z"
+    "timestamp": "2026-03-06T12:16:15.918Z"
   },
   {
     "networkId": "60103",
@@ -33524,7 +33522,7 @@
       "status": "NOK",
       "error": "Invalid certificate: CERT_HAS_EXPIRED"
     },
-    "timestamp": "2026-02-23T06:31:00.254Z"
+    "timestamp": "2026-03-06T12:16:16.286Z"
   },
   {
     "networkId": "32",
@@ -33542,7 +33540,7 @@
       "status": "NOK",
       "error": "Invalid certificate: CERT_HAS_EXPIRED"
     },
-    "timestamp": "2026-02-23T06:31:00.246Z"
+    "timestamp": "2026-03-06T12:16:16.141Z"
   },
   {
     "networkId": "1252",
@@ -34211,7 +34209,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T06:31:04.868Z"
+    "timestamp": "2026-03-06T12:16:19.377Z"
   },
   {
     "networkId": "13746",
@@ -35316,7 +35314,7 @@
       "status": "NOK",
       "error": "Invalid certificate: ENOTFOUND"
     },
-    "timestamp": "2026-02-23T06:30:52.709Z"
+    "timestamp": "2026-03-06T12:16:10.354Z"
   },
   {
     "networkId": "296",
@@ -35610,7 +35608,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:55.356Z"
+    "timestamp": "2026-03-06T12:16:20.349Z"
   },
   {
     "networkId": "107",
@@ -36924,7 +36922,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-02-23T12:19:56.669Z"
+    "timestamp": "2026-03-06T12:16:21.935Z"
   },
   {
     "networkId": "202212",
