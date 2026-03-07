@@ -3798,6 +3798,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x14dab79fd7b7b3f748d434812fd6a9aac460ea52",
+    "isValid": true,
+    "symbol": "KAU",
+    "decimals": 18,
+    "name": "Kinesis Gold"
+  },
+  {
     "id": "1:evm-erc20:0x14fee680690900ba0cccfc76ad70fd1b95d10e16",
     "symbol": "$PAAL",
     "decimals": 9,
@@ -13594,6 +13601,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+    "isValid": true,
+    "symbol": "kpk_USDC_PrimeV2",
+    "decimals": 18,
+    "name": "kpk USDC Prime V2"
+  },
+  {
     "id": "1:evm-erc20:0x4efce4c758ddfb3911a1a1282a29ce0bdb16ef86",
     "symbol": "!",
     "decimals": 18,
@@ -14896,6 +14910,13 @@
     "name": "Sentient"
   },
   {
+    "id": "1:evm-erc20:0x56ba8b58b7d1f6d384a1c4dd553f39ebc8741b8e",
+    "isValid": true,
+    "symbol": "KAG",
+    "decimals": 18,
+    "name": "Kinesis Silver"
+  },
+  {
     "id": "1:evm-erc20:0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220",
     "symbol": "CANTO",
     "decimals": 18,
@@ -16063,6 +16084,13 @@
     "decimals": 18,
     "name": "REWARD",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725",
+    "isValid": true,
+    "symbol": "kpk_ETH_YieldV2",
+    "decimals": 18,
+    "name": "kpk ETH Yield V2"
   },
   {
     "id": "1:evm-erc20:0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
@@ -29516,6 +29544,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0xa877d5bb0274dccba8556154a30e1ca4021a275f",
+    "isValid": true,
+    "symbol": "kpk_EURC_YieldV2",
+    "decimals": 18,
+    "name": "kpk EURC Yield V2"
+  },
+  {
     "id": "1:evm-erc20:0xa882606494d86804b5514e07e6bd2d6a6ee6d68a",
     "isValid": true,
     "symbol": "WPLS",
@@ -32507,6 +32542,13 @@
     "decimals": 18,
     "name": "VectorChat.ai",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
+    "isValid": true,
+    "symbol": "kpk_ETH_PrimeV2",
+    "decimals": 18,
+    "name": "kpk ETH Prime V2"
   },
   {
     "id": "1:evm-erc20:0xbb51e2a15a9158ebe2b0ceb8678511e063ab7a55",
@@ -133448,6 +133490,13 @@
     "decimals": 18,
     "name": "WachXBT by Virtuals",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xccae4fe9719a6b492803613a0a7f2832944a4630",
+    "isValid": true,
+    "symbol": "BEAN",
+    "decimals": 18,
+    "name": "Lil Bean"
   },
   {
     "id": "8453:evm-erc20:0xccb00cb269a62dc0c2021c3d699a564e8a868f48",

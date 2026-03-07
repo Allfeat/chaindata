@@ -9727,6 +9727,14 @@
           "coingeckoId": "kine-protocol"
         },
         {
+          "contractAddress": "0x14dab79fd7b7b3f748d434812fd6a9aac460ea52",
+          "coingeckoId": "kinesis-gold"
+        },
+        {
+          "contractAddress": "0x56ba8b58b7d1f6d384a1c4dd553f39ebc8741b8e",
+          "coingeckoId": "kinesis-silver"
+        },
+        {
           "contractAddress": "0x0bbcefa5f3630cae34842cb9d9b36bc0d4257a0d",
           "coingeckoId": "kinetixfi"
         },
@@ -9877,6 +9885,22 @@
         {
           "contractAddress": "0xbf3f63d8ac133b16d7d50c015036b33219dd8d23",
           "coingeckoId": "kpk"
+        },
+        {
+          "contractAddress": "0xbb50a5341368751024ddf33385ba8cf61fe65ff9",
+          "coingeckoId": "kpk-eth-prime"
+        },
+        {
+          "contractAddress": "0x5dbf760b4fd0cddde0366b33aeb338b2a6d77725",
+          "coingeckoId": "kpk-eth-yield"
+        },
+        {
+          "contractAddress": "0xa877d5bb0274dccba8556154a30e1ca4021a275f",
+          "coingeckoId": "kpk-eurc-yield"
+        },
+        {
+          "contractAddress": "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+          "coingeckoId": "kpk-usdc-prime"
         },
         {
           "contractAddress": "0xd5cce260e7a755ddf0fb9cdf06443d593aaeaa13",
@@ -70767,6 +70791,10 @@
         {
           "contractAddress": "0xbede17c8b0535791d131f0d6b6094b99cf27eb07",
           "coingeckoId": "likes"
+        },
+        {
+          "contractAddress": "0xccae4fe9719a6b492803613a0a7f2832944a4630",
+          "coingeckoId": "lil-bean"
         },
         {
           "contractAddress": "0xa0a2e84f6f19c09a095d4a83ac8de5a32d303a13",

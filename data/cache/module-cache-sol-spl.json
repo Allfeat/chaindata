@@ -12397,6 +12397,10 @@
     "name": "Sonic Sniper"
   },
   {
+    "id": "solana-mainnet:sol-spl:7EW5dDD6MYJK4PcZ89MGApJQwWeDEeNgH4NCVU4qpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:7eyAgnvYWvvcv6gWo85LBzARPx3goGhBXyCKnci2mdDW",
     "isValid": true,
     "symbol": "GGAI",
@@ -16655,6 +16659,10 @@
     "symbol": "CRIP",
     "decimals": 6,
     "name": "crippleguy"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:9aCHVRfLuKV6R5yBnuEjHQjs166yu6y2St8rp5pKpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:9ae76zqD3cgzR9gvf5Thc2NN3ACF7rqqnrLqxNzgcre6",
@@ -34552,6 +34560,10 @@
     "symbol": "AI23T",
     "decimals": 6,
     "name": "23 Turtles"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:G63pAYWkZd71Jdy83bbdvs6HMQxaYVWy5jsS1hK3pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:g646pcdG2Rt5DH9WZzL7VVnVDWCCMTTrnktwE74ondo",
