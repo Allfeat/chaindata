@@ -10969,6 +10969,10 @@
     "name": "Kitten Wif Hat"
   },
   {
+    "id": "solana-mainnet:sol-spl:6RxB1KdzVMXrrYn7nQWvaGgh5e2EpbA1FcEFtq74pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:6sSKobm4TSRqJuXMuczGdV2BZityP76PGBJJ2ALHpump",
     "isValid": true,
     "symbol": "Calicoin",
@@ -11887,6 +11891,10 @@
     "symbol": "HUAHUA",
     "decimals": 6,
     "name": "HUA HUA | 花花"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:77UrDzChDJmSQbQDEjBGLmaKqyxbWiEEzSTtEWwbpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:78E2eW1QBg15cinNR4wfFzu9SJPsDXQKR29SNpApg78J",
@@ -16199,6 +16207,10 @@
     "symbol": "IMO",
     "decimals": 9,
     "name": "IMO"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:8zbUbQSt1QvGAPr7r2SQ2mH3SzYDkbGddQrKPiDbpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
@@ -23069,6 +23081,10 @@
     "name": "Borgy"
   },
   {
+    "id": "solana-mainnet:sol-spl:BoRiiSZ4hqtbCnQc7cWaEYTEtxmzRXyy5xaKCt7Ppump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:BorpaZo2RdiYcriLJu2GRefZdgQPmv63nA8jsVVsMV7W",
     "isValid": true,
     "symbol": "GORPLE",
@@ -25646,6 +25662,10 @@
     "symbol": "compassSOL",
     "decimals": 9,
     "name": "Compass SOL"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CoPRYLGHc7Qadere13xSPhRvgwwStCZn9dHpBZQ7pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:coqRkaaKeUygDPhuS3mrmrj6DiHjeQJc2rFbT2YfxWn",
@@ -33343,6 +33363,10 @@
     "name": "Famous Fox Federation"
   },
   {
+    "id": "solana-mainnet:sol-spl:FP7NvFXQXoZL1nQC5QZtE1bzwgALdxj1TeA9J25epump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:FP9axFNBC1V68BLTDqtWAP6vVVqP9daNr57wmx4Tpump",
     "isValid": true,
     "symbol": "GOONER",
@@ -36700,6 +36724,10 @@
     "symbol": "PH",
     "decimals": 6,
     "name": "Pumphotel"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:GWcAPiF2cBf5de8E1eSERcnVdH411NqT2peG7zDJpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:GWdFcYSbpQLywCe5qQkBPeojHGQHmX3L16SQM9mq9fCt",

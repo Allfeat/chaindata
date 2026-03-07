@@ -8787,10 +8787,6 @@
           "coingeckoId": "ice-land-on-eth"
         },
         {
-          "contractAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
-          "coingeckoId": "ice-token"
-        },
-        {
           "contractAddress": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
           "coingeckoId": "ichi-farm"
         },
@@ -9989,10 +9985,6 @@
         {
           "contractAddress": "0x2c2d8a078b33bf7782a16acce2c5ba6653a90d5f",
           "coingeckoId": "l3usd"
-        },
-        {
-          "contractAddress": "0xacc5f95ead9874c21b6e83f4c051045a133e1b94",
-          "coingeckoId": "lack-of-memes"
         },
         {
           "contractAddress": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467",
@@ -12033,10 +12025,6 @@
         {
           "contractAddress": "0x9ac07635ddbde5db18648c360defb00f5f22537e",
           "coingeckoId": "museum-of-crypto-art"
-        },
-        {
-          "contractAddress": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8",
-          "coingeckoId": "musk-gold"
         },
         {
           "contractAddress": "0x9c78ee466d6cb57a4d01fd887d2b5dfb2d46288f",
@@ -29391,10 +29379,6 @@
           "coingeckoId": "ice-open-network"
         },
         {
-          "contractAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
-          "coingeckoId": "ice-token"
-        },
-        {
           "contractAddress": "0x0ef4a107b48163ab4b57fca36e1352151a587be4",
           "coingeckoId": "ichi-farm"
         },
@@ -36959,10 +36943,6 @@
           "coingeckoId": "zignaly"
         },
         {
-          "contractAddress": "0x9a2478c4036548864d96a97fbf93f6a3341fedac",
-          "coingeckoId": "zillion-aakar-xo"
-        },
-        {
           "contractAddress": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
           "coingeckoId": "zilliqa"
         },
@@ -40961,10 +40941,6 @@
         {
           "contractAddress": "0xb9df5fda1c435cd4017a1f1f9111996520b64439",
           "coingeckoId": "ibs-2"
-        },
-        {
-          "contractAddress": "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59",
-          "coingeckoId": "ice-token"
         },
         {
           "contractAddress": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
@@ -46077,10 +46053,6 @@
         {
           "contractAddress": "0x90b89e881961e1053aeaddba13217d56f747349a",
           "coingeckoId": "hyve"
-        },
-        {
-          "contractAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
-          "coingeckoId": "ice-token"
         },
         {
           "contractAddress": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
@@ -56972,7 +56944,8 @@
     "blockExplorerUrls": ["https://mainnet.qie.digital/"],
     "rpcs": ["https://rpc1mainnet.qie.digital", "https://rpc5mainnet.qie.digital"],
     "icon": "qiev3",
-    "shortName": "QIEV3"
+    "shortName": "QIEV3",
+    "chainSlug": "qie"
   },
   {
     "id": "1992",
@@ -69280,6 +69253,10 @@
           "coingeckoId": "eagle-ai"
         },
         {
+          "contractAddress": "0x62bcefd446f97526ecc1375d02e014cfb8b48ba3",
+          "coingeckoId": "earendel"
+        },
+        {
           "contractAddress": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
           "coingeckoId": "echelon-prime"
         },
@@ -71318,6 +71295,10 @@
         {
           "contractAddress": "0x686015ebf044a1b8a4be750346be00293a996071",
           "coingeckoId": "minds"
+        },
+        {
+          "contractAddress": "0x5c72992b83e74c4d5200a8e8920fb946214a5a5d",
+          "coingeckoId": "minebean"
         },
         {
           "contractAddress": "0x534b7aad1cdb6f02ec48cabe428f0d9131e40b07",
