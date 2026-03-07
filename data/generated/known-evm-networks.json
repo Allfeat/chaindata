@@ -25143,10 +25143,6 @@
           "coingeckoId": "bitfloki"
         },
         {
-          "contractAddress": "0xa03110800894b3ccf8723d991d80875561f96777",
-          "coingeckoId": "bit-game-verse-token"
-        },
-        {
           "contractAddress": "0x5fa699c0c1319b8d86489af77dfde4fa97b47df8",
           "coingeckoId": "bitgo-holdings-ondo-tokenized-stock"
         },
