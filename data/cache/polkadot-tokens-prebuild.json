@@ -9606,11 +9606,11 @@
     "type": "substrate-dtao",
     "symbol": "᚛",
     "decimals": 9,
-    "name": "SN96 | FLock OFF ᚛",
+    "name": "SN96 | X ᚛",
     "coingeckoId": "flock-off",
     "isDefault": true,
     "netuid": 96,
-    "subnetName": "FLock OFF",
+    "subnetName": "X",
     "isTransferable": true
   },
   {

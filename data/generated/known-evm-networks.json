@@ -1471,10 +1471,6 @@
           "coingeckoId": "apy-vision"
         },
         {
-          "contractAddress": "0xa9f94f19abf3089d535b1de2cc058a365ea716c7",
-          "coingeckoId": "aqtis"
-        },
-        {
           "contractAddress": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
           "coingeckoId": "aragon"
         },
@@ -2859,10 +2855,6 @@
           "coingeckoId": "block-street"
         },
         {
-          "contractAddress": "0xc14b4d4ca66f40f352d7a50fd230ef8b2fb3b8d4",
-          "coingeckoId": "blocktools"
-        },
-        {
           "contractAddress": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
           "coingeckoId": "blockv"
         },
@@ -3373,10 +3365,6 @@
         {
           "contractAddress": "0x4951bec6f4dfc23935c0ec8af92f231f4c20ea03",
           "coingeckoId": "bytomdao"
-        },
-        {
-          "contractAddress": "0x56d811088235f11c8920698a204a5010a788f4b3",
-          "coingeckoId": "bzx-protocol"
         },
         {
           "contractAddress": "0x40caa7912437002ee2c8415d43e7f575c733674c",
@@ -5971,10 +5959,6 @@
           "coingeckoId": "drx"
         },
         {
-          "contractAddress": "0x0880164084017b8d49baa0a33f545ad55914e9fd",
-          "coingeckoId": "dt-inu"
-        },
-        {
           "contractAddress": "0xd47bdf574b4f76210ed503e0efe81b58aa061f3d",
           "coingeckoId": "dtravel"
         },
@@ -6727,10 +6711,6 @@
           "coingeckoId": "everyworld"
         },
         {
-          "contractAddress": "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42",
-          "coingeckoId": "evolve-network"
-        },
-        {
           "contractAddress": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
           "coingeckoId": "exeedme"
         },
@@ -7365,10 +7345,6 @@
         {
           "contractAddress": "0x05df9c31db36c7a0da33e7be1fdbc652d35b6922",
           "coingeckoId": "futuresyncx"
-        },
-        {
-          "contractAddress": "0x0c65b7094e9cedebf9ad5b6a631e57961e0680cf",
-          "coingeckoId": "fvix"
         },
         {
           "contractAddress": "0xa27a2c21a9d468634107b38d9fffb42ad09b204f",
@@ -9863,10 +9839,6 @@
           "coingeckoId": "kolz"
         },
         {
-          "contractAddress": "0x7413c3c28c8e483035c121be16641c3a37872e83",
-          "coingeckoId": "kome-chan"
-        },
-        {
           "contractAddress": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
           "coingeckoId": "kompete"
         },
@@ -10219,10 +10191,6 @@
           "coingeckoId": "leverage-wbtc"
         },
         {
-          "contractAddress": "0xbbff34e47e559ef680067a6b1c980639eeb64d24",
-          "coingeckoId": "leverj-gluon"
-        },
-        {
           "contractAddress": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
           "coingeckoId": "levva-protocol"
         },
@@ -10369,10 +10337,6 @@
         {
           "contractAddress": "0x33b604f08500ef05a38e59c10dcc5a50928813e6",
           "coingeckoId": "liquidum"
-        },
-        {
-          "contractAddress": "0x332aa1163c4bcccc158d58ace9b2f621ad47d5fd",
-          "coingeckoId": "liquihub"
         },
         {
           "contractAddress": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
@@ -11281,10 +11245,6 @@
         {
           "contractAddress": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
           "coingeckoId": "meta"
-        },
-        {
-          "contractAddress": "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3",
-          "coingeckoId": "metablox"
         },
         {
           "contractAddress": "0xd073e6341a3aa6c4d94c4f8f20fbd1ede572b0da",
@@ -14193,10 +14153,6 @@
         {
           "contractAddress": "0xbd7e92cf6f857be8541fca6abfb72aef8e16c307",
           "coingeckoId": "prodigy-bot"
-        },
-        {
-          "contractAddress": "0xeb3127a8f1aa9ae9c9ef2459657c3f4fa1f192de",
-          "coingeckoId": "profit-ai"
         },
         {
           "contractAddress": "0x871b7c4ec80cace3372016c30be62d8bc28bf65b",
@@ -18683,10 +18639,6 @@
           "coingeckoId": "veloce-vext"
         },
         {
-          "contractAddress": "0xe8846f3b6cf124554a42125d24068cb85e84221b",
-          "coingeckoId": "velocis-ai"
-        },
-        {
           "contractAddress": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
           "coingeckoId": "velora"
         },
@@ -19007,10 +18959,6 @@
           "coingeckoId": "walmart-xstock"
         },
         {
-          "contractAddress": "0x25c31b1f93f846c7c8debfd05898f162740a4581",
-          "coingeckoId": "wander"
-        },
-        {
           "contractAddress": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc",
           "coingeckoId": "warioxrpdumbledoreyugioh69inu"
         },
@@ -19101,10 +19049,6 @@
         {
           "contractAddress": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
           "coingeckoId": "wefi-finance"
-        },
-        {
-          "contractAddress": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
-          "coingeckoId": "weld"
         },
         {
           "contractAddress": "0x2a92525fda8d3ab481f8e2a913b64b64bd1c9fdd",
@@ -19925,10 +19869,6 @@
         {
           "contractAddress": "0x5da42c37dea61d1c31e7a810e7d2aff736a41643",
           "coingeckoId": "yes-chad"
-        },
-        {
-          "contractAddress": "0x2526ae18c3beeabb248e401368ef0f4515d24f9d",
-          "coingeckoId": "yes-chad-2"
         },
         {
           "contractAddress": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
@@ -24577,10 +24517,6 @@
         {
           "contractAddress": "0x467e59ce5d5fe01686d4a80dd1e1dae13549aa6c",
           "coingeckoId": "baidu-ondo-tokenized-stock"
-        },
-        {
-          "contractAddress": "0x0abeaf56546a563824c96bb93d1c46f1d4cd11eb",
-          "coingeckoId": "bakeneko"
         },
         {
           "contractAddress": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
@@ -29247,10 +29183,6 @@
           "coingeckoId": "howl-city"
         },
         {
-          "contractAddress": "0xc9de725a4be9ab74b136c29d4731d6bebd7122e8",
-          "coingeckoId": "howtopay"
-        },
-        {
           "contractAddress": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
           "coingeckoId": "htx-dao"
         },
@@ -32525,10 +32457,6 @@
         {
           "contractAddress": "0xf3e82ea164cb344b2b11bad4c24b0ea4f7ba4714",
           "coingeckoId": "pdd-holdings-ondo-tokenized"
-        },
-        {
-          "contractAddress": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390",
-          "coingeckoId": "peachfolio"
         },
         {
           "contractAddress": "0x6d8734002fbffe1c86495e32c95f732fc77f6f2a",
@@ -35883,10 +35811,6 @@
           "coingeckoId": "vent-finance"
         },
         {
-          "contractAddress": "0x2f053e33bd590830858161d42c67e9e8a9390019",
-          "coingeckoId": "vention"
-        },
-        {
           "contractAddress": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
           "coingeckoId": "venus"
         },
@@ -35997,10 +35921,6 @@
         {
           "contractAddress": "0x73cb8ea6d2331eb9892583e6f7a6ac733b932550",
           "coingeckoId": "veve"
-        },
-        {
-          "contractAddress": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
-          "coingeckoId": "vfox"
         },
         {
           "contractAddress": "0x46ddc776226a32289794680c3e56cf6e7d4d4444",
@@ -36261,10 +36181,6 @@
         {
           "contractAddress": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
           "coingeckoId": "wefi-finance"
-        },
-        {
-          "contractAddress": "0x5b6ebb33eea2d12eefd4a9b2aeaf733231169684",
-          "coingeckoId": "weld"
         },
         {
           "contractAddress": "0x629520dee1620def11596f84e85de9f1ff653012",
@@ -36539,10 +36455,6 @@
           "coingeckoId": "wu-wei"
         },
         {
-          "contractAddress": "0x55b0faf9818074716f622453abc296839d559120",
-          "coingeckoId": "x20-usd"
-        },
-        {
           "contractAddress": "0x40ba01da634a189d248fb1ee47141a4e11cd94bd",
           "coingeckoId": "x314"
         },
@@ -36689,10 +36601,6 @@
         {
           "contractAddress": "0xabfd54934ca4535afa589346bf7938b8ce3f4444",
           "coingeckoId": "yellow-shib"
-        },
-        {
-          "contractAddress": "0x3147f26685ac332c88679b4b98094c1f2f2f4899",
-          "coingeckoId": "yes-chad-2"
         },
         {
           "contractAddress": "0x68355e342ff81633ccd0395cc77c83e266ca548e",
@@ -44892,10 +44800,6 @@
           "coingeckoId": "xwawa"
         },
         {
-          "contractAddress": "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f",
-          "coingeckoId": "zenai"
-        },
-        {
           "contractAddress": "0x843d794ed4335b27d02184ca86787c14e6247074",
           "coingeckoId": "zerolend"
         },
@@ -50397,10 +50301,6 @@
         {
           "contractAddress": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
           "coingeckoId": "froth"
-        },
-        {
-          "contractAddress": "0x00f4ce400130c9383115f3858f9ca54677426583",
-          "coingeckoId": "fvix"
         },
         {
           "contractAddress": "0x8bd75008361517df04aa3ea033f03ba33c0c0a66",
@@ -66297,6 +66197,10 @@
           "coingeckoId": "akuma-inu"
         },
         {
+          "contractAddress": "0xacb4543f479ea44e6df4fa01e483bb5b78361ba3",
+          "coingeckoId": "aleister"
+        },
+        {
           "contractAddress": "0xc0fbc4967259786c743361a5885ef49380473dcf",
           "coingeckoId": "aleph"
         },
@@ -69753,6 +69657,10 @@
           "coingeckoId": "fxhash"
         },
         {
+          "contractAddress": "0x55380fe7a1910dff29a47b622057ab4139da42c5",
+          "coingeckoId": "f-x-protocol-fxusd"
+        },
+        {
           "contractAddress": "0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3",
           "coingeckoId": "fyni-ai"
         },
@@ -70879,10 +70787,6 @@
         {
           "contractAddress": "0x9eadbe35f3ee3bf3e28180070c429298a1b02f93",
           "coingeckoId": "limitless-3"
-        },
-        {
-          "contractAddress": "0xa63c1ce4963ea71f93e79223649a3f2f2ebb079b",
-          "coingeckoId": "line-protocol"
         },
         {
           "contractAddress": "0xfb42da273158b0f642f59f2ba7cc1d5457481677",
@@ -74253,10 +74157,6 @@
           "coingeckoId": "wakehacker-by-virtuals"
         },
         {
-          "contractAddress": "0xef0fd52e65ddcdc201e2055a94d2abff6ff10a7a",
-          "coingeckoId": "wander"
-        },
-        {
           "contractAddress": "0xe8e286b378254c4913c0c6964361636384b9d018",
           "coingeckoId": "warpcore"
         },
@@ -74751,10 +74651,6 @@
         {
           "contractAddress": "0x949185d3be66775ea648f4a306740ea9eff9c567",
           "coingeckoId": "yel-finance"
-        },
-        {
-          "contractAddress": "0x3147f26685ac332c88679b4b98094c1f2f2f4899",
-          "coingeckoId": "yes-chad-2"
         },
         {
           "contractAddress": "0x1b68244b100a6713ca7f540697b1be12148a8bf9",
@@ -81427,10 +81323,6 @@
           "coingeckoId": "bluzelle"
         },
         {
-          "contractAddress": "0xe19ab0a7f5bf5b243e011bd070cf9e26296f7ebc",
-          "coingeckoId": "bzx-protocol"
-        },
-        {
           "contractAddress": "0x1833e138fadf220eb951a8590b8ba9058785ddde",
           "coingeckoId": "celer-network"
         },
@@ -84168,10 +84060,6 @@
         {
           "contractAddress": "0xdadeca1167fe47499e53eb50f261103630974905",
           "coingeckoId": "neuron"
-        },
-        {
-          "contractAddress": "0x6609be1547166d1c4605f3a243fdcff467e600c3",
-          "coingeckoId": "neutra-finance"
         },
         {
           "contractAddress": "0x88a269df8fe7f53e590c561954c52fccc8ec0cfb",
@@ -97513,10 +97401,6 @@
         {
           "contractAddress": "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769",
           "coingeckoId": "nuri-exchange"
-        },
-        {
-          "contractAddress": "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9",
-          "coingeckoId": "pandacoin-inu"
         },
         {
           "contractAddress": "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",

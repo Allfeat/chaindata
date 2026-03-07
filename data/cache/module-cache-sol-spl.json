@@ -8829,6 +8829,10 @@
     "name": "Real Smurf Cat (Wormhole)"
   },
   {
+    "id": "solana-mainnet:sol-spl:5UP2iL9DefXC3yovX9b4XG2EiCnyxuVo3S2F6ik5pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:5useZwof1AHY7sM6vzaATwTiSR8XyQzjaTthXSLwmoon",
     "isValid": true,
     "symbol": "KAPSEL",
@@ -20233,6 +20237,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:ALWi1o3qgXp68UyyDkG9EvL1Cq4ofhLsRbDJYbMkpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:amb1bbMCnsnMgXfqj6JK359B8T23FijFgiLQiCrd9FM",
     "isValid": true,
     "symbol": "AMBIOS",
@@ -24438,6 +24446,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:C9smdbQEsoZhnNCYhqeLDNE17aMGdBjJvqzk59DCpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:C9xNaNujcF1a5fidWAAFReFYqhLRVbyk4yPyGqzondo",
     "isValid": false
   },
@@ -26049,6 +26061,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:CRTx1JouZhzSU6XytsE42UQraoGqiHgxabocVfARTy2s",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CrUT8HNd1wi2hPqjTkADC7qUgijwNFDDWR9CW5NsHXvv",
     "isValid": false
   },
   {
@@ -31010,6 +31026,10 @@
     "symbol": "FRIC",
     "decimals": 6,
     "name": "FRIC"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:ESsCdmGyPK9sostFbWV5iM6owxcqsGNfBQaj3xkAkREV",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:EStrdGdFpZEv8nrMgmWddeEnY6EPf6hWN8yFfbUDpump",

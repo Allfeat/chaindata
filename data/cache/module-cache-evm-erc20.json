@@ -125546,6 +125546,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x55380fe7a1910dff29a47b622057ab4139da42c5",
+    "isValid": true,
+    "symbol": "FXUSD",
+    "decimals": 18,
+    "name": "FxUSD"
+  },
+  {
     "id": "8453:evm-erc20:0x554bba833518793056cf105e66abea330672c0de",
     "symbol": "MAHA",
     "decimals": 18,
@@ -131144,6 +131151,13 @@
     "decimals": 18,
     "name": "EstaliaX",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xacb4543f479ea44e6df4fa01e483bb5b78361ba3",
+    "isValid": true,
+    "symbol": "Aleister",
+    "decimals": 18,
+    "name": "Aleister"
   },
   {
     "id": "8453:evm-erc20:0xacb5b33ce55ba7729e38b2b59677e71c0112f0d9",
