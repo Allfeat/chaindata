@@ -22254,6 +22254,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x7def4573628021500c3207994935a51801fb56be",
+    "isValid": true,
+    "symbol": "AKITA",
+    "decimals": 18,
+    "name": "Akita"
+  },
+  {
     "id": "1:evm-erc20:0x7df18e4efd6e6f73cfb462937dac40fe42533016",
     "symbol": "$ZKITTY",
     "decimals": 18,
@@ -46238,6 +46245,13 @@
     "isValid": true
   },
   {
+    "id": "100:evm-erc20:0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "isValid": true,
+    "symbol": "wMXN",
+    "decimals": 18,
+    "name": "Peso Mexicano"
+  },
+  {
     "id": "100:evm-erc20:0x374a457967ba24fd3ae66294cab08244185574b0",
     "symbol": "bMSFT",
     "decimals": 18,
@@ -46357,6 +46371,13 @@
     "isValid": true
   },
   {
+    "id": "100:evm-erc20:0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "isValid": true,
+    "symbol": "wPEN",
+    "decimals": 18,
+    "name": "Sol Peruano"
+  },
+  {
     "id": "100:evm-erc20:0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
     "symbol": "GIV",
     "decimals": 18,
@@ -46418,6 +46439,13 @@
     "decimals": 18,
     "name": "Monerium GBP emoney",
     "isValid": true
+  },
+  {
+    "id": "100:evm-erc20:0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "isValid": true,
+    "symbol": "wCLP",
+    "decimals": 18,
+    "name": "Peso Chileno"
   },
   {
     "id": "100:evm-erc20:0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
@@ -46516,6 +46544,13 @@
     "decimals": 18,
     "name": "Swash Token",
     "isValid": true
+  },
+  {
+    "id": "100:evm-erc20:0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "isValid": true,
+    "symbol": "wCOP",
+    "decimals": 18,
+    "name": "Peso Colombiano"
   },
   {
     "id": "100:evm-erc20:0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
@@ -46761,6 +46796,13 @@
     "decimals": 18,
     "name": "Fuse Token",
     "isValid": true
+  },
+  {
+    "id": "100:evm-erc20:0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "isValid": true,
+    "symbol": "wBRL",
+    "decimals": 18,
+    "name": "Real Brasileño"
   },
   {
     "id": "100:evm-erc20:0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
@@ -51913,6 +51955,13 @@
     "isValid": true
   },
   {
+    "id": "137:evm-erc20:0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "isValid": true,
+    "symbol": "wMXN",
+    "decimals": 18,
+    "name": "Peso Mexicano"
+  },
+  {
     "id": "137:evm-erc20:0x33b6d77c607ea499ab5db7e2201c5a516a78a5db",
     "symbol": "AIMX",
     "decimals": 18,
@@ -52830,6 +52879,13 @@
     "isValid": true
   },
   {
+    "id": "137:evm-erc20:0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "isValid": true,
+    "symbol": "wPEN",
+    "decimals": 18,
+    "name": "Sol Peruano"
+  },
+  {
     "id": "137:evm-erc20:0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
     "symbol": "USDGLO",
     "decimals": 18,
@@ -53353,6 +53409,13 @@
     "decimals": 18,
     "name": "Trakx Token",
     "isValid": true
+  },
+  {
+    "id": "137:evm-erc20:0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "isValid": true,
+    "symbol": "wCLP",
+    "decimals": 18,
+    "name": "Peso Chileno"
   },
   {
     "id": "137:evm-erc20:0x61f95bd637e3034133335c1baa0148e518d438ad",
@@ -54522,6 +54585,13 @@
     "decimals": 18,
     "name": "ViciCoin",
     "isValid": true
+  },
+  {
+    "id": "137:evm-erc20:0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "isValid": true,
+    "symbol": "wCOP",
+    "decimals": 18,
+    "name": "Peso Colombiano"
   },
   {
     "id": "137:evm-erc20:0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
@@ -56741,6 +56811,13 @@
     "decimals": 18,
     "name": "ARYZE eGBP",
     "isValid": true
+  },
+  {
+    "id": "137:evm-erc20:0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "isValid": true,
+    "symbol": "wBRL",
+    "decimals": 18,
+    "name": "Real Brasileño"
   },
   {
     "id": "137:evm-erc20:0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
@@ -91230,6 +91307,13 @@
     "name": "TeaFi Token"
   },
   {
+    "id": "56:evm-erc20:0x337e7456b420bd3481e7fa61fa9850343d610d34",
+    "isValid": true,
+    "symbol": "wMXN",
+    "decimals": 18,
+    "name": "Peso Mexicano"
+  },
+  {
     "id": "56:evm-erc20:0x3385cb29cca0ac66f5d2354d13ef977b49a2510f",
     "isValid": true,
     "symbol": "UNHon",
@@ -94402,6 +94486,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x4f34c8b3b5fb6d98da888f0fea543d4d9c9f2ebe",
+    "isValid": true,
+    "symbol": "wPEN",
+    "decimals": 18,
+    "name": "Sol Peruano"
+  },
+  {
     "id": "56:evm-erc20:0x4f436232f4a21cef94c2b6d1a1dbedf675ac4444",
     "isValid": true,
     "symbol": "马上领红包",
@@ -96647,6 +96738,13 @@
     "decimals": 18,
     "name": "Ignore Fud",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x61d450a098b6a7f69fc4b98ce68198fe59768651",
+    "isValid": true,
+    "symbol": "wCLP",
+    "decimals": 18,
+    "name": "Peso Chileno"
   },
   {
     "id": "56:evm-erc20:0x61d5822dd7b3ed495108733e6550d4529480c8f6",
@@ -101362,6 +101460,13 @@
     "decimals": 18,
     "name": "UPTOP",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x8a1d45e102e886510e891d2ec656a708991e2d76",
+    "isValid": true,
+    "symbol": "wCOP",
+    "decimals": 18,
+    "name": "Peso Colombiano"
   },
   {
     "id": "56:evm-erc20:0x8a505d5cb3db9fcf404c0a72af3df8be4efb707c",
@@ -110092,6 +110197,13 @@
     "decimals": 9,
     "name": "RichQUACK.com",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0xd76f5faf6888e24d9f04bf92a0c8b921fe4390e0",
+    "isValid": true,
+    "symbol": "wBRL",
+    "decimals": 18,
+    "name": "Real Brasileño"
   },
   {
     "id": "56:evm-erc20:0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
@@ -127639,6 +127751,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x748d974d8c1d380da29db16d0840788949b99f63",
+    "isValid": true,
+    "symbol": "atvUSDC",
+    "decimals": 18,
+    "name": "aarna atv USDC"
+  },
+  {
     "id": "8453:evm-erc20:0x749e5334752466cda899b302ed4176b8573dc877",
     "symbol": "SIM",
     "decimals": 18,
@@ -131820,6 +131939,13 @@
     "symbol": "DEXTF",
     "decimals": 18,
     "name": "Memento"
+  },
+  {
+    "id": "8453:evm-erc20:0xb6bdc0f422a901062ecd948c6d0d785acd131ce1",
+    "isValid": true,
+    "symbol": "ELYS",
+    "decimals": 18,
+    "name": "Elysionyx by Virtuals"
   },
   {
     "id": "8453:evm-erc20:0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",

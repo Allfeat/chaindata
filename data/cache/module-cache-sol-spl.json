@@ -15187,6 +15187,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:8mejbHqzKhPZvZ6j3vikLrbi4GsggZ3UJrBcYdGvpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:8MGGDLtSKi9R9ZoBEDWsrhXetpdWrykRucuVMw7mpump",
     "isValid": true,
     "symbol": "QUBIT",
@@ -18143,6 +18147,13 @@
     "symbol": "smole",
     "decimals": 6,
     "name": "smolecoin"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:9TwGzR67b7pVjhiDZyHoYk5ynYGLaCG3hezKXK6642US",
+    "isValid": true,
+    "symbol": "Blocky",
+    "decimals": 8,
+    "name": "Blocky"
   },
   {
     "id": "solana-mainnet:sol-spl:9TwMHjLVck28REn4eHFxeqMYKkJBxLqwX8w7rxrdpump",
@@ -33486,6 +33497,10 @@
     "symbol": "Bakso",
     "decimals": 6,
     "name": "Disney Sumatran Tiger"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FQt7749yicQ9vZ2CA8r4ghq4MCPJpsVicT8gNkAjpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:FqveHfaf96iTjA3KgX1W5LWPnLFYv8EfUf6TQSWPpump",
