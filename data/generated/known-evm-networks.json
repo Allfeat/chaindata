@@ -8263,10 +8263,6 @@
           "coingeckoId": "hapi"
         },
         {
-          "contractAddress": "0x3079f61704e9efa2bcf1db412f735d8d4cfa26f4",
-          "coingeckoId": "happyfans"
-        },
-        {
           "contractAddress": "0x89deb6c8918a42457bd6ddbcaaf979216c4d774c",
           "coingeckoId": "hapticai"
         },
@@ -28943,10 +28939,6 @@
           "coingeckoId": "happycat-2"
         },
         {
-          "contractAddress": "0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d",
-          "coingeckoId": "happyfans"
-        },
-        {
           "contractAddress": "0x42c95788f791a2be3584446854c8d9bb01be88a9",
           "coingeckoId": "harbor-3"
         },
@@ -29009,10 +29001,6 @@
         {
           "contractAddress": "0xb38c9d498bab8deefa5ffe8e1d7ca000ef6c3362",
           "coingeckoId": "hectic-turkey"
-        },
-        {
-          "contractAddress": "0x638eebe886b0e9e7c6929e69490064a6c94d204d",
-          "coingeckoId": "hector-dao"
         },
         {
           "contractAddress": "0x617c0440334bb4a63b75847345f906c782b419ab",
@@ -45983,10 +45971,6 @@
           "coingeckoId": "havven"
         },
         {
-          "contractAddress": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
-          "coingeckoId": "hector-dao"
-        },
-        {
           "contractAddress": "0x44b26e839eb3572c5e959f994804a5de66600349",
           "coingeckoId": "hegic"
         },
@@ -57272,6 +57256,10 @@
         {
           "contractAddress": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
           "coingeckoId": "chainlink"
+        },
+        {
+          "contractAddress": "0x7dc167e270d5ef683ceaf4afcdf2efbdd667a9a7",
+          "coingeckoId": "coin-5"
         },
         {
           "contractAddress": "0x60b65d6f275ce54a34a5bacad7a170fee55e8577",
@@ -71887,6 +71875,10 @@
         {
           "contractAddress": "0xef5997c2cf2f6c138196f8a6203afc335206b3c1",
           "coingeckoId": "owb"
+        },
+        {
+          "contractAddress": "0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+          "coingeckoId": "owockibot"
         },
         {
           "contractAddress": "0x9ea01819f6fbd41cb004216680e73096eed56cbf",

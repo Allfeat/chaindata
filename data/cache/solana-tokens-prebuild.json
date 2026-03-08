@@ -49026,6 +49026,17 @@
     "mintAddress": "oxynABVJXUEc9PLNx4m1XVdiFtRhStzRXG1G6qosni1"
   },
   {
+    "id": "solana-mainnet:sol-spl:p1ZwX2bBUgojd4CQQRC2RL4wof9xxWaXqguTQFsSiNX",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "SiNX",
+    "decimals": 9,
+    "name": "Sinex",
+    "coingeckoId": "sinex",
+    "mintAddress": "p1ZwX2bBUgojd4CQQRC2RL4wof9xxWaXqguTQFsSiNX"
+  },
+  {
     "id": "solana-mainnet:sol-spl:pA3VznTTnS22JERJ2okMK3hFebbw8dEpWph6UCf6USA",
     "platform": "solana",
     "networkId": "solana-mainnet",

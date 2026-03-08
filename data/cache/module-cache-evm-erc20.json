@@ -62783,6 +62783,13 @@
     "isValid": true
   },
   {
+    "id": "2020:evm-erc20:0x7dc167e270d5ef683ceaf4afcdf2efbdd667a9a7",
+    "isValid": true,
+    "symbol": "COIN",
+    "decimals": 18,
+    "name": "Coin"
+  },
+  {
     "id": "2020:evm-erc20:0x7eae20d11ef8c779433eb24503def900b9d28ad7",
     "symbol": "PIXEL",
     "decimals": 18,
@@ -136878,6 +136885,13 @@
     "decimals": 18,
     "name": "AMC ENTERTAINMENT HOLDINGS, INC. - Dinari",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xfdc933ff4e2980d18becf48e4e030d8463a2bb07",
+    "isValid": true,
+    "symbol": "owockibot",
+    "decimals": 18,
+    "name": "owockibot"
   },
   {
     "id": "8453:evm-erc20:0xfdc944fb59201fb163596ee5e209ebc8fa4dcdc5",
