@@ -26773,17 +26773,6 @@
     "mintAddress": "BLVxek8YMXUQhcKmMvrFTrzh5FXg8ec88Crp6otEaCMf"
   },
   {
-    "id": "solana-mainnet:sol-spl:BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "BOP",
-    "decimals": 8,
-    "name": "Boring Protocol",
-    "coingeckoId": "boring-protocol",
-    "mintAddress": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3"
-  },
-  {
     "id": "solana-mainnet:sol-spl:BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
     "platform": "solana",
     "networkId": "solana-mainnet",
