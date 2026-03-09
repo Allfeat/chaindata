@@ -9740,6 +9740,13 @@
     "name": "Spiko Digital Assets Cash and Carry Fund (EUR hedged)"
   },
   {
+    "id": "1:evm-erc20:0x386e0983d0e05f5239fd029793ef3ba37b468e9c",
+    "isValid": true,
+    "symbol": "yHLP",
+    "decimals": 18,
+    "name": "YieldFi yHLP"
+  },
+  {
     "id": "1:evm-erc20:0x38778e6d4d0dbe9becef3ae8b938570209efa48b",
     "isValid": true,
     "symbol": "PAST",
@@ -17106,6 +17113,13 @@
     "symbol": "BABYMANYU",
     "decimals": 9,
     "name": "BabyManyu"
+  },
+  {
+    "id": "1:evm-erc20:0x633821b8e003344e5223509277f2084ea809a452",
+    "isValid": true,
+    "symbol": "jrDOLA",
+    "decimals": 18,
+    "name": "Junior Dola"
   },
   {
     "id": "1:evm-erc20:0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc",
@@ -42672,6 +42686,13 @@
     "decimals": 9,
     "name": "OctanePay",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0xf7d85ec4e7710f71992752eac2111312e73e9c9c",
+    "isValid": true,
+    "symbol": "ftUSD",
+    "decimals": 6,
+    "name": "Flying Tulip USD"
   },
   {
     "id": "1:evm-erc20:0xf7de2b7afdb07aa5dd143180ed758165821e076e",
@@ -123217,6 +123238,13 @@
     "decimals": 18,
     "name": "BEATS on BASE",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x316ffb9c875f900adcf04889e415cc86b564eba3",
+    "isValid": true,
+    "symbol": "LITCOIN",
+    "decimals": 18,
+    "name": "Litcoin"
   },
   {
     "id": "8453:evm-erc20:0x317621481476554e1cf3f9add06abd70ffb007f4",

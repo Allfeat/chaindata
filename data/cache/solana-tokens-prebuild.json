@@ -2430,17 +2430,6 @@
     "mintAddress": "2vFYpCh2yJhHphft1Z4XHdafEhj6XksyhFyH9tvTdKqf"
   },
   {
-    "id": "solana-mainnet:sol-spl:2VYVwrwSNM8WxbFdPU4KQpZUB9FWCenFFoDqvpHQ7rZE",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "CUFF",
-    "decimals": 6,
-    "name": "Jail Cat",
-    "coingeckoId": "jail-cat",
-    "mintAddress": "2VYVwrwSNM8WxbFdPU4KQpZUB9FWCenFFoDqvpHQ7rZE"
-  },
-  {
     "id": "solana-mainnet:sol-spl:2w3A2P5juwg234spHKfps7WReWoVmujtErqjaZm9VaiP",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -3462,17 +3451,6 @@
     "name": "Skill Stacker",
     "coingeckoId": "skill-stacker",
     "mintAddress": "3DFnwGLJUfxc4eMxDgQwW6oWaeKBrJ1iwA26YjTfpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:3DFU4Z2N2Uyh5KxU9xgKM2u5LsPYU7m2DVKDoPYuFvEL",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "SOCKS",
-    "decimals": 6,
-    "name": "Iggy Azalea's Dog",
-    "coingeckoId": "socks",
-    "mintAddress": "3DFU4Z2N2Uyh5KxU9xgKM2u5LsPYU7m2DVKDoPYuFvEL"
   },
   {
     "id": "solana-mainnet:sol-spl:3dgCCb15HMQSA4Pn3Tfii5vRk7aRqTH95LJjxzsG2Mug",
@@ -6093,17 +6071,6 @@
     "mintAddress": "4c53VeEq8jVA9EoeGAz9tBC9hhNYHj5quwrMDqEiYxM3"
   },
   {
-    "id": "solana-mainnet:sol-spl:4c7GJc2wrJtvjV64Q7c7QAT7zy456xFsFucovgB1pump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "popu",
-    "decimals": 6,
-    "name": "Popu",
-    "coingeckoId": "popu",
-    "mintAddress": "4c7GJc2wrJtvjV64Q7c7QAT7zy456xFsFucovgB1pump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:4cCjHnKqLFMMNYQD2NYuRMrw7nXkxVsD85G2MkMA44vM",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -8205,17 +8172,6 @@
     "mintAddress": "57iaCFGwsfZYCurbrgmtrDnHggGP6B6oHSdWD4nNXo9T"
   },
   {
-    "id": "solana-mainnet:sol-spl:57odEh4uxoedCfBMmTP51DcLQvNMqesDEnAt7DEdpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "noo",
-    "decimals": 6,
-    "name": "noo",
-    "coingeckoId": "noo",
-    "mintAddress": "57odEh4uxoedCfBMmTP51DcLQvNMqesDEnAt7DEdpump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:57Tfcj7Ak3qpBKQQ2k5LTrsJLg3csDdY7Q1rC6y5PumP",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -8984,17 +8940,6 @@
     "name": "Keefer Bunny",
     "coingeckoId": "keefer-bunny",
     "mintAddress": "5Gb67sU9UgZsrbhrbKs5yYtWLFPwPLYKzRQuUEZfmoon"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:5gBwPQZiw8mUSKQHq5otSxj9ubZKB8HFeYTXb7JY5rGS",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "FLIPCAT",
-    "decimals": 9,
-    "name": "FlipCat",
-    "coingeckoId": "flipcat",
-    "mintAddress": "5gBwPQZiw8mUSKQHq5otSxj9ubZKB8HFeYTXb7JY5rGS"
   },
   {
     "id": "solana-mainnet:sol-spl:5gcMBTPeogu1d9M6jjxWdHkHSgQyWsxWMBjpnf6bpump",
@@ -12033,17 +11978,6 @@
     "mintAddress": "6KeQaJXFHczWKjrcXdMGKP773JKQmMWDXy4446adpump"
   },
   {
-    "id": "solana-mainnet:sol-spl:6kF8f6nH1QH9yV3gFy9PACh2pNH1s48FTEmo79S9rxZN",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "SOLANA",
-    "decimals": 9,
-    "name": "HairyPotheadTrempSanic69Inu",
-    "coingeckoId": "hairypotheadtrempsanic69inu",
-    "mintAddress": "6kF8f6nH1QH9yV3gFy9PACh2pNH1s48FTEmo79S9rxZN"
-  },
-  {
     "id": "solana-mainnet:sol-spl:6kJhG826LGowg7zG6PLd6tg7mqvVSdq2WzHhsfc7pump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -15069,17 +15003,6 @@
     "mintAddress": "7nZuYZYZnof9gF3zr9QhdnxpQ1mTM8LN3VaJuhrGbonk"
   },
   {
-    "id": "solana-mainnet:sol-spl:7o9nv5MPTzvx1Zbd9CGPBuiYKHii8zLZxJBKnyfKpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "MOVR",
-    "decimals": 6,
-    "name": "Movr AI",
-    "coingeckoId": "movr-ai",
-    "mintAddress": "7o9nv5MPTzvx1Zbd9CGPBuiYKHii8zLZxJBKnyfKpump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:7obg932wg2A1oTZhrPzR4DSdhKbjXzKSfHTBo2Hu5EbP",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -17608,17 +17531,6 @@
     "name": "Shift",
     "coingeckoId": "shift-3",
     "mintAddress": "8K7EdeRNW5YbmmCKvAUn4qa5j7Ggz4iAAZbhnoHJpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:8K7RyMz4tqtFN9HyXv7imjGGpC9aXbXjarBWSmbNpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "dphyai",
-    "decimals": 6,
-    "name": "dephyneai",
-    "coingeckoId": "dephyneai",
-    "mintAddress": "8K7RyMz4tqtFN9HyXv7imjGGpC9aXbXjarBWSmbNpump"
   },
   {
     "id": "solana-mainnet:sol-spl:8KDsEUE3NdafcCVPqKrMrPfqh3oT4FzcxsYjwbMqpump",
@@ -27224,17 +27136,6 @@
     "mintAddress": "BqP9K6DMAG5hncqMY6uUWuFKzxwwyW4zYF3Ahuf3SZCT"
   },
   {
-    "id": "solana-mainnet:sol-spl:BQPg5peyfnu1qvu3vdoUwutCwMt2dMW9jLpcrPk3pump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "sweg69",
-    "decimals": 6,
-    "name": "milleniumsweghunter69",
-    "coingeckoId": "milleniumsweghunter69",
-    "mintAddress": "BQPg5peyfnu1qvu3vdoUwutCwMt2dMW9jLpcrPk3pump"
-  },
-  {
     "id": "solana-mainnet:sol-spl:BQpGv6LVWG1JRm1NdjerNSFdChMdAULJr3x9t2Swpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -33769,17 +33670,6 @@
     "mintAddress": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ"
   },
   {
-    "id": "solana-mainnet:sol-spl:DuuqHsjokmeRhPYGnJmgUe1qBwteNvanAqRiZCaKptcV",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "goblintown",
-    "decimals": 6,
-    "name": "goblintown",
-    "coingeckoId": "goblintown",
-    "mintAddress": "DuuqHsjokmeRhPYGnJmgUe1qBwteNvanAqRiZCaKptcV"
-  },
-  {
     "id": "solana-mainnet:sol-spl:DuXugm4oTXrGDopgxgudyhboaf6uUg1GVbJ6jk6qbonk",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -34042,17 +33932,6 @@
     "name": "momo the cat",
     "coingeckoId": "momo-the-cat",
     "mintAddress": "DycqsssTijnk7AzAyPj5nJuLHW42PXd2NDEJGW77pump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:DyjUP3Zx8ekK4jFpn5HfqstSHC9iJrMQGgtFWBZ4pump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "PENNY",
-    "decimals": 6,
-    "name": "turn your penny into a house",
-    "coingeckoId": "turn-your-penny-into-a-house",
-    "mintAddress": "DyjUP3Zx8ekK4jFpn5HfqstSHC9iJrMQGgtFWBZ4pump"
   },
   {
     "id": "solana-mainnet:sol-spl:DYUjm68jHoQFHMHzuRqomrhRcog9mc4TNrCWHpufpump",
@@ -34834,17 +34713,6 @@
     "name": "geeked",
     "coingeckoId": "geeked",
     "mintAddress": "EbW1bx4NdjH4aTTUNAP9PRBYTu6qJE12d9vUhvHbpump"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:EbZh3FDVcgnLNbh1ooatcDL1RCRhBgTKirFKNoGPpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "gringo",
-    "decimals": 6,
-    "name": "gringo",
-    "coingeckoId": "gringo",
-    "mintAddress": "EbZh3FDVcgnLNbh1ooatcDL1RCRhBgTKirFKNoGPpump"
   },
   {
     "id": "solana-mainnet:sol-spl:Ec2817RwGNA6wjBxTd2HWU1ohB6tfit8tT5gvr2npump",
@@ -38653,17 +38521,6 @@
     "mintAddress": "FJup6BbEBoCeFJZtqW4qcaqABLco5SkV8683do38P9tu"
   },
   {
-    "id": "solana-mainnet:sol-spl:FJv6JHhiQmVPpauia3VLxNBTNBL3S2uKtDB8u6X1SpUq",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "CatInBox",
-    "decimals": 6,
-    "name": "CatInBox",
-    "coingeckoId": "catinbox",
-    "mintAddress": "FJv6JHhiQmVPpauia3VLxNBTNBL3S2uKtDB8u6X1SpUq"
-  },
-  {
     "id": "solana-mainnet:sol-spl:FJxDGx3hYJj2QXhKbyt67vsbJdkPWpJJLo3Kf858x1g8",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -41986,17 +41843,6 @@
     "mintAddress": "GMEhF4sFXd9PRR9KJo7hyPjeHdcdg5yxTNP22KKNyWvZ"
   },
   {
-    "id": "solana-mainnet:sol-spl:GmEXg8FwpULzVb15r41CNB5qFnRcXCrEyZSmD3X7sv2e",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "boy",
-    "decimals": 6,
-    "name": "Good Boy",
-    "coingeckoId": "good-boy",
-    "mintAddress": "GmEXg8FwpULzVb15r41CNB5qFnRcXCrEyZSmD3X7sv2e"
-  },
-  {
     "id": "solana-mainnet:sol-spl:GMkWVrn6A4anxwBqsN5ofk3SjyabYTtQUKpk8c3iKinG",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -45297,17 +45143,6 @@
     "mintAddress": "Hog8azPhaoZeXhcBF8DZ3TZAq8AXcX885ZBX3zhP76fq"
   },
   {
-    "id": "solana-mainnet:sol-spl:HohL7oPEpzekWsWiDSa1ewohT92QZyumWnUqiUQKq6SK",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "MYKU",
-    "decimals": 9,
-    "name": "Myku",
-    "coingeckoId": "myku",
-    "mintAddress": "HohL7oPEpzekWsWiDSa1ewohT92QZyumWnUqiUQKq6SK"
-  },
-  {
     "id": "solana-mainnet:sol-spl:HootvhN1jGXQk8APL2fD1StHqu9eWZJbMmfdutf9hnLV",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -45900,17 +45735,6 @@
     "name": "SolanaHub staked SOL",
     "coingeckoId": "solanahub-staked-sol",
     "mintAddress": "HUBsveNpjo5pWqNkH57QzxjQASdTVXcSK7bVKTSZtcSX"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:HUhKCbvKe4D6x34PypW9AtE7z6S44WApeCFZ1JqWpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "PWOT",
-    "decimals": 6,
-    "name": "PAWWOT",
-    "coingeckoId": "pawwot",
-    "mintAddress": "HUhKCbvKe4D6x34PypW9AtE7z6S44WApeCFZ1JqWpump"
   },
   {
     "id": "solana-mainnet:sol-spl:HUhmmhEiT8H969TS775PiF9w3sDyHgBYkMjGiyMQpump",
@@ -47033,17 +46857,6 @@
     "name": "POOH (Wormhole)",
     "coingeckoId": "pooh",
     "mintAddress": "J8XFfJgS1cs5WVGxGwZb9Rt5rJZizdyzaLhidtvDnYjC"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:J8xopmtpj5sLghSugcQGZTnRwGHBGNqC2ivgehNxpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "RIZZO",
-    "decimals": 6,
-    "name": "Rizzo the Rat",
-    "coingeckoId": "rizzo-the-rat",
-    "mintAddress": "J8xopmtpj5sLghSugcQGZTnRwGHBGNqC2ivgehNxpump"
   },
   {
     "id": "solana-mainnet:sol-spl:J95PxHUEytzTGbf9DpLpyPHXnUTWN4FbRk2Jnc5nYKa3",

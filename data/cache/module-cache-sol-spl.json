@@ -520,6 +520,10 @@
     "name": "ZigCoin (Wormhole)"
   },
   {
+    "id": "solana-mainnet:sol-spl:26HijyQRPisA96er6xWLh32TSMAHLvivTnmcmu7bpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
     "isValid": true,
     "symbol": "HAMMY",
@@ -10000,6 +10004,10 @@
     "name": "CHEEKS"
   },
   {
+    "id": "solana-mainnet:sol-spl:6EEWHJBFbF4jQtXTn1NyGoA7WawF7W8fy1GQyvhqpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:6ep1sNB9UWni3nBZUX84USsRBhKRzMAxEmcia479cWTh",
     "isValid": true,
     "symbol": "EPIKO",
@@ -11183,6 +11191,10 @@
     "symbol": "SSHIB",
     "decimals": 5,
     "name": "SSHIB"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:6vhLsGaLCdcxkdx5R3cftVB7KS9uzK1CgGtN1ZZ6pump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:6VHXipL9pSV5MCYuB9tMR4xkwojhc1gQ51ku2GR7pump",
@@ -21844,6 +21856,10 @@
     "name": "Dreamsync"
   },
   {
+    "id": "solana-mainnet:sol-spl:BAAF8R9EBNAo2aCPQzYiP6hEx3TXKiNads2MrdDjpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:BaaYhmQBjX3B6JAayG5mDbhziyKsf4KDr9ZHzaEhpump",
     "isValid": false
   },
@@ -23811,6 +23827,10 @@
     "symbol": "HMM",
     "decimals": 9,
     "name": "HMM"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:BWJ7zJauzatao4FsBnGdVsqdBi3k5NbgSY62noZApump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:BWKyFgvQSfjNRbidRJ5CtuphashZNr3ba7oe9cjZpump",
@@ -34118,6 +34138,10 @@
     "name": "Clout"
   },
   {
+    "id": "solana-mainnet:sol-spl:FXDXLCWYMXmhhMypVxGHCC2sHA8n9d2fHhePViAYpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Fxgdfsy1Z5Mvh53o69s2Ev6TGxtAJ1RQ5RJ5moCpKmQZ",
     "isValid": true,
     "symbol": "SI",
@@ -35294,6 +35318,10 @@
     "name": "Generational Wealth"
   },
   {
+    "id": "solana-mainnet:sol-spl:GFSeaid3PrKr3agHd9dQt3qFEG4Rxosr7U8aLSsEpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:GFUgXbMeDnLkhZaJS3nYFqunqkFNMRo9ukhyajeXpump",
     "isValid": true,
     "symbol": "EVAN",
@@ -35559,6 +35587,10 @@
     "symbol": "PUMP",
     "decimals": 6,
     "name": "Respect the Pump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:GJqCjtgEwqdFWVRsDs8JXKFoTeRVZeHs1RL4ccvrpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:GJQpf6Zjvokd3YK5EprXqZUah9jxkn8aG4pTeWL7Gkju",
