@@ -37,7 +37,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.517Z"
+    "timestamp": "2026-03-09T00:34:53.276Z"
   },
   {
     "networkId": "acala",
@@ -69,7 +69,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.163Z"
+    "timestamp": "2026-03-09T00:34:55.067Z"
   },
   {
     "networkId": "kintsugi",
@@ -77,7 +77,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:20.837Z"
+    "timestamp": "2026-03-09T00:34:58.225Z"
   },
   {
     "networkId": "interlay",
@@ -118,7 +118,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 502"
     },
-    "timestamp": "2026-03-08T12:12:47.581Z"
+    "timestamp": "2026-03-09T00:35:01.607Z"
   },
   {
     "networkId": "unique",
@@ -126,7 +126,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.421Z"
+    "timestamp": "2026-03-09T00:34:54.583Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -150,7 +150,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.610Z"
+    "timestamp": "2026-03-09T00:34:53.233Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -190,7 +190,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.321Z"
+    "timestamp": "2026-03-09T00:35:09.842Z"
   },
   {
     "networkId": "rococo-basilisk-testnet",
@@ -199,7 +199,7 @@
       "status": "NOK",
       "error": "Timeout"
     },
-    "timestamp": "2026-03-08T06:18:29.388Z"
+    "timestamp": "2026-03-09T00:35:10.887Z"
   },
   {
     "networkId": "basilisk",
@@ -207,7 +207,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.655Z"
+    "timestamp": "2026-03-09T00:34:55.713Z"
   },
   {
     "networkId": "bifrost-polkadot",
@@ -264,7 +264,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.111Z"
+    "timestamp": "2026-03-09T00:35:03.850Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -320,7 +320,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.221Z"
+    "timestamp": "2026-03-09T00:35:04.926Z"
   },
   {
     "networkId": "kusama-coretime",
@@ -344,7 +344,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.984Z"
+    "timestamp": "2026-03-09T00:34:53.400Z"
   },
   {
     "networkId": "crust-parachain",
@@ -376,7 +376,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.492Z"
+    "timestamp": "2026-03-09T00:34:57.783Z"
   },
   {
     "networkId": "crust",
@@ -408,7 +408,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.280Z"
+    "timestamp": "2026-03-09T00:34:56.449Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -416,7 +416,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.564Z"
+    "timestamp": "2026-03-09T00:35:05.513Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -424,7 +424,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.872Z"
+    "timestamp": "2026-03-09T00:35:05.647Z"
   },
   {
     "networkId": "edgeware",
@@ -432,7 +432,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.370Z"
+    "timestamp": "2026-03-09T00:35:03.736Z"
   },
   {
     "networkId": "encointer",
@@ -448,7 +448,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.694Z"
+    "timestamp": "2026-03-09T00:34:53.277Z"
   },
   {
     "networkId": "opal-testnet",
@@ -465,7 +465,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND eu-ws-quartz.unique.network"
     },
-    "timestamp": "2026-03-08T06:18:16.699Z"
+    "timestamp": "2026-03-09T00:34:55.137Z"
   },
   {
     "networkId": "unique",
@@ -489,7 +489,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.351Z"
+    "timestamp": "2026-03-09T00:34:54.850Z"
   },
   {
     "networkId": "frequency",
@@ -521,7 +521,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.307Z"
+    "timestamp": "2026-03-09T00:35:05.051Z"
   },
   {
     "networkId": "hydradx",
@@ -529,7 +529,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:24.747Z"
+    "timestamp": "2026-03-09T00:35:01.292Z"
   },
   {
     "networkId": "hydradx",
@@ -561,7 +561,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.388Z"
+    "timestamp": "2026-03-09T00:34:53.427Z"
   },
   {
     "networkId": "kabocha",
@@ -577,7 +577,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.743Z"
+    "timestamp": "2026-03-09T00:34:56.896Z"
   },
   {
     "networkId": "karura",
@@ -585,7 +585,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.309Z"
+    "timestamp": "2026-03-09T00:34:57.258Z"
   },
   {
     "networkId": "karura",
@@ -593,7 +593,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.858Z"
+    "timestamp": "2026-03-09T00:34:56.050Z"
   },
   {
     "networkId": "karura",
@@ -601,7 +601,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.103Z"
+    "timestamp": "2026-03-09T00:34:55.527Z"
   },
   {
     "networkId": "kilt-spiritnet",
@@ -643,7 +643,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.609Z"
+    "timestamp": "2026-03-09T00:34:58.961Z"
   },
   {
     "networkId": "kusama",
@@ -651,7 +651,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.374Z"
+    "timestamp": "2026-03-09T00:34:56.182Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -659,7 +659,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:23.141Z"
+    "timestamp": "2026-03-09T00:34:59.692Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -667,7 +667,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.108Z"
+    "timestamp": "2026-03-09T00:34:55.993Z"
   },
   {
     "networkId": "kusama-coretime",
@@ -675,7 +675,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.988Z"
+    "timestamp": "2026-03-09T00:34:56.691Z"
   },
   {
     "networkId": "kusama-people",
@@ -691,7 +691,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.375Z"
+    "timestamp": "2026-03-09T00:34:55.248Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -715,7 +715,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.865Z"
+    "timestamp": "2026-03-09T00:34:55.520Z"
   },
   {
     "networkId": "kusama",
@@ -787,7 +787,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.764Z"
+    "timestamp": "2026-03-09T00:34:59.112Z"
   },
   {
     "networkId": "polymesh",
@@ -811,7 +811,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.996Z"
+    "timestamp": "2026-03-09T00:34:54.200Z"
   },
   {
     "networkId": "chainx",
@@ -827,7 +827,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.772Z"
+    "timestamp": "2026-03-09T00:34:56.985Z"
   },
   {
     "networkId": "liberland",
@@ -835,7 +835,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.078Z"
+    "timestamp": "2026-03-09T00:35:02.689Z"
   },
   {
     "networkId": "ternoa",
@@ -843,7 +843,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:20.968Z"
+    "timestamp": "2026-03-09T00:34:58.282Z"
   },
   {
     "networkId": "creditcoin",
@@ -851,7 +851,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.400Z"
+    "timestamp": "2026-03-09T00:35:05.231Z"
   },
   {
     "networkId": "allfeat-testnet",
@@ -900,7 +900,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:50.001Z"
+    "timestamp": "2026-03-09T00:35:06.118Z"
   },
   {
     "networkId": "moonbeam",
@@ -908,7 +908,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.261Z"
+    "timestamp": "2026-03-09T00:34:56.305Z"
   },
   {
     "networkId": "moonbeam",
@@ -924,7 +924,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:20.093Z"
+    "timestamp": "2026-03-09T00:34:57.657Z"
   },
   {
     "networkId": "moonbeam",
@@ -932,7 +932,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.034Z"
+    "timestamp": "2026-03-09T00:34:57.116Z"
   },
   {
     "networkId": "moonbeam",
@@ -972,7 +972,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:47.717Z"
+    "timestamp": "2026-03-09T00:35:02.179Z"
   },
   {
     "networkId": "hyperbridge-polkadot",
@@ -980,7 +980,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.630Z"
+    "timestamp": "2026-03-09T00:34:55.382Z"
   },
   {
     "networkId": "hyperbridge-polkadot",
@@ -996,7 +996,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:23.319Z"
+    "timestamp": "2026-03-09T00:34:59.520Z"
   },
   {
     "networkId": "rococo-neuro-web-testnet",
@@ -1045,7 +1045,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.147Z"
+    "timestamp": "2026-03-09T00:35:02.829Z"
   },
   {
     "networkId": "passet-hub",
@@ -1053,7 +1053,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.943Z"
+    "timestamp": "2026-03-09T00:34:56.104Z"
   },
   {
     "networkId": "passet-hub",
@@ -1062,7 +1062,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND passet-hub-paseo.ibp.network"
     },
-    "timestamp": "2026-03-08T06:18:17.903Z"
+    "timestamp": "2026-03-09T00:34:56.003Z"
   },
   {
     "networkId": "peaq",
@@ -1070,7 +1070,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.386Z"
+    "timestamp": "2026-03-09T00:34:57.382Z"
   },
   {
     "networkId": "peaq",
@@ -1078,7 +1078,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:23.604Z"
+    "timestamp": "2026-03-09T00:34:59.639Z"
   },
   {
     "networkId": "kusama-people",
@@ -1102,7 +1102,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:50.349Z"
+    "timestamp": "2026-03-09T00:35:06.173Z"
   },
   {
     "networkId": "polkadot-people",
@@ -1110,7 +1110,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.341Z"
+    "timestamp": "2026-03-09T00:34:58.693Z"
   },
   {
     "networkId": "phala",
@@ -1134,7 +1134,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.167Z"
+    "timestamp": "2026-03-09T00:34:57.604Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -1142,7 +1142,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.820Z"
+    "timestamp": "2026-03-09T00:34:57.485Z"
   },
   {
     "networkId": "polkadot-coretime",
@@ -1150,7 +1150,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.915Z"
+    "timestamp": "2026-03-09T00:35:03.377Z"
   },
   {
     "networkId": "mythos",
@@ -1158,7 +1158,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.685Z"
+    "timestamp": "2026-03-09T00:34:56.099Z"
   },
   {
     "networkId": "polkadot-people",
@@ -1175,7 +1175,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 525"
     },
-    "timestamp": "2026-03-08T06:18:17.433Z"
+    "timestamp": "2026-03-09T00:34:55.785Z"
   },
   {
     "networkId": "polkadot",
@@ -1191,7 +1191,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.443Z"
+    "timestamp": "2026-03-09T00:34:55.003Z"
   },
   {
     "networkId": "polkadot",
@@ -1239,7 +1239,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.009Z"
+    "timestamp": "2026-03-09T00:34:54.033Z"
   },
   {
     "networkId": "acurast",
@@ -1313,7 +1313,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:14.243Z"
+    "timestamp": "2026-03-09T00:34:53.488Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1321,7 +1321,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.367Z"
+    "timestamp": "2026-03-09T00:35:02.910Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -1329,7 +1329,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.471Z"
+    "timestamp": "2026-03-09T00:34:53.091Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -1337,7 +1337,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.981Z"
+    "timestamp": "2026-03-09T00:34:54.632Z"
   },
   {
     "networkId": "centrifuge-polkadot",
@@ -1353,7 +1353,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.481Z"
+    "timestamp": "2026-03-09T00:34:54.316Z"
   },
   {
     "networkId": "kusama-coretime",
@@ -1361,7 +1361,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.239Z"
+    "timestamp": "2026-03-09T00:34:54.080Z"
   },
   {
     "networkId": "interlay",
@@ -1369,7 +1369,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:14.712Z"
+    "timestamp": "2026-03-09T00:34:53.564Z"
   },
   {
     "networkId": "kusama",
@@ -1417,7 +1417,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:48.596Z"
+    "timestamp": "2026-03-09T00:35:02.979Z"
   },
   {
     "networkId": "polkadot",
@@ -1425,7 +1425,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:50.271Z"
+    "timestamp": "2026-03-09T00:35:06.564Z"
   },
   {
     "networkId": "polkadot",
@@ -1441,7 +1441,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:24.206Z"
+    "timestamp": "2026-03-09T00:35:00.683Z"
   },
   {
     "networkId": "shadow-kusama",
@@ -1449,7 +1449,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:23.958Z"
+    "timestamp": "2026-03-09T00:35:00.624Z"
   },
   {
     "networkId": "shadow-kusama",
@@ -1457,7 +1457,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.763Z"
+    "timestamp": "2026-03-09T00:34:58.487Z"
   },
   {
     "networkId": "shadow-kusama",
@@ -1491,7 +1491,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.109Z"
+    "timestamp": "2026-03-09T00:34:58.767Z"
   },
   {
     "networkId": "creditcoin-testnet",
@@ -1499,7 +1499,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:21.140Z"
+    "timestamp": "2026-03-09T00:34:57.928Z"
   },
   {
     "networkId": "autonomys-chronos-testnet",
@@ -1515,7 +1515,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.414Z"
+    "timestamp": "2026-03-09T00:34:59.689Z"
   },
   {
     "networkId": "crust",
@@ -1539,7 +1539,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:17.978Z"
+    "timestamp": "2026-03-09T00:34:57.019Z"
   },
   {
     "networkId": "darwinia",
@@ -1547,7 +1547,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:24.869Z"
+    "timestamp": "2026-03-09T00:35:02.246Z"
   },
   {
     "networkId": "heima",
@@ -1555,7 +1555,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:21.438Z"
+    "timestamp": "2026-03-09T00:34:58.728Z"
   },
   {
     "networkId": "hydradx",
@@ -1563,7 +1563,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:22.160Z"
+    "timestamp": "2026-03-09T00:35:00.885Z"
   },
   {
     "networkId": "kusama",
@@ -1620,7 +1620,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:16.107Z"
+    "timestamp": "2026-03-09T00:34:55.122Z"
   },
   {
     "networkId": "autonomys",
@@ -1644,7 +1644,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:24.043Z"
+    "timestamp": "2026-03-09T00:35:04.429Z"
   },
   {
     "networkId": "enjin-matrixchain-testnet",
@@ -1684,7 +1684,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.002Z"
+    "timestamp": "2026-03-09T00:35:04.753Z"
   },
   {
     "networkId": "shiden-kusama",
@@ -1698,9 +1698,10 @@
     "networkId": "tangle",
     "rpc": "wss://rpc.tangle.tools",
     "health": {
-      "status": "OK"
+      "status": "MEH",
+      "error": "Unexpected server response: 502"
     },
-    "timestamp": "2026-03-08T06:18:14.144Z"
+    "timestamp": "2026-03-09T00:34:53.875Z"
   },
   {
     "networkId": "analog-testnet",
@@ -1725,7 +1726,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:49.485Z"
+    "timestamp": "2026-03-09T00:35:05.090Z"
   },
   {
     "networkId": "analog-timechain",
@@ -1733,7 +1734,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:24.529Z"
+    "timestamp": "2026-03-09T00:35:00.691Z"
   },
   {
     "networkId": "vara",
@@ -1798,7 +1799,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:50.168Z"
+    "timestamp": "2026-03-09T00:35:05.812Z"
   },
   {
     "networkId": "vtb",
@@ -1806,7 +1807,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.589Z"
+    "timestamp": "2026-03-09T00:34:57.135Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1814,7 +1815,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:13.947Z"
+    "timestamp": "2026-03-09T00:34:53.325Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -1838,7 +1839,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.671Z"
+    "timestamp": "2026-03-09T00:34:57.504Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -1910,7 +1911,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:47.506Z"
+    "timestamp": "2026-03-09T00:35:01.334Z"
   },
   {
     "networkId": "paseo-asset-hub",
@@ -1951,7 +1952,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:19.129Z"
+    "timestamp": "2026-03-09T00:34:57.543Z"
   },
   {
     "networkId": "vara-testnet",
@@ -1983,7 +1984,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T12:12:47.389Z"
+    "timestamp": "2026-03-09T00:35:01.314Z"
   },
   {
     "networkId": "opal-testnet",
@@ -2008,7 +2009,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:14.686Z"
+    "timestamp": "2026-03-09T00:34:53.977Z"
   },
   {
     "networkId": "bifrost-kusama",
@@ -2121,7 +2122,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND ws-quartz.unique.network"
     },
-    "timestamp": "2026-03-08T06:18:14.318Z"
+    "timestamp": "2026-03-09T00:34:53.455Z"
   },
   {
     "networkId": "aleph-zero",
@@ -2146,7 +2147,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:15.811Z"
+    "timestamp": "2026-03-09T00:34:54.684Z"
   },
   {
     "networkId": "sora-standalone",
@@ -2162,7 +2163,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:18.472Z"
+    "timestamp": "2026-03-09T00:34:56.681Z"
   },
   {
     "networkId": "sora-polkadot",
@@ -2202,7 +2203,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:23.073Z"
+    "timestamp": "2026-03-09T00:34:59.135Z"
   },
   {
     "networkId": "moonriver",
@@ -2226,7 +2227,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:21.363Z"
+    "timestamp": "2026-03-09T00:34:58.228Z"
   },
   {
     "networkId": "zkverify-volta-testnet",
@@ -2234,6 +2235,6 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-08T06:18:20.326Z"
+    "timestamp": "2026-03-09T00:34:57.760Z"
   }
 ]

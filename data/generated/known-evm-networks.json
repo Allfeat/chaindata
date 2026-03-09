@@ -3255,10 +3255,6 @@
           "coingeckoId": "brz"
         },
         {
-          "contractAddress": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
-          "coingeckoId": "bscstarter"
-        },
-        {
           "contractAddress": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
           "coingeckoId": "btc-2x-flexible-leverage-index"
         },
@@ -5869,10 +5865,6 @@
         {
           "contractAddress": "0xeec2be5c91ae7f8a338e1e5f3b5de49d07afdc81",
           "coingeckoId": "dopex"
-        },
-        {
-          "contractAddress": "0x0ff5a8451a839f5f0bb3562689d9a44089738d11",
-          "coingeckoId": "dopex-rebate-token"
         },
         {
           "contractAddress": "0x4957805230831401caad5b690aa138143b711358",
@@ -12141,10 +12133,6 @@
         {
           "contractAddress": "0xa19f5264f7d7be11c451c093d8f92592820bea86",
           "coingeckoId": "neo-tokyo"
-        },
-        {
-          "contractAddress": "0xcd6926193308d3b371fdd6a6219067e550000000",
-          "coingeckoId": "nest"
         },
         {
           "contractAddress": "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
@@ -25559,10 +25547,6 @@
           "coingeckoId": "bscpad"
         },
         {
-          "contractAddress": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
-          "coingeckoId": "bscstarter"
-        },
-        {
           "contractAddress": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
           "coingeckoId": "bsc-station"
         },
@@ -31609,10 +31593,6 @@
         {
           "contractAddress": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
           "coingeckoId": "nerve-finance"
-        },
-        {
-          "contractAddress": "0xcd6926193308d3b371fdd6a6219067e550000000",
-          "coingeckoId": "nest"
         },
         {
           "contractAddress": "0x282973969118f9fe39bf2ff3d8dd1efee82ccb11",
@@ -39873,10 +39853,6 @@
         {
           "contractAddress": "0x4ed141110f6eeeaba9a1df36d8c26f684d2475dc",
           "coingeckoId": "brz"
-        },
-        {
-          "contractAddress": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
-          "coingeckoId": "bscstarter"
         },
         {
           "contractAddress": "0x9c32185b81766a051e08de671207b34466dd1021",
@@ -83154,10 +83130,6 @@
           "coingeckoId": "dopex"
         },
         {
-          "contractAddress": "0x32eb7902d4134bf98a28b963d26de779af92a212",
-          "coingeckoId": "dopex-rebate-token"
-        },
-        {
           "contractAddress": "0x6612ce012ba5574a2ecea3a825c1ddf641f78623",
           "coingeckoId": "dorado-finance"
         },
@@ -85789,10 +85761,6 @@
           "coingeckoId": "moola-celo-dollars"
         },
         {
-          "contractAddress": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
-          "coingeckoId": "moola-market"
-        },
-        {
           "contractAddress": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
           "coingeckoId": "mountain-protocol-usdm"
         },
@@ -86716,10 +86684,6 @@
         {
           "contractAddress": "0x491a4eb4f1fc3bff8e1d2fc856a6a46663ad556f",
           "coingeckoId": "brz"
-        },
-        {
-          "contractAddress": "0xf44fb887334fa17d2c5c0f970b5d320ab53ed557",
-          "coingeckoId": "bscstarter"
         },
         {
           "contractAddress": "0x5f018e73c185ab23647c82bd039e762813877f0e",

@@ -9481,17 +9481,6 @@
     "mintAddress": "5LS3ips7jWxfuVHzoMzKzp3cCwjH9zmrtYXmYBVGpump"
   },
   {
-    "id": "solana-mainnet:sol-spl:5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "DOGO",
-    "decimals": 6,
-    "name": "Dogemon",
-    "coingeckoId": "dogemon-go",
-    "mintAddress": "5LSFpvLDkcdV2a3Kiyzmg5YmJsj2XDLySaXvnfP1cgLT"
-  },
-  {
     "id": "solana-mainnet:sol-spl:5LwseQRo8fsz4S3y7jbqqe5C7tZTz5PwhXNCHj13jLBi",
     "platform": "solana",
     "networkId": "solana-mainnet",
