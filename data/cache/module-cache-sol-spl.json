@@ -8702,6 +8702,13 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:5TbDn1dFEcUTJp69Fxnu5wbwNec6LmoK42Sr5mmNmeta",
+    "isValid": true,
+    "symbol": "SUPER",
+    "decimals": 6,
+    "name": "Superclaw"
+  },
+  {
     "id": "solana-mainnet:sol-spl:5td6aHmUZxii1QharcgZ3k1iKU6ajKVtiPz19snKbonk",
     "isValid": true,
     "symbol": "INUKI",

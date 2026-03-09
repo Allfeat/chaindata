@@ -2640,10 +2640,10 @@
     "type": "substrate-dtao",
     "symbol": "Ⰲ",
     "decimals": 9,
-    "name": "SN136 | Subnet 136 Ⰲ",
+    "name": "SN136 | Eric Cartman Ⰲ",
     "isDefault": true,
     "netuid": 136,
-    "subnetName": "Subnet 136",
+    "subnetName": "Eric Cartman",
     "isTransferable": true
   },
   {
@@ -5305,10 +5305,10 @@
     "type": "substrate-dtao",
     "symbol": "イ",
     "decimals": 9,
-    "name": "SN320 | Subnet 320 イ",
+    "name": "SN320 | Kyle Broflovski イ",
     "isDefault": true,
     "netuid": 320,
-    "subnetName": "Subnet 320",
+    "subnetName": "Kyle Broflovski",
     "isTransferable": true
   },
   {
@@ -5318,10 +5318,10 @@
     "type": "substrate-dtao",
     "symbol": "ウ",
     "decimals": 9,
-    "name": "SN321 | Subnet 321 ウ",
+    "name": "SN321 | Kenny McCormick ウ",
     "isDefault": true,
     "netuid": 321,
-    "subnetName": "Subnet 321",
+    "subnetName": "Kenny McCormick",
     "isTransferable": true
   },
   {
@@ -5344,10 +5344,10 @@
     "type": "substrate-dtao",
     "symbol": "オ",
     "decimals": 9,
-    "name": "SN323 | Subnet 323 オ",
+    "name": "SN323 | Stan Marsh オ",
     "isDefault": true,
     "netuid": 323,
-    "subnetName": "Subnet 323",
+    "subnetName": "Stan Marsh",
     "isTransferable": true
   },
   {
@@ -5383,10 +5383,10 @@
     "type": "substrate-dtao",
     "symbol": "ク",
     "decimals": 9,
-    "name": "SN326 | Subnet 326 ク",
+    "name": "SN326 | Butters Stotch ク",
     "isDefault": true,
     "netuid": 326,
-    "subnetName": "Subnet 326",
+    "subnetName": "Butters Stotch",
     "isTransferable": true
   },
   {
@@ -5396,10 +5396,10 @@
     "type": "substrate-dtao",
     "symbol": "ケ",
     "decimals": 9,
-    "name": "SN327 | Subnet 327 ケ",
+    "name": "SN327 | Randy Marsh ケ",
     "isDefault": true,
     "netuid": 327,
-    "subnetName": "Subnet 327",
+    "subnetName": "Randy Marsh",
     "isTransferable": true
   },
   {
@@ -5422,10 +5422,10 @@
     "type": "substrate-dtao",
     "symbol": "サ",
     "decimals": 9,
-    "name": "SN329 | Subnet 329 サ",
+    "name": "SN329 | Mr. Garrison サ",
     "isDefault": true,
     "netuid": 329,
-    "subnetName": "Subnet 329",
+    "subnetName": "Mr. Garrison",
     "isTransferable": true
   },
   {
@@ -5448,10 +5448,10 @@
     "type": "substrate-dtao",
     "symbol": "シ",
     "decimals": 9,
-    "name": "SN330 | Subnet 330 シ",
+    "name": "SN330 | PC Principal シ",
     "isDefault": true,
     "netuid": 330,
-    "subnetName": "Subnet 330",
+    "subnetName": "PC Principal",
     "isTransferable": true
   },
   {
@@ -5461,10 +5461,10 @@
     "type": "substrate-dtao",
     "symbol": "ス",
     "decimals": 9,
-    "name": "SN331 | Subnet 331 ス",
+    "name": "SN331 | Mr. Mackey ス",
     "isDefault": true,
     "netuid": 331,
-    "subnetName": "Subnet 331",
+    "subnetName": "Mr. Mackey",
     "isTransferable": true
   },
   {
@@ -5539,10 +5539,10 @@
     "type": "substrate-dtao",
     "symbol": "テ",
     "decimals": 9,
-    "name": "SN337 | Subnet 337 テ",
+    "name": "SN337 | Sharon Marsh テ",
     "isDefault": true,
     "netuid": 337,
-    "subnetName": "Subnet 337",
+    "subnetName": "Sharon Marsh",
     "isTransferable": true
   },
   {
@@ -5604,10 +5604,10 @@
     "type": "substrate-dtao",
     "symbol": "ヌ",
     "decimals": 9,
-    "name": "SN341 | Subnet 341 ヌ",
+    "name": "SN341 | Jimmy Valmer ヌ",
     "isDefault": true,
     "netuid": 341,
-    "subnetName": "Subnet 341",
+    "subnetName": "Jimmy Valmer",
     "isTransferable": true
   },
   {
@@ -5630,10 +5630,10 @@
     "type": "substrate-dtao",
     "symbol": "ノ",
     "decimals": 9,
-    "name": "SN343 | Subnet 343 ノ",
+    "name": "SN343 | Wendy Testaburger ノ",
     "isDefault": true,
     "netuid": 343,
-    "subnetName": "Subnet 343",
+    "subnetName": "Wendy Testaburger",
     "isTransferable": true
   },
   {
@@ -5682,10 +5682,10 @@
     "type": "substrate-dtao",
     "symbol": "ヘ",
     "decimals": 9,
-    "name": "SN347 | Subnet 347 ヘ",
+    "name": "SN347 | Clyde Donovan ヘ",
     "isDefault": true,
     "netuid": 347,
-    "subnetName": "Subnet 347",
+    "subnetName": "Clyde Donovan",
     "isTransferable": true
   },
   {
@@ -5695,10 +5695,10 @@
     "type": "substrate-dtao",
     "symbol": "ホ",
     "decimals": 9,
-    "name": "SN348 | Subnet 348 ホ",
+    "name": "SN348 | Tolkien Black ホ",
     "isDefault": true,
     "netuid": 348,
-    "subnetName": "Subnet 348",
+    "subnetName": "Tolkien Black",
     "isTransferable": true
   },
   {
@@ -5734,10 +5734,10 @@
     "type": "substrate-dtao",
     "symbol": "ミ",
     "decimals": 9,
-    "name": "SN350 | Subnet 350 ミ",
+    "name": "SN350 | Craig Tucker ミ",
     "isDefault": true,
     "netuid": 350,
-    "subnetName": "Subnet 350",
+    "subnetName": "Craig Tucker",
     "isTransferable": true
   },
   {
@@ -5747,10 +5747,10 @@
     "type": "substrate-dtao",
     "symbol": "ム",
     "decimals": 9,
-    "name": "SN351 | Subnet 351 ム",
+    "name": "SN351 | Tweek Tweak ム",
     "isDefault": true,
     "netuid": 351,
-    "subnetName": "Subnet 351",
+    "subnetName": "Tweek Tweak",
     "isTransferable": true
   },
   {
@@ -5773,10 +5773,10 @@
     "type": "substrate-dtao",
     "symbol": "モ",
     "decimals": 9,
-    "name": "SN353 | Subnet 353 モ",
+    "name": "SN353 | Chef モ",
     "isDefault": true,
     "netuid": 353,
-    "subnetName": "Subnet 353",
+    "subnetName": "Chef",
     "isTransferable": true
   },
   {
@@ -6189,10 +6189,10 @@
     "type": "substrate-dtao",
     "symbol": "ⵁ",
     "decimals": 9,
-    "name": "SN382 | tegridy ⵁ",
+    "name": "SN382 | Tegridy ⵁ",
     "isDefault": true,
     "netuid": 382,
-    "subnetName": "tegridy",
+    "subnetName": "Tegridy",
     "isTransferable": true
   },
   {
@@ -6462,10 +6462,10 @@
     "type": "substrate-dtao",
     "symbol": "ⵓ",
     "decimals": 9,
-    "name": "SN400 | poker44 ⵓ",
+    "name": "SN400 | Towelie ⵓ",
     "isDefault": true,
     "netuid": 400,
-    "subnetName": "poker44",
+    "subnetName": "Towelie",
     "isTransferable": true
   },
   {

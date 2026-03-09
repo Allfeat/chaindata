@@ -10097,6 +10097,17 @@
     "mintAddress": "5t4EVfkb5QU8NZXmTzcSK2bQsNWUr2HL64rRb8i6wpat"
   },
   {
+    "id": "solana-mainnet:sol-spl:5TbDn1dFEcUTJp69Fxnu5wbwNec6LmoK42Sr5mmNmeta",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "SUPER",
+    "decimals": 6,
+    "name": "Superclaw",
+    "coingeckoId": "superclaw",
+    "mintAddress": "5TbDn1dFEcUTJp69Fxnu5wbwNec6LmoK42Sr5mmNmeta"
+  },
+  {
     "id": "solana-mainnet:sol-spl:5TfqNKZbn9AnNtzq8bbkyhKgcPGTfNDc9wNzFrTBpump",
     "platform": "solana",
     "networkId": "solana-mainnet",

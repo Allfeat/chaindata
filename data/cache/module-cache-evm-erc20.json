@@ -58652,6 +58652,10 @@
     "name": "xSolvBTC"
   },
   {
+    "id": "143:evm-erc20:0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+    "isValid": false
+  },
+  {
     "id": "143:evm-erc20:0xd32e9ddd968b18e8429f2d1da7efb2cc1f01d42d",
     "isValid": true,
     "symbol": "MOLANDAK",
@@ -58713,6 +58717,13 @@
     "symbol": "mXRP",
     "decimals": 18,
     "name": "Midas XRP"
+  },
+  {
+    "id": "146:evm-erc20:0x000000000eccff26b795f73fb0a70d48da657fef",
+    "isValid": true,
+    "symbol": "USSD",
+    "decimals": 18,
+    "name": "US Sonic Dollar"
   },
   {
     "id": "146:evm-erc20:0x001bff4b6da770f445a740227224d3c8b48e6fb2",

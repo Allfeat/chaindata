@@ -43080,6 +43080,10 @@
           "coingeckoId": "chog"
         },
         {
+          "contractAddress": "0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b",
+          "coingeckoId": "coinbase-wrapped-btc"
+        },
+        {
           "contractAddress": "0x103222f020e98bba0ad9809a011fdf8e6f067496",
           "coingeckoId": "earnausd"
         },
@@ -43676,6 +43680,10 @@
         {
           "contractAddress": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
           "coingeckoId": "usd-coin"
+        },
+        {
+          "contractAddress": "0x000000000eccff26b795f73fb0a70d48da657fef",
+          "coingeckoId": "us-sonic-dollar"
         },
         {
           "contractAddress": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
