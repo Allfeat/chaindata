@@ -9523,10 +9523,6 @@
           "coingeckoId": "kanzhun-ondo-tokenized-stock"
         },
         {
-          "contractAddress": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
-          "coingeckoId": "kapital-dao"
-        },
-        {
           "contractAddress": "0x80008bcd713c38af90a9930288d446bc3bd2e684",
           "coingeckoId": "karate-combat"
         },
@@ -12339,10 +12335,6 @@
           "coingeckoId": "nftx"
         },
         {
-          "contractAddress": "0xe1d7c7a4596b038ced2a84bf65b8647271c53208",
-          "coingeckoId": "nfty-token"
-        },
-        {
           "contractAddress": "0xfcaf0e4498e78d65526a507360f755178b804ba8",
           "coingeckoId": "niccagewaluigielmo42069inu"
         },
@@ -13177,10 +13169,6 @@
         {
           "contractAddress": "0xfb70859efec2ceb84dd4935a0842aa69290020bc",
           "coingeckoId": "pairs"
-        },
-        {
-          "contractAddress": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
-          "coingeckoId": "paladin"
         },
         {
           "contractAddress": "0x0c666485b02f7a87d21add7aeb9f5e64975aa490",
@@ -31619,10 +31607,6 @@
           "coingeckoId": "nft-stars"
         },
         {
-          "contractAddress": "0x5774b2fc3e91af89f89141eacf76545e74265982",
-          "coingeckoId": "nfty-token"
-        },
-        {
           "contractAddress": "0xb82582bf335bc4f57ec3c536e67019e1fa263f81",
           "coingeckoId": "n-gamefi"
         },
@@ -40907,10 +40891,6 @@
           "coingeckoId": "kangal"
         },
         {
-          "contractAddress": "0xc27158bb8e08899d38765752f91d7d778e16ab8e",
-          "coingeckoId": "kapital-dao"
-        },
-        {
           "contractAddress": "0x3d09f7f5039567564c3655b4814ea4bf63ce9fd3",
           "coingeckoId": "karma-2"
         },
@@ -41405,10 +41385,6 @@
         {
           "contractAddress": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
           "coingeckoId": "nft-worlds"
-        },
-        {
-          "contractAddress": "0xcc081220542a60a8ea7963c4f53d522b503272c1",
-          "coingeckoId": "nfty-token"
         },
         {
           "contractAddress": "0x695fc8b80f344411f34bdbcb4e621aa69ada384b",
@@ -43440,10 +43416,6 @@
         {
           "contractAddress": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
           "coingeckoId": "paint-swap"
-        },
-        {
-          "contractAddress": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7",
-          "coingeckoId": "paladin"
         },
         {
           "contractAddress": "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182",
@@ -53933,10 +53905,6 @@
         {
           "contractAddress": "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4",
           "coingeckoId": "stellaswap-staked-dot"
-        },
-        {
-          "contractAddress": "0xffffffff43b4560bc0c451a3386e082bff50ac90",
-          "coingeckoId": "subsocial"
         },
         {
           "contractAddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
@@ -83633,10 +83601,6 @@
           "coingeckoId": "kabosu-arbitrum"
         },
         {
-          "contractAddress": "0x965d00aa7abc62ca10132e641d08593435ac811d",
-          "coingeckoId": "kapital-dao"
-        },
-        {
           "contractAddress": "0xa891b374942cde9061e044c1d19c5b5de06a68e1",
           "coingeckoId": "kardiachain"
         },
@@ -92096,10 +92060,6 @@
         {
           "contractAddress": "0x818a92bc81aad0053d72ba753fb5bc3d0c5c0923",
           "coingeckoId": "juice-finance"
-        },
-        {
-          "contractAddress": "0x15d24de366f69b835be19f7cf9447e770315dd80",
-          "coingeckoId": "kapital-dao"
         },
         {
           "contractAddress": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
