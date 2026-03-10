@@ -7931,10 +7931,6 @@
           "coingeckoId": "goompy"
         },
         {
-          "contractAddress": "0x830eb1204380e9c44434db8700257025358707c6",
-          "coingeckoId": "goons-of-balatroon"
-        },
-        {
           "contractAddress": "0x0b2acaaf45fc201d239c5915572730f4bff1999f",
           "coingeckoId": "goose"
         },
@@ -12255,6 +12251,10 @@
           "coingeckoId": "nexai"
         },
         {
+          "contractAddress": "0xe3872dd4eba50598c54b2aa21b04c71fc37b000b",
+          "coingeckoId": "nexira-daep"
+        },
+        {
           "contractAddress": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
           "coingeckoId": "nexo"
         },
@@ -13681,10 +13681,6 @@
         {
           "contractAddress": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
           "coingeckoId": "pibble"
-        },
-        {
-          "contractAddress": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
-          "coingeckoId": "picasso"
         },
         {
           "contractAddress": "0x3a1311b8c404629e38f61d566cefefed083b9670",
@@ -28103,10 +28099,6 @@
           "coingeckoId": "franklin"
         },
         {
-          "contractAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
-          "coingeckoId": "frapped-usdt"
-        },
-        {
           "contractAddress": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
           "coingeckoId": "frax"
         },
@@ -35051,10 +35043,6 @@
           "coingeckoId": "tokyo-games-token"
         },
         {
-          "contractAddress": "0x8f01d597d2022656494e30fb76eccf1eea2e092e",
-          "coingeckoId": "tomb"
-        },
-        {
           "contractAddress": "0x8f1fe4e6707cd4236b704759d2ee15166c68183a",
           "coingeckoId": "tom-coin"
         },
@@ -35093,10 +35081,6 @@
         {
           "contractAddress": "0x2cb63fcd1380a8ad0ff5ba16ddcbdf4935154da8",
           "coingeckoId": "toptrade"
-        },
-        {
-          "contractAddress": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83",
-          "coingeckoId": "tor"
         },
         {
           "contractAddress": "0x6ea8211a1e47dbd8b55c487c0b906ebc57b94444",
@@ -42379,10 +42363,6 @@
           "coingeckoId": "tokhit"
         },
         {
-          "contractAddress": "0x0e98c977b943f06075b2d795794238fbfb9b9a34",
-          "coingeckoId": "tomb"
-        },
-        {
           "contractAddress": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
           "coingeckoId": "toucan-protocol-base-carbon-tonne"
         },
@@ -45779,10 +45759,6 @@
           "coingeckoId": "fear"
         },
         {
-          "contractAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
-          "coingeckoId": "frapped-usdt"
-        },
-        {
           "contractAddress": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
           "coingeckoId": "frax"
         },
@@ -46011,10 +45987,6 @@
           "coingeckoId": "solidlydex"
         },
         {
-          "contractAddress": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
-          "coingeckoId": "spartacus"
-        },
-        {
           "contractAddress": "0x468003b688943977e6130f4f68f23aad939a1040",
           "coingeckoId": "spell-token"
         },
@@ -46079,10 +46051,6 @@
           "coingeckoId": "thorstarter"
         },
         {
-          "contractAddress": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
-          "coingeckoId": "tomb"
-        },
-        {
           "contractAddress": "0xf45b1146416f1ec2125de920324722912fe8807f",
           "coingeckoId": "tombplus-tshare-plus"
         },
@@ -46093,10 +46061,6 @@
         {
           "contractAddress": "0x33333ee26a7d02e41c33828b42fb1e0889143477",
           "coingeckoId": "topshelf-finance"
-        },
-        {
-          "contractAddress": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
-          "coingeckoId": "tor"
         },
         {
           "contractAddress": "0x0e121961dd741c9d49c9a04379da944a9d2fac7a",
@@ -61416,10 +61380,6 @@
           "coingeckoId": "forgotten-playland"
         },
         {
-          "contractAddress": "0x7fb5a9921cf98362aa425e42f66bf3484c2c2b5f",
-          "coingeckoId": "goons-of-balatroon"
-        },
-        {
           "contractAddress": "0xe338aa35d844d5c1a4e052380dbfa939e0cce13f",
           "coingeckoId": "raini-studios-token"
         },
@@ -75479,10 +75439,6 @@
           "coingeckoId": "cosmos"
         },
         {
-          "contractAddress": "0x5db67696c3c088dfbf588d3dd849f44266ff0ffa",
-          "coingeckoId": "e-money-eur"
-        },
-        {
           "contractAddress": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8",
           "coingeckoId": "frax"
         },
@@ -83405,10 +83361,6 @@
           "coingeckoId": "good-entry"
         },
         {
-          "contractAddress": "0xa2f9ecf83a48b86265ff5fd36cdbaaa1f349916c",
-          "coingeckoId": "goons-of-balatroon"
-        },
-        {
           "contractAddress": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
           "coingeckoId": "governance-ohm"
         },
@@ -83831,10 +83783,6 @@
         {
           "contractAddress": "0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d",
           "coingeckoId": "mahadao"
-        },
-        {
-          "contractAddress": "0x00000000ea00f3f4000e7ed5ed91965b19f1009b",
-          "coingeckoId": "maia"
         },
         {
           "contractAddress": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -87803,10 +87751,6 @@
         {
           "contractAddress": "0x2f5de51823e514de04475ba8db1eeba5b244ba84",
           "coingeckoId": "token-teknoloji-a-s-usd"
-        },
-        {
-          "contractAddress": "0xb84527d59b6ecb96f433029ecc890d4492c5dce1",
-          "coingeckoId": "tomb"
         },
         {
           "contractAddress": "0x33333ee26a7d02e41c33828b42fb1e0889143477",

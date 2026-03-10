@@ -5,7 +5,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.602Z"
+    "timestamp": "2026-03-10T00:31:42.512Z"
   },
   {
     "networkId": "frequency",
@@ -13,7 +13,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.818Z"
+    "timestamp": "2026-03-10T00:31:41.259Z"
   },
   {
     "networkId": "acala",
@@ -21,7 +21,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:33.211Z"
+    "timestamp": "2026-03-10T00:31:50.960Z"
   },
   {
     "networkId": "acala",
@@ -45,7 +45,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:59.581Z"
+    "timestamp": "2026-03-10T00:31:45.352Z"
   },
   {
     "networkId": "acala",
@@ -53,7 +53,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.014Z"
+    "timestamp": "2026-03-10T00:31:38.658Z"
   },
   {
     "networkId": "ajuna",
@@ -61,7 +61,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.851Z"
+    "timestamp": "2026-03-10T00:31:47.490Z"
   },
   {
     "networkId": "ajuna",
@@ -85,7 +85,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.705Z"
+    "timestamp": "2026-03-10T00:31:40.992Z"
   },
   {
     "networkId": "phala",
@@ -93,7 +93,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.991Z"
+    "timestamp": "2026-03-10T00:31:48.359Z"
   },
   {
     "networkId": "torus",
@@ -157,7 +157,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.793Z"
+    "timestamp": "2026-03-10T00:31:40.550Z"
   },
   {
     "networkId": "astar",
@@ -165,7 +165,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:28:00.352Z"
+    "timestamp": "2026-03-10T00:31:46.474Z"
   },
   {
     "networkId": "astar",
@@ -181,7 +181,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.187Z"
+    "timestamp": "2026-03-10T00:31:39.120Z"
   },
   {
     "networkId": "avail",
@@ -222,7 +222,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.332Z"
+    "timestamp": "2026-03-10T00:31:38.504Z"
   },
   {
     "networkId": "bifrost-kusama",
@@ -239,7 +239,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 401"
     },
-    "timestamp": "2026-03-09T06:27:54.507Z"
+    "timestamp": "2026-03-10T00:31:40.405Z"
   },
   {
     "networkId": "kusama-bridge-hub",
@@ -271,7 +271,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.015Z"
+    "timestamp": "2026-03-10T00:31:37.793Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -303,7 +303,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.833Z"
+    "timestamp": "2026-03-10T00:31:40.601Z"
   },
   {
     "networkId": "polkadot-collectives",
@@ -311,7 +311,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.003Z"
+    "timestamp": "2026-03-10T00:31:37.778Z"
   },
   {
     "networkId": "kusama-coretime",
@@ -327,7 +327,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.393Z"
+    "timestamp": "2026-03-10T00:31:49.795Z"
   },
   {
     "networkId": "polkadot-coretime",
@@ -351,7 +351,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.383Z"
+    "timestamp": "2026-03-10T00:31:41.122Z"
   },
   {
     "networkId": "crust-parachain",
@@ -359,7 +359,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.903Z"
+    "timestamp": "2026-03-10T00:31:48.158Z"
   },
   {
     "networkId": "crust-parachain",
@@ -383,7 +383,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.243Z"
+    "timestamp": "2026-03-10T00:31:38.565Z"
   },
   {
     "networkId": "darwinia",
@@ -391,7 +391,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:59.154Z"
+    "timestamp": "2026-03-10T00:31:45.649Z"
   },
   {
     "networkId": "polkadot",
@@ -399,7 +399,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.565Z"
+    "timestamp": "2026-03-10T00:31:42.507Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -439,7 +439,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.896Z"
+    "timestamp": "2026-03-10T00:31:39.832Z"
   },
   {
     "networkId": "bittensor",
@@ -455,7 +455,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.075Z"
+    "timestamp": "2026-03-10T00:31:49.311Z"
   },
   {
     "networkId": "quartz",
@@ -472,7 +472,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.912Z"
+    "timestamp": "2026-03-10T00:31:39.419Z"
   },
   {
     "networkId": "bifrost-polkadot",
@@ -496,7 +496,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.073Z"
+    "timestamp": "2026-03-10T00:31:38.492Z"
   },
   {
     "networkId": "altair",
@@ -512,7 +512,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.939Z"
+    "timestamp": "2026-03-10T00:31:50.716Z"
   },
   {
     "networkId": "encointer-testnet-standalone",
@@ -544,7 +544,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.277Z"
+    "timestamp": "2026-03-10T00:31:49.022Z"
   },
   {
     "networkId": "hyperbridge-polkadot",
@@ -568,7 +568,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.768Z"
+    "timestamp": "2026-03-10T00:31:44.887Z"
   },
   {
     "networkId": "karura",
@@ -617,7 +617,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND kilt.ibp.network"
     },
-    "timestamp": "2026-03-09T12:17:32.255Z"
+    "timestamp": "2026-03-10T00:31:48.870Z"
   },
   {
     "networkId": "kreivo",
@@ -626,7 +626,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 403"
     },
-    "timestamp": "2026-03-09T06:28:00.157Z"
+    "timestamp": "2026-03-10T00:31:46.225Z"
   },
   {
     "networkId": "kreivo",
@@ -634,7 +634,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.828Z"
+    "timestamp": "2026-03-10T00:31:43.104Z"
   },
   {
     "networkId": "krest",
@@ -722,7 +722,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.733Z"
+    "timestamp": "2026-03-10T00:31:47.507Z"
   },
   {
     "networkId": "encointer",
@@ -730,7 +730,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.899Z"
+    "timestamp": "2026-03-10T00:31:45.753Z"
   },
   {
     "networkId": "kusama",
@@ -738,7 +738,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.868Z"
+    "timestamp": "2026-03-10T00:31:43.392Z"
   },
   {
     "networkId": "kusama",
@@ -746,7 +746,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:28:00.112Z"
+    "timestamp": "2026-03-10T00:31:46.242Z"
   },
   {
     "networkId": "kusama",
@@ -762,7 +762,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.996Z"
+    "timestamp": "2026-03-10T00:31:51.008Z"
   },
   {
     "networkId": "liberland",
@@ -770,7 +770,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.619Z"
+    "timestamp": "2026-03-10T00:31:47.443Z"
   },
   {
     "networkId": "bittensor",
@@ -794,7 +794,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.815Z"
+    "timestamp": "2026-03-10T00:31:43.171Z"
   },
   {
     "networkId": "stafi",
@@ -883,7 +883,7 @@
       "status": "NOK",
       "error": "Hostname/IP does not match certificate's altnames: Host: mof3.sora.org. is not in the cert's altnames: DNS:mainnet.liberland.org"
     },
-    "timestamp": "2026-03-09T12:17:32.343Z"
+    "timestamp": "2026-03-10T00:31:49.374Z"
   },
   {
     "networkId": "moonbase-alpha-testnet",
@@ -915,7 +915,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.001Z"
+    "timestamp": "2026-03-10T00:31:41.517Z"
   },
   {
     "networkId": "moonbeam",
@@ -939,7 +939,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.056Z"
+    "timestamp": "2026-03-10T00:31:38.351Z"
   },
   {
     "networkId": "moonbeam",
@@ -955,7 +955,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.613Z"
+    "timestamp": "2026-03-10T00:31:44.219Z"
   },
   {
     "networkId": "moonriver",
@@ -963,7 +963,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.241Z"
+    "timestamp": "2026-03-10T00:31:37.926Z"
   },
   {
     "networkId": "moonriver",
@@ -1003,7 +1003,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.074Z"
+    "timestamp": "2026-03-10T00:31:39.070Z"
   },
   {
     "networkId": "curio",
@@ -1012,7 +1012,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 403"
     },
-    "timestamp": "2026-03-09T06:27:59.043Z"
+    "timestamp": "2026-03-10T00:31:45.104Z"
   },
   {
     "networkId": "paseo-testnet",
@@ -1020,7 +1020,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.375Z"
+    "timestamp": "2026-03-10T00:31:49.798Z"
   },
   {
     "networkId": "paseo-asset-hub",
@@ -1028,7 +1028,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.608Z"
+    "timestamp": "2026-03-10T00:31:47.224Z"
   },
   {
     "networkId": "paseo-testnet",
@@ -1036,7 +1036,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.711Z"
+    "timestamp": "2026-03-10T00:31:38.146Z"
   },
   {
     "networkId": "paseo-testnet",
@@ -1085,7 +1085,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.474Z"
+    "timestamp": "2026-03-10T00:31:39.633Z"
   },
   {
     "networkId": "kusama-people",
@@ -1182,7 +1182,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.158Z"
+    "timestamp": "2026-03-10T00:31:46.608Z"
   },
   {
     "networkId": "xode-polkadot",
@@ -1198,7 +1198,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.116Z"
+    "timestamp": "2026-03-10T00:31:40.666Z"
   },
   {
     "networkId": "polkadot",
@@ -1206,7 +1206,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.937Z"
+    "timestamp": "2026-03-10T00:31:38.128Z"
   },
   {
     "networkId": "polkadot",
@@ -1214,7 +1214,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.282Z"
+    "timestamp": "2026-03-10T00:31:39.995Z"
   },
   {
     "networkId": "robonomics-polkadot",
@@ -1254,7 +1254,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.751Z"
+    "timestamp": "2026-03-10T00:31:39.610Z"
   },
   {
     "networkId": "rococo-ewx-testnet",
@@ -1270,7 +1270,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.359Z"
+    "timestamp": "2026-03-10T00:31:43.163Z"
   },
   {
     "networkId": "kusama",
@@ -1286,7 +1286,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:59.181Z"
+    "timestamp": "2026-03-10T00:31:45.239Z"
   },
   {
     "networkId": "subspace-gemini-3-f-testnet",
@@ -1295,7 +1295,7 @@
       "status": "NOK",
       "error": "Timeout"
     },
-    "timestamp": "2026-03-09T06:28:07.104Z"
+    "timestamp": "2026-03-10T00:31:56.249Z"
   },
   {
     "networkId": "amplitude",
@@ -1304,7 +1304,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 502"
     },
-    "timestamp": "2026-03-09T06:27:56.031Z"
+    "timestamp": "2026-03-10T00:31:41.693Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -1376,7 +1376,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.835Z"
+    "timestamp": "2026-03-10T00:31:40.060Z"
   },
   {
     "networkId": "kusama",
@@ -1384,7 +1384,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.985Z"
+    "timestamp": "2026-03-10T00:31:44.469Z"
   },
   {
     "networkId": "ajuna",
@@ -1400,7 +1400,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.534Z"
+    "timestamp": "2026-03-10T00:31:38.011Z"
   },
   {
     "networkId": "kusama-people",
@@ -1481,7 +1481,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.038Z"
+    "timestamp": "2026-03-10T00:31:42.234Z"
   },
   {
     "networkId": "basilisk",
@@ -1505,7 +1505,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.942Z"
+    "timestamp": "2026-03-10T00:31:44.392Z"
   },
   {
     "networkId": "crust",
@@ -1593,7 +1593,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.722Z"
+    "timestamp": "2026-03-10T00:31:41.732Z"
   },
   {
     "networkId": "joystream",
@@ -1601,7 +1601,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:59.823Z"
+    "timestamp": "2026-03-10T00:31:45.993Z"
   },
   {
     "networkId": "joystream",
@@ -1610,7 +1610,7 @@
       "status": "MEH",
       "error": "Unexpected server response: 502"
     },
-    "timestamp": "2026-03-09T06:27:59.909Z"
+    "timestamp": "2026-03-10T00:31:46.141Z"
   },
   {
     "networkId": "laos",
@@ -1626,7 +1626,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.243Z"
+    "timestamp": "2026-03-10T00:31:48.735Z"
   },
   {
     "networkId": "autonomys",
@@ -1650,7 +1650,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.525Z"
+    "timestamp": "2026-03-10T00:31:50.270Z"
   },
   {
     "networkId": "heima-testnet",
@@ -1658,7 +1658,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.864Z"
+    "timestamp": "2026-03-10T00:31:39.964Z"
   },
   {
     "networkId": "enjin-relay",
@@ -1666,7 +1666,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.406Z"
+    "timestamp": "2026-03-10T00:31:40.234Z"
   },
   {
     "networkId": "enjin-relay-testnet",
@@ -1674,7 +1674,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.616Z"
+    "timestamp": "2026-03-10T00:31:50.164Z"
   },
   {
     "networkId": "shibuya-testnet",
@@ -1717,7 +1717,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.378Z"
+    "timestamp": "2026-03-10T00:31:49.689Z"
   },
   {
     "networkId": "creditcoin-classic-testnet",
@@ -1741,15 +1741,16 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.360Z"
+    "timestamp": "2026-03-10T00:31:44.018Z"
   },
   {
     "networkId": "xxnetwork",
     "rpc": "wss://rpc.xx.network/",
     "health": {
-      "status": "OK"
+      "status": "NOK",
+      "error": "Timeout"
     },
-    "timestamp": "2026-03-09T06:27:55.124Z"
+    "timestamp": "2026-03-10T00:31:50.603Z"
   },
   {
     "networkId": "tanssi",
@@ -1773,7 +1774,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:28:00.021Z"
+    "timestamp": "2026-03-10T00:31:46.303Z"
   },
   {
     "networkId": "kusama-asset-hub",
@@ -1789,7 +1790,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.095Z"
+    "timestamp": "2026-03-10T00:31:43.533Z"
   },
   {
     "networkId": "polkadot-asset-hub",
@@ -1821,7 +1822,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.825Z"
+    "timestamp": "2026-03-10T00:31:44.936Z"
   },
   {
     "networkId": "paseo-asset-hub",
@@ -1845,7 +1846,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.595Z"
+    "timestamp": "2026-03-10T00:31:44.070Z"
   },
   {
     "networkId": "polkadot-bridge-hub",
@@ -1869,7 +1870,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.689Z"
+    "timestamp": "2026-03-10T00:31:44.187Z"
   },
   {
     "networkId": "polkadot-coretime",
@@ -1877,7 +1878,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.364Z"
+    "timestamp": "2026-03-10T00:31:49.350Z"
   },
   {
     "networkId": "encointer",
@@ -1893,7 +1894,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.952Z"
+    "timestamp": "2026-03-10T00:31:44.967Z"
   },
   {
     "networkId": "polkadot-people",
@@ -1917,7 +1918,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.493Z"
+    "timestamp": "2026-03-10T00:31:44.146Z"
   },
   {
     "networkId": "bittensor-testnet",
@@ -1942,7 +1943,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND testnet-passet-hub.polkadot.io"
     },
-    "timestamp": "2026-03-09T06:27:59.931Z"
+    "timestamp": "2026-03-10T00:31:45.778Z"
   },
   {
     "networkId": "polymesh-testnet",
@@ -1958,7 +1959,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:31.344Z"
+    "timestamp": "2026-03-10T00:31:46.801Z"
   },
   {
     "networkId": "avail-turing-testnet",
@@ -1966,7 +1967,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.090Z"
+    "timestamp": "2026-03-10T00:31:38.465Z"
   },
   {
     "networkId": "unique",
@@ -1990,7 +1991,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:57.531Z"
+    "timestamp": "2026-03-10T00:31:44.954Z"
   },
   {
     "networkId": "quartz",
@@ -1999,7 +2000,7 @@
       "status": "NOK",
       "error": "getaddrinfo ENOTFOUND us-ws-quartz.unique.network"
     },
-    "timestamp": "2026-03-09T06:27:56.606Z"
+    "timestamp": "2026-03-10T00:31:42.538Z"
   },
   {
     "networkId": "unique",
@@ -2015,7 +2016,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:52.738Z"
+    "timestamp": "2026-03-10T00:31:38.984Z"
   },
   {
     "networkId": "vflow",
@@ -2039,7 +2040,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.368Z"
+    "timestamp": "2026-03-10T00:31:44.906Z"
   },
   {
     "networkId": "westend-bridge-hub-testnet",
@@ -2047,7 +2048,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:56.851Z"
+    "timestamp": "2026-03-10T00:31:43.688Z"
   },
   {
     "networkId": "westend-collectives-testnet",
@@ -2055,7 +2056,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:54.553Z"
+    "timestamp": "2026-03-10T00:31:40.834Z"
   },
   {
     "networkId": "westend-coretime-testnet",
@@ -2095,7 +2096,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.570Z"
+    "timestamp": "2026-03-10T00:31:42.420Z"
   },
   {
     "networkId": "westend-testnet",
@@ -2103,7 +2104,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.256Z"
+    "timestamp": "2026-03-10T00:31:39.215Z"
   },
   {
     "networkId": "opal-testnet",
@@ -2111,7 +2112,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:53.937Z"
+    "timestamp": "2026-03-10T00:31:40.273Z"
   },
   {
     "networkId": "quartz",
@@ -2136,7 +2137,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:58.209Z"
+    "timestamp": "2026-03-10T00:31:44.524Z"
   },
   {
     "networkId": "manta",
@@ -2176,7 +2177,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T12:17:32.960Z"
+    "timestamp": "2026-03-10T00:31:50.775Z"
   },
   {
     "networkId": "krest",
@@ -2184,7 +2185,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:51.448Z"
+    "timestamp": "2026-03-10T00:31:38.388Z"
   },
   {
     "networkId": "moonbase-alpha-testnet",
@@ -2192,7 +2193,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:59.964Z"
+    "timestamp": "2026-03-10T00:31:46.128Z"
   },
   {
     "networkId": "moonbeam",
@@ -2216,7 +2217,7 @@
     "health": {
       "status": "OK"
     },
-    "timestamp": "2026-03-09T06:27:55.403Z"
+    "timestamp": "2026-03-10T00:31:40.942Z"
   },
   {
     "networkId": "zkverify",
