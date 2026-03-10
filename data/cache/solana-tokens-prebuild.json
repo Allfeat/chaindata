@@ -50159,17 +50159,6 @@
     "mintAddress": "Ta1wrnVmwJ25RpE4KN7z4YNMvBhSKgi4U6uu9xEtime"
   },
   {
-    "id": "solana-mainnet:sol-spl:Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "TAKI",
-    "decimals": 9,
-    "name": "Taki Games",
-    "coingeckoId": "taki",
-    "mintAddress": "Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4"
-  },
-  {
     "id": "solana-mainnet:sol-spl:tdzUKGeAchLRzpYBzmBWEGaoP7E8EQ8hPv8Eqi8pump",
     "platform": "solana",
     "networkId": "solana-mainnet",
