@@ -97815,6 +97815,13 @@
     "name": "Fire Horse"
   },
   {
+    "id": "56:evm-erc20:0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+    "isValid": true,
+    "symbol": "enzoBTC",
+    "decimals": 8,
+    "name": "Lorenzo Wrapped Bitcoin"
+  },
+  {
     "id": "56:evm-erc20:0x6aa150fff813e0bec1273691f349ad080df7216d",
     "symbol": "FERMA",
     "decimals": 8,
@@ -113975,6 +113982,13 @@
     "decimals": 18,
     "name": "DomusAI",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0xf8f173e20e15f3b6cb686fb64724d370689de083",
+    "isValid": true,
+    "symbol": "HEI",
+    "decimals": 18,
+    "name": "Heima"
   },
   {
     "id": "56:evm-erc20:0xf8f331dfa811132c43c308757cd802ca982b7211",

@@ -24367,6 +24367,10 @@
     "name": "this can be anything"
   },
   {
+    "id": "solana-mainnet:sol-spl:C4yDhKwkikpVGCQWD9BT2SJyHAtRFFnKPDM9Nyshpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:C4zNLzmCp5aDkYEpxwcLAdmGTAT3fE3YxA2kTdSRpump",
     "isValid": true,
     "symbol": "BIRDIE",
