@@ -6525,12 +6525,12 @@
     "platform": "polkadot",
     "networkId": "bittensor-testnet",
     "type": "substrate-dtao",
-    "symbol": "ඉ",
+    "symbol": "ㄴ",
     "decimals": 9,
-    "name": "SN405 | ACOREAI ඉ",
+    "name": "SN405 | verathos ㄴ",
     "isDefault": true,
     "netuid": 405,
-    "subnetName": "ACOREAI",
+    "subnetName": "verathos",
     "isTransferable": true
   },
   {
@@ -7974,11 +7974,11 @@
     "type": "substrate-dtao",
     "symbol": "Գ",
     "decimals": 9,
-    "name": "SN105 | Subnet 105 Գ",
+    "name": "SN105 | Beam Գ",
     "coingeckoId": "soundsright",
     "isDefault": true,
     "netuid": 105,
-    "subnetName": "Subnet 105",
+    "subnetName": "Beam",
     "isTransferable": true
   },
   {
@@ -8601,11 +8601,11 @@
     "type": "substrate-dtao",
     "symbol": "ו",
     "decimals": 9,
-    "name": "SN30 | Wahoot ו",
+    "name": "SN30 | Pending ו",
     "coingeckoId": "bettensor",
     "isDefault": true,
     "netuid": 30,
-    "subnetName": "Wahoot",
+    "subnetName": "Pending",
     "isTransferable": true
   },
   {
@@ -9648,11 +9648,11 @@
     "type": "substrate-dtao",
     "symbol": "გ",
     "decimals": 9,
-    "name": "SN99 | Problems გ",
+    "name": "SN99 | Leoma გ",
     "coingeckoId": "neza",
     "isDefault": true,
     "netuid": 99,
-    "subnetName": "Problems",
+    "subnetName": "Leoma",
     "isTransferable": true
   },
   {

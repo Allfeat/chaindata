@@ -35628,6 +35628,17 @@
     "mintAddress": "EngayhhahJGPZ4mqbnDQtVRnhjjf1uoEmbpevBVFJdLM"
   },
   {
+    "id": "solana-mainnet:sol-spl:ENJpMVwQ5Cxi4SNtSmAX1ZTm7KBHPwQ3WaRWgRyvaLB8",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "CityBoy",
+    "decimals": 6,
+    "name": "City Boy",
+    "coingeckoId": "city-boy",
+    "mintAddress": "ENJpMVwQ5Cxi4SNtSmAX1ZTm7KBHPwQ3WaRWgRyvaLB8"
+  },
+  {
     "id": "solana-mainnet:sol-spl:ENjwcWn1uUphWtvuP8ypjakr1jMHY9vnznXXrnMVbonk",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -47880,17 +47891,6 @@
     "name": "Magic Eden",
     "coingeckoId": "magic-eden",
     "mintAddress": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "MER",
-    "decimals": 6,
-    "name": "Mercurial",
-    "coingeckoId": "mercurial",
-    "mintAddress": "MERt85fc5boKw3BW1eYdxonEuJNvXbiMbs6hvheau5K"
   },
   {
     "id": "solana-mainnet:sol-spl:METADDFL6wWMWEoKTFJwcThTbUmtarRJZjRpzUvkxhr",

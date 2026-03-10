@@ -2787,10 +2787,6 @@
           "coingeckoId": "blockchain-bets"
         },
         {
-          "contractAddress": "0x4086e77c5e993fdb90a406285d00111a974f877a",
-          "coingeckoId": "blockchain-brawlers"
-        },
-        {
           "contractAddress": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
           "coingeckoId": "blockchain-certified-data-token"
         },
@@ -5835,10 +5831,6 @@
           "coingeckoId": "dork-lord-2"
         },
         {
-          "contractAddress": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515",
-          "coingeckoId": "dose-token"
-        },
-        {
           "contractAddress": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
           "coingeckoId": "dos-network"
         },
@@ -6261,6 +6253,10 @@
         {
           "contractAddress": "0x1416946162b1c2c871a73b07e932d2fb6c932069",
           "coingeckoId": "energi"
+        },
+        {
+          "contractAddress": "0x178c820f862b14f316509ec36b13123da19a6054",
+          "coingeckoId": "energy-web-token"
         },
         {
           "contractAddress": "0x0511df77e420c9c37b065ddb7973d0f81430a092",
@@ -15023,6 +15019,10 @@
           "coingeckoId": "router-protocol-2"
         },
         {
+          "contractAddress": "0x44bb433d29fe966992a9c812da7f252c9c53f285",
+          "coingeckoId": "royal-dollar"
+        },
+        {
           "contractAddress": "0x6c060ba738af39a09f3b45ac6487dfc9ebb885f6",
           "coingeckoId": "rserg"
         },
@@ -16425,6 +16425,10 @@
         {
           "contractAddress": "0xf7af0a8079f12f19533b0df69ce7ee6718b0c46f",
           "coingeckoId": "staked-tharwa-usd"
+        },
+        {
+          "contractAddress": "0x0d45b129dc868963025db79a9074ea9c9e32cae4",
+          "coingeckoId": "staked-usdp"
         },
         {
           "contractAddress": "0x25ec98773d7b4ced4cafab96a2a1c0945f145e10",
@@ -27183,10 +27187,6 @@
           "coingeckoId": "dora-2"
         },
         {
-          "contractAddress": "0x7837fd820ba38f95c54d6dac4ca3751b81511357",
-          "coingeckoId": "dose-token"
-        },
-        {
           "contractAddress": "0x84c97300a190676a19d1e13115629a11f8482bd1",
           "coingeckoId": "dot-dot-finance"
         },
@@ -30483,6 +30483,10 @@
           "coingeckoId": "marketpeak"
         },
         {
+          "contractAddress": "0x01ee1f75d0e80ed907aa0221bf29e380d03ba15a",
+          "coingeckoId": "markhor"
+        },
+        {
           "contractAddress": "0x19b99162adaab85134e781ac0048c275c31b205a",
           "coingeckoId": "marnotaur"
         },
@@ -32611,10 +32615,6 @@
           "coingeckoId": "poocoin"
         },
         {
-          "contractAddress": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
-          "coingeckoId": "poodle"
-        },
-        {
           "contractAddress": "0x631c2f0edabac799f07550aee4ff0bf7fd35212b",
           "coingeckoId": "poollotto-finance"
         },
@@ -32977,10 +32977,6 @@
         {
           "contractAddress": "0xd38c1b7b95d359978996e01b8a85286f65b3c011",
           "coingeckoId": "rage-fan"
-        },
-        {
-          "contractAddress": "0x673da443da2f6ae7c5c660a9f0d3dd24d1643d36",
-          "coingeckoId": "rainbowtoken"
         },
         {
           "contractAddress": "0x24b1c3f935dffcadb606920022ba8c703bb065d7",
@@ -33361,6 +33357,10 @@
         {
           "contractAddress": "0xfd2700c51812753215754de9ec51cdd42bf725b9",
           "coingeckoId": "route"
+        },
+        {
+          "contractAddress": "0x44bb433d29fe966992a9c812da7f252c9c53f285",
+          "coingeckoId": "royal-dollar"
         },
         {
           "contractAddress": "0xe0e8a04242f35b95dc64b07e0eae23a8e43a78e4",
@@ -33835,10 +33835,6 @@
           "coingeckoId": "shopify-ondo-tokenized-stock"
         },
         {
-          "contractAddress": "0xa6c59de838f1eeb82d86f5af0750f5f656439999",
-          "coingeckoId": "shopnext-loyalty-token"
-        },
-        {
           "contractAddress": "0x31e4efe290973ebe91b3a875a7994f650942d28f",
           "coingeckoId": "shrapnel-2"
         },
@@ -34037,10 +34033,6 @@
         {
           "contractAddress": "0xe58c3a44b74362048e202cb7c8036d4b0b28af50",
           "coingeckoId": "solarx-2"
-        },
-        {
-          "contractAddress": "0xa91c7bc1e07996a188c1a5b1cfdff450389d8acf",
-          "coingeckoId": "solchicks-token"
         },
         {
           "contractAddress": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
@@ -40057,10 +40049,6 @@
         {
           "contractAddress": "0x59536e645e5f394045049c38ea98ae45b4b0ded2",
           "coingeckoId": "dongdaemun-token"
-        },
-        {
-          "contractAddress": "0x81382e9693de2afc33f69b70a6c12ca9b3a73f47",
-          "coingeckoId": "dose-token"
         },
         {
           "contractAddress": "0x3ed4c2d63def617f436eb031bacae16f478f3b00",
@@ -51648,6 +51636,10 @@
           "coingeckoId": "staked-loop"
         },
         {
+          "contractAddress": "0x9b3a8f7cec208e247d97dee13313690977e24459",
+          "coingeckoId": "staked-usdp"
+        },
+        {
           "contractAddress": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
           "coingeckoId": "tether-gold-tokens"
         },
@@ -54175,6 +54167,10 @@
         {
           "contractAddress": "0x0a526e425809aea71eb279d24ae22dee6c92a4fe",
           "coingeckoId": "dragonswap"
+        },
+        {
+          "contractAddress": "0xf2282e641cd3ceeafd4e24663d409fcb68edc1df",
+          "coingeckoId": "evolve-eusd"
         },
         {
           "contractAddress": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
@@ -67781,6 +67777,10 @@
           "coingeckoId": "clawfred"
         },
         {
+          "contractAddress": "0x60b0c26ea34be7d8625526a6b18b3ad4c6b9f694",
+          "coingeckoId": "clawguin"
+        },
+        {
           "contractAddress": "0x2fc3dd4dacfd1b2fabac157de8727b54bade4b07",
           "coingeckoId": "clawiai"
         },
@@ -68831,10 +68831,6 @@
         {
           "contractAddress": "0x1e2093ab84768948c6176db5ad98c909ce97f368",
           "coingeckoId": "dora-ai-by-virtuals"
-        },
-        {
-          "contractAddress": "0x455234ab787665a219125235fb01b22b512dfcaa",
-          "coingeckoId": "dose-token"
         },
         {
           "contractAddress": "0xb38266e0e9d9681b77aeb0a280e98131b953f865",
@@ -71033,6 +71029,10 @@
           "coingeckoId": "molt-armstrong"
         },
         {
+          "contractAddress": "0x4e4c7c62a55c0cf450f1ff4478be7f4c34dde155",
+          "coingeckoId": "moltask"
+        },
+        {
           "contractAddress": "0xb695559b26bb2c9703ef1935c37aeae9526bab07",
           "coingeckoId": "moltbook"
         },
@@ -73015,6 +73015,10 @@
         {
           "contractAddress": "0x96043804d00dcec238718eedad9ac10719778380",
           "coingeckoId": "staked-sherpa-usd"
+        },
+        {
+          "contractAddress": "0x472ed57b376fe400259fb28e5c46eb53f0e3e7e7",
+          "coingeckoId": "staked-usdp"
         },
         {
           "contractAddress": "0xd2012fc1b913ce50732ebcaa7e601fe37ac728c6",
@@ -85505,10 +85509,6 @@
           "coingeckoId": "tether-gold-tokens"
         },
         {
-          "contractAddress": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
-          "coingeckoId": "ubeswap"
-        },
-        {
           "contractAddress": "0x71e26d0e519d14591b9de9a0fe9513a398101490",
           "coingeckoId": "ubeswap-2"
         },
@@ -87428,6 +87428,10 @@
         {
           "contractAddress": "0x94f9bb5c972285728dcee7eaece48bec2ff341ce",
           "coingeckoId": "staked-stream-usd"
+        },
+        {
+          "contractAddress": "0x9d92c21205383651610f90722131655a5b8ed3e0",
+          "coingeckoId": "staked-usdp"
         },
         {
           "contractAddress": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",

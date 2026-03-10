@@ -2685,6 +2685,10 @@
     "name": "Dede"
   },
   {
+    "id": "solana-mainnet:sol-spl:33dhma9QA7xefhVpA7c5vMrN826xcHanSHruUEKF2LmW",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:33eWALS9GkzSMS3EsKSdYCsrUiMdQDgX2QzGx4vA9wE8",
     "isValid": true,
     "symbol": "DINO",
@@ -6770,6 +6774,10 @@
     "symbol": "Kanga",
     "decimals": 6,
     "name": "Kangarhold"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:4YuD8JVXFeyeowJacXMLY3QKhd6NwaJhto1Xqrnwpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:4yUe8D4cG88gZzpvKJ4y9rCxF9HEa8DN7YUm5B26DHBZ",
@@ -17096,6 +17104,10 @@
     "name": "Akasha"
   },
   {
+    "id": "solana-mainnet:sol-spl:9fAT1fVVEKMEL6rUeYxSYU8ZjQ5dSiTzAZYTdiPvpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:9fcfqnpSW3ifkZeaRS19uHeovDRBLy57V89zh2rtpump",
     "isValid": true,
     "symbol": "8CHAN",
@@ -25663,6 +25675,10 @@
     "name": "Major Frog"
   },
   {
+    "id": "solana-mainnet:sol-spl:Co22X8zmGHsiYKcK9sRq53MAwdDQcDdV6uvJtSLSpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Co4692bPPQXAqqxSLAeTTvF1bnhY26FUWt2YuWQPBgfU",
     "isValid": true,
     "symbol": "BANANA",
@@ -30705,6 +30721,13 @@
     "name": "chomik"
   },
   {
+    "id": "solana-mainnet:sol-spl:ENJpMVwQ5Cxi4SNtSmAX1ZTm7KBHPwQ3WaRWgRyvaLB8",
+    "isValid": true,
+    "symbol": "CityBoy",
+    "decimals": 6,
+    "name": "City Boy"
+  },
+  {
     "id": "solana-mainnet:sol-spl:ENjwcWn1uUphWtvuP8ypjakr1jMHY9vnznXXrnMVbonk",
     "isValid": true,
     "symbol": "SALT",
@@ -31625,6 +31648,10 @@
     "symbol": "IMAGE",
     "decimals": 6,
     "name": "Imagen AI"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:EZGb7aaSbCHbE6DcfynezKRc9Bkzxs8stP97H6WEpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:EZgZu4D9MNyYAripEV7fXZTyymSG71Wod8MCqGbVYBVz",

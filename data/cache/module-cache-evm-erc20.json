@@ -2527,6 +2527,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x0d45b129dc868963025db79a9074ea9c9e32cae4",
+    "isValid": true,
+    "symbol": "sUSDp",
+    "decimals": 18,
+    "name": "Staked USDp"
+  },
+  {
     "id": "1:evm-erc20:0x0d505c03d30e65f6e9b4ef88855a47a89e4b7676",
     "symbol": "ZOOMER",
     "decimals": 18,
@@ -4146,6 +4153,13 @@
     "decimals": 6,
     "name": "unagii_Tether USD",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x178c820f862b14f316509ec36b13123da19a6054",
+    "isValid": true,
+    "symbol": "EWTB",
+    "decimals": 18,
+    "name": "Energy Web Token Bridged"
   },
   {
     "id": "1:evm-erc20:0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
@@ -11828,6 +11842,13 @@
     "decimals": 9,
     "name": "Homer",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x44bb433d29fe966992a9c812da7f252c9c53f285",
+    "isValid": true,
+    "symbol": "RUSD",
+    "decimals": 18,
+    "name": "Royal Dollar"
   },
   {
     "id": "1:evm-erc20:0x44e18207b6e98f4a786957954e462ed46b8c95be",
@@ -50124,6 +50145,13 @@
     "name": "Tea-REX"
   },
   {
+    "id": "1329:evm-erc20:0xf2282e641cd3ceeafd4e24663d409fcb68edc1df",
+    "isValid": true,
+    "symbol": "eUSD",
+    "decimals": 18,
+    "name": "Evolve USD"
+  },
+  {
     "id": "1329:evm-erc20:0xf9bdbf259ece5ae17e29bf92eb7abd7b8b465db9",
     "isValid": true,
     "symbol": "Frog",
@@ -82093,6 +82121,13 @@
     "name": "Euler"
   },
   {
+    "id": "43114:evm-erc20:0x9d92c21205383651610f90722131655a5b8ed3e0",
+    "isValid": true,
+    "symbol": "sUSDp",
+    "decimals": 18,
+    "name": "Staked USDp"
+  },
+  {
     "id": "43114:evm-erc20:0x9df4ac62f9e435dbcd85e06c990a7f0ea32739a9",
     "symbol": "GRAIN",
     "decimals": 18,
@@ -85897,6 +85932,13 @@
     "decimals": 18,
     "name": "REVOLVE_GAMES",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x01ee1f75d0e80ed907aa0221bf29e380d03ba15a",
+    "isValid": true,
+    "symbol": "Markhor",
+    "decimals": 18,
+    "name": "Markhor"
   },
   {
     "id": "56:evm-erc20:0x0203d275d2a65030889af45ed91d472be3948b92",
@@ -93228,6 +93270,13 @@
     "symbol": "MEMESTR",
     "decimals": 18,
     "name": "MemeStrategy"
+  },
+  {
+    "id": "56:evm-erc20:0x44bb433d29fe966992a9c812da7f252c9c53f285",
+    "isValid": true,
+    "symbol": "RUSD",
+    "decimals": 18,
+    "name": "Royal Dollar"
   },
   {
     "id": "56:evm-erc20:0x44c99ca267c2b2646ceec72e898273085ab87ca5",
@@ -124850,6 +124899,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x472ed57b376fe400259fb28e5c46eb53f0e3e7e7",
+    "isValid": true,
+    "symbol": "sUSDp",
+    "decimals": 18,
+    "name": "Staked USDp"
+  },
+  {
     "id": "8453:evm-erc20:0x473c1656373b3715805f647911e75aaa49c39813",
     "symbol": "SHITZU",
     "decimals": 18,
@@ -125275,6 +125331,13 @@
     "symbol": "RAIN",
     "decimals": 18,
     "name": "Rain Coin"
+  },
+  {
+    "id": "8453:evm-erc20:0x4e4c7c62a55c0cf450f1ff4478be7f4c34dde155",
+    "isValid": true,
+    "symbol": "MOLTASK",
+    "decimals": 18,
+    "name": "Moltask"
   },
   {
     "id": "8453:evm-erc20:0x4e6c9f48f73e54ee5f3ab7e2992b2d733d0d0b07",
@@ -126542,6 +126605,13 @@
     "symbol": "RAIIN",
     "decimals": 18,
     "name": "Raiin"
+  },
+  {
+    "id": "8453:evm-erc20:0x60b0c26ea34be7d8625526a6b18b3ad4c6b9f694",
+    "isValid": true,
+    "symbol": "CLAWGUIN",
+    "decimals": 18,
+    "name": "Clawguin"
   },
   {
     "id": "8453:evm-erc20:0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
@@ -139995,6 +140065,13 @@
     "symbol": "rUSDC",
     "decimals": 6,
     "name": "Relend Network USDC"
+  },
+  {
+    "id": "999:evm-erc20:0x9b3a8f7cec208e247d97dee13313690977e24459",
+    "isValid": true,
+    "symbol": "sUSDp",
+    "decimals": 18,
+    "name": "Staked USDp"
   },
   {
     "id": "999:evm-erc20:0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
