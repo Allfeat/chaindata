@@ -422,7 +422,6 @@
     - https://polygonscan.com/
   rpcs:
     - https://mempool.merkle.io/rpc/polygon/pk_mbs_1412a7392bd47753ca2b4bb3d123f6a1
-    - https://polygon-rpc.com/
     - https://polygon.rpc.subquery.network/public
   contracts:
     Erc20Aggregator: '0xb1EFd1407104Cf00F7b9983C1Fa474A2702B5874'
