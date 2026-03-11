@@ -113802,6 +113802,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0xf758cfb1467a227516d73d87da7d36e7cb6f71f1",
+    "isValid": true,
+    "symbol": "SN3",
+    "decimals": 18,
+    "name": "Supernova Nebula3"
+  },
+  {
     "id": "56:evm-erc20:0xf7626c7ff7b778aaf187d508d056a9398d9545d1",
     "symbol": "ASRR",
     "decimals": 9,
@@ -131757,6 +131764,13 @@
     "decimals": 18,
     "name": "Big Tony",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0xb233bdffd437e60fa451f62c6c09d3804d285ba3",
+    "isValid": true,
+    "symbol": "NOOK",
+    "decimals": 18,
+    "name": "nookplot"
   },
   {
     "id": "8453:evm-erc20:0xb235cf255b48500df4459475e054e7beb25cb772",
