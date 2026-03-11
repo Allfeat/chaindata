@@ -3003,10 +3003,6 @@
           "coingeckoId": "bonk-on-eth"
         },
         {
-          "contractAddress": "0x31ea904a7eca45122890deb8da3473a2081bc9d1",
-          "coingeckoId": "bonsai3"
-        },
-        {
           "contractAddress": "0xd6175692026bcd7cb12a515e39cf0256ef35cb86",
           "coingeckoId": "bonzi"
         },
@@ -26543,10 +26539,6 @@
           "coingeckoId": "cv-pad"
         },
         {
-          "contractAddress": "0x7e3784220740e61dc700501bd6771226e11d8897",
-          "coingeckoId": "cyber-arena"
-        },
-        {
           "contractAddress": "0x14778860e937f509e651192a90589de711fb88a9",
           "coingeckoId": "cyberconnect"
         },
@@ -29819,10 +29811,6 @@
           "coingeckoId": "krypton-dao"
         },
         {
-          "contractAddress": "0x518960f5d12eb192f89a73c2ae9b2bd369c73d40",
-          "coingeckoId": "kryptonite"
-        },
-        {
           "contractAddress": "0x8013d731f429b3ad418f5467f9f68285efd67ca7",
           "coingeckoId": "kryza-network"
         },
@@ -30109,10 +30097,6 @@
         {
           "contractAddress": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
           "coingeckoId": "litentry"
-        },
-        {
-          "contractAddress": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
-          "coingeckoId": "litlab-games"
         },
         {
           "contractAddress": "0x0bbea6812fb3fcbca126edb558e551b3f1702026",
@@ -33833,6 +33817,10 @@
         {
           "contractAddress": "0x43d0b380c33cd004a6a69abd61843881a2de4113",
           "coingeckoId": "shopify-ondo-tokenized-stock"
+        },
+        {
+          "contractAddress": "0xa6c59de838f1eeb82d86f5af0750f5f656439999",
+          "coingeckoId": "shopnext-loyalty-token"
         },
         {
           "contractAddress": "0x31e4efe290973ebe91b3a875a7994f650942d28f",
@@ -37735,10 +37723,6 @@
         {
           "contractAddress": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
           "coingeckoId": "elk-finance"
-        },
-        {
-          "contractAddress": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
-          "coingeckoId": "energy-web-token"
         },
         {
           "contractAddress": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
@@ -54209,10 +54193,6 @@
           "coingeckoId": "kindred-labs"
         },
         {
-          "contractAddress": "0x89aec21572f6637ccbd0d66861aaac46dd775ed1",
-          "coingeckoId": "kryptonite"
-        },
-        {
           "contractAddress": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
           "coingeckoId": "merlin-s-seal-btc"
         },
@@ -67277,10 +67257,6 @@
           "coingeckoId": "bonk-on-base"
         },
         {
-          "contractAddress": "0x31ea904a7eca45122890deb8da3473a2081bc9d1",
-          "coingeckoId": "bonsai3"
-        },
-        {
           "contractAddress": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee",
           "coingeckoId": "bonsai-coin"
         },
@@ -67443,10 +67419,6 @@
         {
           "contractAddress": "0x9704d2adbc02c085ff526a37ac64872027ac8a50",
           "coingeckoId": "bsop"
-        },
-        {
-          "contractAddress": "0xd47f3e45b23b7594f5d5e1ccfde63237c60be49e",
-          "coingeckoId": "bsx"
         },
         {
           "contractAddress": "0xe28eb199745904e6083db711ef0f936fd385823d",
@@ -70355,10 +70327,6 @@
         {
           "contractAddress": "0x290d4a2e227cced586895c3f78a03e4e9d4c3fb6",
           "coingeckoId": "krypto-cock"
-        },
-        {
-          "contractAddress": "0x9bde70bad05b7d84dac03024dae15aace8c9cca2",
-          "coingeckoId": "kryptonite"
         },
         {
           "contractAddress": "0xbe535d034078e262f72c67020006a63e8c64592f",

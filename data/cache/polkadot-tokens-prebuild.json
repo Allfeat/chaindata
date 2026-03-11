@@ -10417,7 +10417,7 @@
     "type": "substrate-native",
     "symbol": "EWT",
     "decimals": 18,
-    "name": "Energy Web",
+    "name": "Energy Web Token",
     "coingeckoId": "energy-web-token",
     "isDefault": true,
     "existentialDeposit": "0"

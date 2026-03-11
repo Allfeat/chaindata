@@ -11155,6 +11155,10 @@
     "name": "19"
   },
   {
+    "id": "solana-mainnet:sol-spl:6uQQGTmjEDKP8Ag1ST3UoXkLjjzuU4Ax7mYcnu9Tpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:6uRY9e8gMaogSQiQmzAWJbbEvVo2zyZMyypc9AGXpump",
     "isValid": true,
     "symbol": "DIVINER",
@@ -11827,6 +11831,10 @@
     "symbol": "TAP",
     "decimals": 6,
     "name": "THE AMERICA PARTY"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:766whddpsQHS8wy7viUfmuGPrMri1kgGMFwfZMdepump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:76EDL5qNcte2ZH29quTaFzagXjWAEY83CATEjyA6pump",
@@ -13512,6 +13520,13 @@
     "symbol": "ANTS",
     "decimals": 6,
     "name": "ANT COLONY"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:7voKerVHPvbXde3bEpyNcdodVEufq17tW6eZLUUkpump",
+    "isValid": true,
+    "symbol": "Y2K",
+    "decimals": 6,
+    "name": "Dotcom"
   },
   {
     "id": "solana-mainnet:sol-spl:7VR8w5qGc5mYcdscznMChDMdRHBeogko5TWCeDgZpump",
@@ -21359,6 +21374,13 @@
     "name": "buy instead of getting a job"
   },
   {
+    "id": "solana-mainnet:sol-spl:AywAYdNJnSLSXwKWYxDciPjqGRnwp4iZdQptuuQTpump",
+    "isValid": true,
+    "symbol": "MICHI",
+    "decimals": 6,
+    "name": "michi"
+  },
+  {
     "id": "solana-mainnet:sol-spl:AyxrBmqbzf169oe14XcSDMbgpUV1ntP6thcScYpYpump",
     "isValid": true,
     "symbol": "🦅",
@@ -24493,6 +24515,13 @@
     "name": "Coin98"
   },
   {
+    "id": "solana-mainnet:sol-spl:C9dJfTGUzhuqPWxh9mcDr66JZN4uzXh2gh9EWnEdpump",
+    "isValid": true,
+    "symbol": "WAR",
+    "decimals": 6,
+    "name": "WAR"
+  },
+  {
     "id": "solana-mainnet:sol-spl:C9FVTtx4WxgHmz55FEvQgykq8rqiLS8xRBVgqQVtpump",
     "isValid": true,
     "symbol": "CENTS",
@@ -24666,6 +24695,13 @@
     "symbol": "ELGATO",
     "decimals": 9,
     "name": "el gato"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Cbjr1Nvcay3QWDriyRKtokJ7V4PMknesGxeK8z7Zmeta",
+    "isValid": true,
+    "symbol": "FUTARDIO",
+    "decimals": 6,
+    "name": "Futardio cult"
   },
   {
     "id": "solana-mainnet:sol-spl:cBnVXDyZgaaLZM18wAmqsUKnRUFAEJWbq6VuUoaondo",
@@ -25040,6 +25076,13 @@
     "symbol": "BLOWFISH",
     "decimals": 6,
     "name": "Blowfish"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+    "isValid": true,
+    "symbol": "ASS",
+    "decimals": 6,
+    "name": "WE LOVE ASS"
   },
   {
     "id": "solana-mainnet:sol-spl:CFhgTUXw7of3PYdbw3YrPeE9EVzVGo435i8FEmd8dr6w",
@@ -30859,6 +30902,10 @@
     "name": "Slurp"
   },
   {
+    "id": "solana-mainnet:sol-spl:EPuZ1X6pPzac3ELPsT59LStmgaSr4kBJvaAbL15Fpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:EPx8G5APgtDeuv3dQR7TQDm8R6eBtf7bTxS1VfC2pump",
     "isValid": true,
     "symbol": "RPG",
@@ -32375,6 +32422,10 @@
     "symbol": "PPW",
     "decimals": 9,
     "name": "Pentagon Pizza Watch"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FcUdd49bfuajzmVKxGDkyFWqZp7vXkh1fpsCmtYApump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:Fcuz3tn9UuM3ifxvYQGsjrq1xbYcTRFtTsawXCCpump",

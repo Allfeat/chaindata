@@ -15531,6 +15531,17 @@
     "mintAddress": "7VnT8zHzorYS92snKC4CZU2veigEVnVVBSxTw7G1pump"
   },
   {
+    "id": "solana-mainnet:sol-spl:7voKerVHPvbXde3bEpyNcdodVEufq17tW6eZLUUkpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "Y2K",
+    "decimals": 6,
+    "name": "Dotcom",
+    "coingeckoId": "dotcom",
+    "mintAddress": "7voKerVHPvbXde3bEpyNcdodVEufq17tW6eZLUUkpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:7vsKatZ8BAKXXb16ZZMJyg9X3iLn8Zpq4yBPg8mWBLMd",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -17759,7 +17770,7 @@
     "type": "sol-spl",
     "symbol": "WAR",
     "decimals": 6,
-    "name": "WAR",
+    "name": "WAR [OLD]",
     "coingeckoId": "war",
     "mintAddress": "8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk"
   },
@@ -18741,17 +18752,6 @@
     "name": "Rootstock Bitcoin",
     "coingeckoId": "rootstock",
     "mintAddress": "8yev7nLen2PFN2uYGhzsUbu243wMa9z4ZrCwuXs6DEQw"
-  },
-  {
-    "id": "solana-mainnet:sol-spl:8YiB8B43EwDeSx5Jp91VQjgBU4mfCgVvyNahadtzpump",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "Y2K",
-    "decimals": 6,
-    "name": "Dotcom",
-    "coingeckoId": "dotcom",
-    "mintAddress": "8YiB8B43EwDeSx5Jp91VQjgBU4mfCgVvyNahadtzpump"
   },
   {
     "id": "solana-mainnet:sol-spl:8yJ15ee2AUQmwbWPxXLTTeBTzyMGn4MtSRKMqVHw1J1G",
@@ -24705,6 +24705,17 @@
     "mintAddress": "AyrQpt5xsVYiN4BqgZdd2tZJAWswT9yLUZmP1jKqpump"
   },
   {
+    "id": "solana-mainnet:sol-spl:AywAYdNJnSLSXwKWYxDciPjqGRnwp4iZdQptuuQTpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "MICHI",
+    "decimals": 6,
+    "name": "michi",
+    "coingeckoId": "michi",
+    "mintAddress": "AywAYdNJnSLSXwKWYxDciPjqGRnwp4iZdQptuuQTpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:AyxrBmqbzf169oe14XcSDMbgpUV1ntP6thcScYpYpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -28390,6 +28401,17 @@
     "mintAddress": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
   },
   {
+    "id": "solana-mainnet:sol-spl:C9dJfTGUzhuqPWxh9mcDr66JZN4uzXh2gh9EWnEdpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "WAR",
+    "decimals": 6,
+    "name": "WAR",
+    "coingeckoId": "war-2",
+    "mintAddress": "C9dJfTGUzhuqPWxh9mcDr66JZN4uzXh2gh9EWnEdpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:C9FVTtx4WxgHmz55FEvQgykq8rqiLS8xRBVgqQVtpump",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -28553,6 +28575,17 @@
     "name": "Official Mascot of the Holy Year",
     "coingeckoId": "offcial-mascot-of-the-holy-year",
     "mintAddress": "CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Cbjr1Nvcay3QWDriyRKtokJ7V4PMknesGxeK8z7Zmeta",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "FUTARDIO",
+    "decimals": 6,
+    "name": "Futardio cult",
+    "coingeckoId": "futardio-cult",
+    "mintAddress": "Cbjr1Nvcay3QWDriyRKtokJ7V4PMknesGxeK8z7Zmeta"
   },
   {
     "id": "solana-mainnet:sol-spl:CboMcTUYUcy9E6B3yGdFn6aEsGUnYV6yWeoeukw6pump",
@@ -29004,6 +29037,17 @@
     "name": "Blowfish",
     "coingeckoId": "blowfish-2",
     "mintAddress": "CFB4Ff7W87uN9Gf2DSj63L7prZycJvzQeg1MbGxwBcqC"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "ASS",
+    "decimals": 6,
+    "name": "WE LOVE ASS",
+    "coingeckoId": "we-love-ass",
+    "mintAddress": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump"
   },
   {
     "id": "solana-mainnet:sol-spl:CFhgTUXw7of3PYdbw3YrPeE9EVzVGo435i8FEmd8dr6w",
