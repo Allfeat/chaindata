@@ -2757,10 +2757,10 @@
     "type": "substrate-dtao",
     "symbol": "Ⰺ",
     "decimals": 9,
-    "name": "SN144 | Subnet 144 Ⰺ",
+    "name": "SN144 | fish Ⰺ",
     "isDefault": true,
     "netuid": 144,
-    "subnetName": "Subnet 144",
+    "subnetName": "fish",
     "isTransferable": true
   },
   {
