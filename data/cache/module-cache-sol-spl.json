@@ -12777,6 +12777,13 @@
     "name": "Cheshire Grin"
   },
   {
+    "id": "solana-mainnet:sol-spl:7JoGUTeaXkjcMGa6xJP2idYNYiLreto1WnsACHnpw3Gd",
+    "isValid": true,
+    "symbol": "DEUS",
+    "decimals": 9,
+    "name": "DEUS Token"
+  },
+  {
     "id": "solana-mainnet:sol-spl:7JXwBQDSPQZH4gUy1RGY4Tm5atf8g9v1eNG3h5trrB7X",
     "isValid": true,
     "symbol": "Vicky",
@@ -34545,6 +34552,13 @@
     "name": "Suby"
   },
   {
+    "id": "solana-mainnet:sol-spl:G2ygAeUVpYUhpNsmrpvd2BHTWazyDV72kRpsQSEcbonk",
+    "isValid": true,
+    "symbol": "QX",
+    "decimals": 6,
+    "name": "Quantum Execution Token"
+  },
+  {
     "id": "solana-mainnet:sol-spl:G33s1LiUADEBLzN5jL6ocSXqrT2wsUq9W6nZ8o4k1b4L",
     "isValid": true,
     "symbol": "MIM",
@@ -44332,6 +44346,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:xNPCScK5Hs9ywamnLNsDcxGG9bP3CKaGjcP8xE5KGNy",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
     "isValid": false
   },
   {

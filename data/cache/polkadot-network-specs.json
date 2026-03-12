@@ -392,7 +392,7 @@
     },
     "runtimeVersion": {
       "specName": "chainflip-node",
-      "specVersion": 20104
+      "specVersion": 20106
     }
   },
   {
@@ -405,7 +405,7 @@
     },
     "runtimeVersion": {
       "specName": "chainflip-node",
-      "specVersion": 20104
+      "specVersion": 20106
     }
   },
   {
@@ -965,7 +965,7 @@
     },
     "runtimeVersion": {
       "specName": "kusama",
-      "specVersion": 2000007
+      "specVersion": 2001000
     }
   },
   {
@@ -978,7 +978,7 @@
     },
     "runtimeVersion": {
       "specName": "statemine",
-      "specVersion": 2000007
+      "specVersion": 2001000
     }
   },
   {
@@ -991,7 +991,7 @@
     },
     "runtimeVersion": {
       "specName": "bridge-hub-kusama",
-      "specVersion": 2000007
+      "specVersion": 2001000
     }
   },
   {
@@ -1004,7 +1004,7 @@
     },
     "runtimeVersion": {
       "specName": "coretime-kusama",
-      "specVersion": 2000007
+      "specVersion": 2001000
     }
   },
   {
@@ -1017,7 +1017,7 @@
     },
     "runtimeVersion": {
       "specName": "people-kusama",
-      "specVersion": 2000007
+      "specVersion": 2001000
     }
   },
   {

@@ -14497,6 +14497,17 @@
     "mintAddress": "7JofsgKgD3MerQDa7hEe4dfkY3c3nMnsThZzUuYyTFpE"
   },
   {
+    "id": "solana-mainnet:sol-spl:7JoGUTeaXkjcMGa6xJP2idYNYiLreto1WnsACHnpw3Gd",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "DEUS",
+    "decimals": 9,
+    "name": "DEUS Token",
+    "coingeckoId": "xmaquina",
+    "mintAddress": "7JoGUTeaXkjcMGa6xJP2idYNYiLreto1WnsACHnpw3Gd"
+  },
+  {
     "id": "solana-mainnet:sol-spl:7JXwBQDSPQZH4gUy1RGY4Tm5atf8g9v1eNG3h5trrB7X",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -31998,17 +32009,6 @@
     "mintAddress": "DeoP2swMNa9d4SGcQkR82j4RYYeNhDjcTCwyzEhKwfAf"
   },
   {
-    "id": "solana-mainnet:sol-spl:DePay1miDBPWXs6PVQrdC5Vch2jemgEPaiyXLNLLa2NF",
-    "platform": "solana",
-    "networkId": "solana-mainnet",
-    "type": "sol-spl",
-    "symbol": "DEPAY",
-    "decimals": 9,
-    "name": "DePay",
-    "coingeckoId": "depay",
-    "mintAddress": "DePay1miDBPWXs6PVQrdC5Vch2jemgEPaiyXLNLLa2NF"
-  },
-  {
     "id": "solana-mainnet:sol-spl:DEpHYkW6nEm3Sxhb2rwftatrSAV3AP3ac6MgAWBbnsS8",
     "platform": "solana",
     "networkId": "solana-mainnet",
@@ -39993,6 +39993,17 @@
     "name": "Suby",
     "coingeckoId": "suby",
     "mintAddress": "G2pMCBjRQHHCkE79r9KAESvdhUCieWPZvX5GRFa3jCLg"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:G2ygAeUVpYUhpNsmrpvd2BHTWazyDV72kRpsQSEcbonk",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "QX",
+    "decimals": 6,
+    "name": "Quantum Execution Token",
+    "coingeckoId": "quantu-execution-token",
+    "mintAddress": "G2ygAeUVpYUhpNsmrpvd2BHTWazyDV72kRpsQSEcbonk"
   },
   {
     "id": "solana-mainnet:sol-spl:G33s1LiUADEBLzN5jL6ocSXqrT2wsUq9W6nZ8o4k1b4L",

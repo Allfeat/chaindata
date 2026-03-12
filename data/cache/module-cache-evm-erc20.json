@@ -67337,6 +67337,13 @@
     "name": "Jeeteroo"
   },
   {
+    "id": "295:evm-erc20:0x00000000000000000000000000000000009ce723",
+    "isValid": true,
+    "symbol": "USDT0",
+    "decimals": 6,
+    "name": "USDT0"
+  },
+  {
     "id": "295:evm-erc20:0x102c86ac5b680149c34d6a8037692639263eabb9",
     "isValid": true,
     "symbol": "lyUSD",
@@ -94721,6 +94728,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0x4f9d3adbfaf4579518b1ca7e06468a363897b997",
+    "isValid": true,
+    "symbol": "SMILEK",
+    "decimals": 18,
+    "name": "Smilek to the Bank"
+  },
+  {
     "id": "56:evm-erc20:0x4fa159afacdbd56d67434ca0de4573214708a846",
     "symbol": "SSDX",
     "decimals": 18,
@@ -95804,6 +95818,13 @@
     "decimals": 18,
     "name": "CVN",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x57f99cfd693235f629883785c1276b04c86dcaa6",
+    "isValid": true,
+    "symbol": "NOVA",
+    "decimals": 8,
+    "name": "NOVA"
   },
   {
     "id": "56:evm-erc20:0x582a560b9f8eaa5b6c889d7674532bcd61f066ec",
@@ -121661,6 +121682,13 @@
     "isValid": true
   },
   {
+    "id": "8453:evm-erc20:0x18b0034be96c0b2828ac74319e4cf8670ce7e710",
+    "isValid": true,
+    "symbol": "CLAWORCL",
+    "decimals": 18,
+    "name": "ClawOracle"
+  },
+  {
     "id": "8453:evm-erc20:0x18b66b63625a07d3671eb0a119a5e4df4708936e",
     "isValid": true,
     "symbol": "PLUS",
@@ -129139,6 +129167,13 @@
     "decimals": 18,
     "name": "Sign",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x870ca00dbb2789f37ef684d6de4f7bb9a6b3cb07",
+    "isValid": true,
+    "symbol": "HLINK",
+    "decimals": 18,
+    "name": "Hashlink"
   },
   {
     "id": "8453:evm-erc20:0x875ee70143fca7d78e03ee6b13a2b0d68be4af0c",
