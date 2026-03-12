@@ -52340,6 +52340,13 @@
     "isValid": true
   },
   {
+    "id": "137:evm-erc20:0x3deb0c60f0be9d9b99da83a2b6b2ee790f5af37a",
+    "isValid": true,
+    "symbol": "USDW",
+    "decimals": 18,
+    "name": "USD DWIN"
+  },
+  {
     "id": "137:evm-erc20:0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
     "isValid": true,
     "symbol": "FLOWER",
@@ -71678,6 +71685,13 @@
     "isValid": true
   },
   {
+    "id": "42161:evm-erc20:0x08ebf126f903e76d22869b5cb8c54d1db55e2e84",
+    "isValid": true,
+    "symbol": "USDW",
+    "decimals": 18,
+    "name": "USD DWIN"
+  },
+  {
     "id": "42161:evm-erc20:0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
     "symbol": "Bonk",
     "decimals": 5,
@@ -74245,6 +74259,13 @@
     "decimals": 18,
     "name": "Overtime DAO Token",
     "isValid": true
+  },
+  {
+    "id": "42161:evm-erc20:0x5837e4189819637853a357af36650902347f5e73",
+    "isValid": true,
+    "symbol": "kpk_USDC_YieldV2",
+    "decimals": 18,
+    "name": "kpk USDC Yield"
   },
   {
     "id": "42161:evm-erc20:0x58538e6a46e07434d7e7375bc268d3cb839c0133",
@@ -105847,6 +105868,13 @@
     "symbol": "IOST",
     "decimals": 18,
     "name": "IOSToken"
+  },
+  {
+    "id": "56:evm-erc20:0xaf4ab885d62d8714ed93acad9544e9f40ecd9f1b",
+    "isValid": true,
+    "symbol": "SED",
+    "decimals": 18,
+    "name": "Sedunia"
   },
   {
     "id": "56:evm-erc20:0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",

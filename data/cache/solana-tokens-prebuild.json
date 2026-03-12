@@ -36684,6 +36684,17 @@
     "mintAddress": "F1QmooYUjR3x7MktgeNWVfg4ELbK429baMQDcYZTVEiL"
   },
   {
+    "id": "solana-mainnet:sol-spl:F1Tq1a8NVJfgimf1dDyJivhFxah4tT82fMvFJn5Xpump",
+    "platform": "solana",
+    "networkId": "solana-mainnet",
+    "type": "sol-spl",
+    "symbol": "LOBCOIN",
+    "decimals": 6,
+    "name": "Bitcoin for agents",
+    "coingeckoId": "bitcoin-for-agents",
+    "mintAddress": "F1Tq1a8NVJfgimf1dDyJivhFxah4tT82fMvFJn5Xpump"
+  },
+  {
     "id": "solana-mainnet:sol-spl:F1uB7phqFVuyzsFoXWkcwNoCY3KJGFNsFLyeSoQYpump",
     "platform": "solana",
     "networkId": "solana-mainnet",

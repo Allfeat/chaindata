@@ -29939,6 +29939,10 @@
           "coingeckoId": "level-governance"
         },
         {
+          "contractAddress": "0xaf4ab885d62d8714ed93acad9544e9f40ecd9f1b",
+          "coingeckoId": "leverfi"
+        },
+        {
           "contractAddress": "0x9798da338fe83caf52d7533b48b8aed0913c4444",
           "coingeckoId": "lianpu"
         },
@@ -40383,10 +40387,6 @@
           "coingeckoId": "ghost-by-mcafee"
         },
         {
-          "contractAddress": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
-          "coingeckoId": "giddy"
-        },
-        {
           "contractAddress": "0xa1a39558718d6fa57c699dc45981e5a1b2e25d08",
           "coingeckoId": "gini"
         },
@@ -42239,7 +42239,7 @@
           "coingeckoId": "usd-coin-wormhole-from-ethereum"
         },
         {
-          "contractAddress": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417",
+          "contractAddress": "0x3dEb0c60F0Be9D9b99DA83A2b6B2eE790F5Af37A",
           "coingeckoId": "usd-dwin"
         },
         {
@@ -56978,10 +56978,6 @@
           "coingeckoId": "rocket-pool-eth"
         },
         {
-          "contractAddress": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
-          "coingeckoId": "ronin"
-        },
-        {
           "contractAddress": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
           "coingeckoId": "ronin-bridged-weth-ronin"
         },
@@ -57000,6 +56996,10 @@
         {
           "contractAddress": "0x03affae7e23fd11c85d0c90cc40510994d49e175",
           "coingeckoId": "wild-forest-token"
+        },
+        {
+          "contractAddress": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4",
+          "coingeckoId": "wrapped-ronin"
         },
         {
           "contractAddress": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857",
@@ -83334,6 +83334,10 @@
           "coingeckoId": "kommunitas"
         },
         {
+          "contractAddress": "0x5837e4189819637853a357af36650902347f5e73",
+          "coingeckoId": "kpk-usdc-yield-2"
+        },
+        {
           "contractAddress": "0x55ff62567f09906a85183b866df84bf599a4bf70",
           "coingeckoId": "kromatika"
         },
@@ -84598,7 +84602,7 @@
           "coingeckoId": "usdd"
         },
         {
-          "contractAddress": "0x6aebddf980dc724babdc7ced031c8c37934bba72",
+          "contractAddress": "0x08ebF126f903e76d22869b5CB8C54D1dB55e2e84",
           "coingeckoId": "usd-dwin"
         },
         {

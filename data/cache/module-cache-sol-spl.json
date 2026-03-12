@@ -836,6 +836,10 @@
     "name": "JESUS ON SOL"
   },
   {
+    "id": "solana-mainnet:sol-spl:2C9ynB9HCqwZLdKjg3TDppTwYdShwwUdwtmymFe6pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:2ChusVZzi6pUqRyHnNWq27EczqUTacFYjSPg5RiDpump",
     "isValid": true,
     "symbol": "misc",
@@ -8381,6 +8385,10 @@
     "name": "Goatse Glebe"
   },
   {
+    "id": "solana-mainnet:sol-spl:5oq4zKetRkUMMrFtkWH7r1Q6HZJMsTjgCeU6isgYpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:5oUzkFsCFMJJ23Z6Ghev5m7FjE6TtrqZJXUS7V5Smoon",
     "isValid": true,
     "symbol": "RICH",
@@ -8941,6 +8949,10 @@
     "symbol": "VALENTINE",
     "decimals": 6,
     "name": "Valentine Grok Companion"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:5Vt84ukEKHuxYA7wjH3PDwCzTGumPS7MDNGX4cFLpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:5vXq6Pb2n91W243XLSARY7GtUMcomr7TwfKPRY31pump",
@@ -26897,6 +26909,10 @@
     "name": "401jk"
   },
   {
+    "id": "solana-mainnet:sol-spl:CZEZmARqTUu4CpBcTupUNcLyDR7wnELpvn6cujQ4pump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:CzFvsLdUazabdiu9TYXujj4EY495fG7VgJJ3vQs6bonk",
     "isValid": true,
     "symbol": "RADR",
@@ -29842,6 +29858,10 @@
     "name": "FLOKIS"
   },
   {
+    "id": "solana-mainnet:sol-spl:EcEP6shgosHfg4m5b7wWTHHJZFWzoF1iqcdZMBzwpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
     "isValid": true,
     "symbol": "FIDA",
@@ -31766,6 +31786,13 @@
     "symbol": "VEIL",
     "decimals": 9,
     "name": "DarkVeil"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:F1Tq1a8NVJfgimf1dDyJivhFxah4tT82fMvFJn5Xpump",
+    "isValid": true,
+    "symbol": "LOBCOIN",
+    "decimals": 6,
+    "name": "Bitcoin for agents"
   },
   {
     "id": "solana-mainnet:sol-spl:F1uB7phqFVuyzsFoXWkcwNoCY3KJGFNsFLyeSoQYpump",
@@ -34028,6 +34055,10 @@
     "symbol": "SNAKES",
     "decimals": 6,
     "name": "SNAKESGAME"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:FuVJN8aHZrBJESbX5aq8tvNEWaBucxtq1e82ja1hpump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:FUW4poh6s7uychceF8u1mo7NS65vzjX5vmS7Yi7GYQnz",
@@ -40592,6 +40623,10 @@
     "symbol": "Boopa",
     "decimals": 9,
     "name": "Boopa"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:JmQCbJEiPBDkvfjDLPBRxeuR4QXX8JeRiMQvUSppump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:jNw3UW47CkLwmrF4gQzD6GrW7DhnJVBr6H3hZZBpump",
