@@ -353,7 +353,7 @@
     },
     "runtimeVersion": {
       "specName": "node-subtensor",
-      "specVersion": 386
+      "specVersion": 390
     }
   },
   {
@@ -718,7 +718,7 @@
     },
     "runtimeVersion": {
       "specName": "frequency",
-      "specVersion": 188
+      "specVersion": 189
     }
   },
   {
