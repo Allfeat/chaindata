@@ -2135,6 +2135,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x0b06d62b182abb7782d92a20f9f6ea0a4f59b0ae",
+    "isValid": true,
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "name": "BRIDGE"
+  },
+  {
     "id": "1:evm-erc20:0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
     "symbol": "SHEPE",
     "decimals": 9,
@@ -4867,6 +4874,13 @@
     "decimals": 18,
     "name": "Vow",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x1bc1453e21b28ff68e189d9e2035865ce02b4cb2",
+    "isValid": true,
+    "symbol": "RXAU",
+    "decimals": 18,
+    "name": "Royal Gold"
   },
   {
     "id": "1:evm-erc20:0x1bd1bc78a183c0547cdc2dcea12c0a8c05bdc034",
@@ -10769,6 +10783,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0x3ed0b3c4c0168a560d34e361b8130dcca4677736",
+    "isValid": true,
+    "symbol": "REUR",
+    "decimals": 18,
+    "name": "Royal Euro"
+  },
+  {
     "id": "1:evm-erc20:0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
     "symbol": "aUSDT",
     "decimals": 6,
@@ -14971,6 +14992,13 @@
     "decimals": 18,
     "name": "Rena",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0x5702a4487da07c827cde512e2d5969cb430cd839",
+    "isValid": true,
+    "symbol": "ERBB",
+    "decimals": 27,
+    "name": "Exchange Request for Bitbon"
   },
   {
     "id": "1:evm-erc20:0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
@@ -35600,6 +35628,13 @@
     "isValid": true
   },
   {
+    "id": "1:evm-erc20:0xcc5c22c7a6bcc25e66726aef011dde74289ed203",
+    "isValid": true,
+    "symbol": "mM1-USD",
+    "decimals": 18,
+    "name": "Midas M1 USD Market Neutral"
+  },
+  {
     "id": "1:evm-erc20:0xcc7ab8d78dba187dc95bf3bb86e65e0c26d0041f",
     "symbol": "SPACE",
     "decimals": 18,
@@ -39252,6 +39287,13 @@
     "decimals": 18,
     "name": "Wrapped Banano",
     "isValid": true
+  },
+  {
+    "id": "1:evm-erc20:0xe21d7a0e7d11530cc08814ce9d3fe316e72ac382",
+    "isValid": true,
+    "symbol": "RXAG",
+    "decimals": 18,
+    "name": "Royal Silver"
   },
   {
     "id": "1:evm-erc20:0xe226b7ae83a44bb98f67bea28c4ad73b0925c49e",
@@ -67001,6 +67043,13 @@
     "isValid": true
   },
   {
+    "id": "2818:evm-erc20:0xcfb1186f4e93d60e60a8bdd997427d1f33bc372b",
+    "isValid": true,
+    "symbol": "USDC",
+    "decimals": 6,
+    "name": "USDC"
+  },
+  {
     "id": "2818:evm-erc20:0xe2e7d83dfbd25407045fd061e4c17cc76007dead",
     "symbol": "BAI",
     "decimals": 18,
@@ -86921,6 +86970,13 @@
     "name": "YFI"
   },
   {
+    "id": "56:evm-erc20:0x0b06d62b182abb7782d92a20f9f6ea0a4f59b0ae",
+    "isValid": true,
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "name": "BRIDGE"
+  },
+  {
     "id": "56:evm-erc20:0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
     "symbol": "IDIA",
     "decimals": 18,
@@ -88904,6 +88960,13 @@
     "decimals": 18,
     "name": "Mind Body Soul",
     "isValid": true
+  },
+  {
+    "id": "56:evm-erc20:0x1bc1453e21b28ff68e189d9e2035865ce02b4cb2",
+    "isValid": true,
+    "symbol": "RXAU",
+    "decimals": 18,
+    "name": "Royal Gold"
   },
   {
     "id": "56:evm-erc20:0x1bc8bf18256d8b45d8367aac50fe2e24fc6aa8ca",
@@ -92570,6 +92633,13 @@
     "symbol": "PINGPONG",
     "decimals": 18,
     "name": "PINGPONG Token"
+  },
+  {
+    "id": "56:evm-erc20:0x3ed0b3c4c0168a560d34e361b8130dcca4677736",
+    "isValid": true,
+    "symbol": "REUR",
+    "decimals": 18,
+    "name": "Royal Euro"
   },
   {
     "id": "56:evm-erc20:0x3ed26a333c6818113fc31b090175f00199a7078c",
@@ -111558,6 +111628,13 @@
     "isValid": true
   },
   {
+    "id": "56:evm-erc20:0xe21d7a0e7d11530cc08814ce9d3fe316e72ac382",
+    "isValid": true,
+    "symbol": "RXAG",
+    "decimals": 18,
+    "name": "Royal Silver"
+  },
+  {
     "id": "56:evm-erc20:0xe231db5f348d709239ef1741ea30961b3b635a61",
     "symbol": "ynETHx",
     "decimals": 18,
@@ -120658,6 +120735,13 @@
     "decimals": 18,
     "name": "Tadpoles",
     "isValid": true
+  },
+  {
+    "id": "8453:evm-erc20:0x0b06d62b182abb7782d92a20f9f6ea0a4f59b0ae",
+    "isValid": true,
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "name": "BRIDGE"
   },
   {
     "id": "8453:evm-erc20:0x0b0e6e32e4d69cb418630163574959108edcb80e",
