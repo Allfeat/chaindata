@@ -10391,6 +10391,10 @@
     "name": "penny stock"
   },
   {
+    "id": "solana-mainnet:sol-spl:6JLG8iUkAuqiBhL3j2ckDMDf5oWAa6awmyaWezKondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:6Jt1B3wC4zD6ZjeJKvhNZtvYxzCyFcWCvVZT46TytH25",
     "isValid": true,
     "symbol": "SNAKEAI",
@@ -17871,6 +17875,10 @@
     "name": "Y U NO"
   },
   {
+    "id": "solana-mainnet:sol-spl:9pCWprxbZMW2rYSMhPTeoyLMV2sN2WJqshdT7DQVt6hS",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:9pgfoXFAN6oT9dNswE23oj2kCkCpoLPzHVpTKGAtmoon",
     "isValid": true,
     "symbol": "WORTHLESS",
@@ -23027,6 +23035,10 @@
     "name": "Lux Token"
   },
   {
+    "id": "solana-mainnet:sol-spl:BmXVAFyfpW7VuVYeWDtbFtLx7sek2mZt3BEsGgAondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:bn1fb8dwzafGePqNPrM8m8cbAKQiFqeEPuZkPySondo",
     "isValid": false
   },
@@ -24460,6 +24472,10 @@
     "name": "唢呐"
   },
   {
+    "id": "solana-mainnet:sol-spl:C6c7VcxuUYcV5YTsky5HM4PUmfwHTwsDD5DNwwPondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:C6Q5fMpuPjBPox84wbcE3Rn8HYJg11o4YHEmbQSuYs5L",
     "isValid": true,
     "symbol": "MOEW",
@@ -24511,6 +24527,10 @@
     "symbol": "$TIME",
     "decimals": 9,
     "name": "TIMECOIN"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:C8pSaSgjkiTWixS3GM6Hxd6HKnKrgAbY9WDgfVeondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:C8qKVjKNf6JH2yrVVf3aFyny6ZCbHCJUBXTQAT2Em888",
@@ -24725,6 +24745,10 @@
     "symbol": "FUTARDIO",
     "decimals": 6,
     "name": "Futardio cult"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CBKcmEvVg5EgE3W5hVSPcBYWh6TFVjQwbmYod9Pondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:cBnVXDyZgaaLZM18wAmqsUKnRUFAEJWbq6VuUoaondo",
@@ -24994,6 +25018,10 @@
     "symbol": "CHIITAN",
     "decimals": 6,
     "name": "Chiitan"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:CeFrV65BuLHSsa4XGjaJau1af8Jr8e6Kxqc1iixwpump",
@@ -27187,6 +27215,10 @@
     "name": "OGLONG"
   },
   {
+    "id": "solana-mainnet:sol-spl:D4uWxzR5StYC6sTRhVts8Eboy3pmVtHeNC62dnQondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:D4Yc5xRjRYcjxtnYG4Ay3mKLYMMF91RBnbuoKk7cpump",
     "isValid": true,
     "symbol": "FROG",
@@ -27461,6 +27493,10 @@
     "name": "Wigger Pig"
   },
   {
+    "id": "solana-mainnet:sol-spl:DBNwt3FoYCKQWdfzxKFNZ4mzuz4Jz1iRzFf7HFzondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DbPCbgJ7a37VgUMb17DF9vRucoL1ZuG5YrqF7y5Gf7qJ",
     "isValid": true,
     "symbol": "CORN",
@@ -27609,6 +27645,10 @@
     "name": "Upgrates"
   },
   {
+    "id": "solana-mainnet:sol-spl:DDcAL93Urf7KrPntvKULnZoFs4Wdee1LkkJqLpjondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DdcvRiEs4k2fXbHqeJBS5jgGD93rj1wu6u8WTL4vmBLV",
     "isValid": true,
     "symbol": "VIRUS",
@@ -27674,6 +27714,10 @@
     "symbol": "HEIDRUN",
     "decimals": 9,
     "name": "Heidrun"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:DDZQijTbaSd3Kas1r1bgCnHPayk8vTP8SfZWp5Tondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:DE8NNksD5m3Kd4ohJAzTwJHLss9zbXdNUegEoL4QxD4C",
@@ -28151,11 +28195,23 @@
     "name": "Book of DYOR"
   },
   {
+    "id": "solana-mainnet:sol-spl:DiDWPZ7vQXfpaeQ8BX68XuDYeiQLv7diDxdeUpaondo",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Dig28Tf1ufhCBAsjTmFkXCgcNgMqDMYj5A2rDQmondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:DiiTPZdpd9t3XorHiuZUu4E1FoSaQ7uGN4q9YkQupump",
     "isValid": true,
     "symbol": "ELIZABETH",
     "decimals": 6,
     "name": "Just Elizabeth Cat"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:DiRshqNDE68bWbGdLHm1GwQ76MvWQG3af6w1NdQondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:DiSetnR7k57wmfvywJhUVjPwWfg54SdQKxQdJEBYW23B",
@@ -28346,6 +28402,10 @@
     "symbol": "ATH",
     "decimals": 9,
     "name": "Aethir Token"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:Dm6FpQ76SsbVmAZ4NvD2mjZP7cxbw1CASr4WwCiondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:dmdrY5iZhmZNGVXsPqAXuAXJ2nP3U8LCfBHA8MGpump",
@@ -28753,6 +28813,10 @@
     "isValid": false
   },
   {
+    "id": "solana-mainnet:sol-spl:DsLQ18ooPjiHYuiuQ5Jz8PNCpVaKe3FhAYpvMxWondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
     "isValid": true,
     "symbol": "dSOL",
@@ -29003,6 +29067,10 @@
     "symbol": "DOOD",
     "decimals": 9,
     "name": "Doodles"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:DVPSYdqWPLvNa8afnEqa3B9eDfTTWpGyUZeXvdMondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:DVr62PSjVCrEwmWVRdKQABqJumb1jmJGKa8BkUG6pump",
@@ -30092,6 +30160,10 @@
     "name": "GALA"
   },
   {
+    "id": "solana-mainnet:sol-spl:EEy57xbaLcUrN1HXj2vz8VWxeWFK1eZQZo4aWbrondo",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH",
     "isValid": true,
     "symbol": "whoren",
@@ -30759,6 +30831,10 @@
     "symbol": "Sheesh",
     "decimals": 6,
     "name": "Sheesh"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:EN5pHc1LccUSojxb7kkyQi7v7iJN5RpDq6qz3DHondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:En63FWtQu8t5gREbFAQtj5z18TQnhmDn1AcFVbmMN3rh",
@@ -31448,6 +31524,10 @@
   },
   {
     "id": "solana-mainnet:sol-spl:evsoXvNK2RG3ZBUWjqwDzoLHWhUjJbWdMrMza2Ppump",
+    "isValid": false
+  },
+  {
+    "id": "solana-mainnet:sol-spl:EvzskrQ3vUUkiMGG1DzfSDyG6H2WCMy3v9G8fzzondo",
     "isValid": false
   },
   {
@@ -41140,6 +41220,10 @@
     "symbol": "LINK",
     "decimals": 9,
     "name": "Chainlink Token"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:LitNUakTges74cjDJm6HHfFNKGPdySkp3MWSYzYondo",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:LkW6Lk37bdvX4j3pmwRKDEu8LgZuBuRY1V8cgRyESrR",

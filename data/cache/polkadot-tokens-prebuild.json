@@ -9620,11 +9620,11 @@
     "type": "substrate-dtao",
     "symbol": "ა",
     "decimals": 9,
-    "name": "SN97 | FlameWire 🔥 ა",
+    "name": "SN97 | Subnet 97 ა",
     "coingeckoId": "flamewire",
     "isDefault": true,
     "netuid": 97,
-    "subnetName": "FlameWire 🔥",
+    "subnetName": "Subnet 97",
     "isTransferable": true
   },
   {

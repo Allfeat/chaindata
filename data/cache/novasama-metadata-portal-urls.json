@@ -648,18 +648,6 @@
     }
   },
   {
-    "id": "tangle",
-    "isTestnet": false,
-    "meta": {
-      "name": "tangle",
-      "title": "Tangle"
-    },
-    "urls": {
-      "chainspecQrUrl": "https://metadata.novasama.io/qr/tangle_specs.png",
-      "latestMetadataQrUrl": "https://metadata.novasama.io/qr/tangle_metadata_latest.apng"
-    }
-  },
-  {
     "id": "ternoa",
     "isTestnet": false,
     "meta": {
