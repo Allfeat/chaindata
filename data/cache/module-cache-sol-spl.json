@@ -21502,6 +21502,10 @@
     "name": "rasmr"
   },
   {
+    "id": "solana-mainnet:sol-spl:B1rGc4HM4Q6q4nU78ADM7fGguxqiasH53fh6ViDXpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:B1Ycj8Bqv5fjoNZJkzAvNiis4FVwTVeGWvrLd8ABEqT9",
     "isValid": false
   },
@@ -30507,6 +30511,10 @@
     "symbol": "fartcash",
     "decimals": 6,
     "name": "fartcoin cash"
+  },
+  {
+    "id": "solana-mainnet:sol-spl:EJvBDsre5a3DbLmHZBw1YUeUqETJ3X9UkgR6TLiipump",
+    "isValid": false
   },
   {
     "id": "solana-mainnet:sol-spl:EJVceV9HmJpG6XAxnKYtTQFHf4S9ckgKwBsKMF4fbonk",

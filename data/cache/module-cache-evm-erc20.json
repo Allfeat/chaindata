@@ -97934,6 +97934,13 @@
     "name": "Samson the Goldendoodle"
   },
   {
+    "id": "56:evm-erc20:0x6a43cb09fc6d16525f38ecfa27cc568282d86678",
+    "isValid": true,
+    "symbol": "VK",
+    "decimals": 18,
+    "name": "VK Token"
+  },
+  {
     "id": "56:evm-erc20:0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
     "symbol": "CFi",
     "decimals": 18,

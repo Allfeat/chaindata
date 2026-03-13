@@ -6231,10 +6231,6 @@
           "coingeckoId": "enjincoin"
         },
         {
-          "contractAddress": "0x96610186f3ab8d73ebee1cf950c750f3b1fb79c2",
-          "coingeckoId": "enjinstarter"
-        },
-        {
           "contractAddress": "0x4db57d585fa82ca32d25086ddc069d899f08d455",
           "coingeckoId": "enoch"
         },
@@ -6261,10 +6257,6 @@
         {
           "contractAddress": "0xb62e24b747eaa41454857cf6011832117df59cb8",
           "coingeckoId": "epiko"
-        },
-        {
-          "contractAddress": "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75",
-          "coingeckoId": "epik-prime"
         },
         {
           "contractAddress": "0xac5b038058bcd0424c9c252c6487c25f032e5ddc",
@@ -6453,10 +6445,6 @@
         {
           "contractAddress": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
           "coingeckoId": "etherisc"
-        },
-        {
-          "contractAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
-          "coingeckoId": "ethermon"
         },
         {
           "contractAddress": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
@@ -27215,10 +27203,6 @@
           "coingeckoId": "ecochain-token"
         },
         {
-          "contractAddress": "0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
-          "coingeckoId": "ecoin-finance"
-        },
-        {
           "contractAddress": "0xbf59dbc154421a7b37f4f2841e11f4ed2a1dee7c",
           "coingeckoId": "edel"
         },
@@ -27367,10 +27351,6 @@
           "coingeckoId": "engines-of-fury"
         },
         {
-          "contractAddress": "0x09f423ac3c9babbff6f94d372b16e4206e71439f",
-          "coingeckoId": "enjinstarter"
-        },
-        {
           "contractAddress": "0xfeb339236d25d3e415f280189bc7c2fbab6ae9ef",
           "coingeckoId": "enso"
         },
@@ -27389,10 +27369,6 @@
         {
           "contractAddress": "0x1236ea13c7339287cd00ab196aaa8217006b04dc",
           "coingeckoId": "epic-league"
-        },
-        {
-          "contractAddress": "0x368ce786ea190f32439074e8d22e12ecb718b44c",
-          "coingeckoId": "epik-prime"
         },
         {
           "contractAddress": "0x436c52a8cee41d5e9c5e6f4cb146e66d552fb700",
@@ -35599,6 +35575,10 @@
           "coingeckoId": "vizslaswap"
         },
         {
+          "contractAddress": "0x6a43cb09fc6d16525f38ecfa27cc568282d86678",
+          "coingeckoId": "vk-token"
+        },
+        {
           "contractAddress": "0xf574ba6bde97cc09784e616ebaed432b4e896b49",
           "coingeckoId": "vlaunch-2"
         },
@@ -40049,10 +40029,6 @@
         {
           "contractAddress": "0xd574b191b5a00262ff19953d3ce25543ab7c8098",
           "coingeckoId": "etherfuse-tesouro"
-        },
-        {
-          "contractAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
-          "coingeckoId": "ethermon"
         },
         {
           "contractAddress": "0x0e50bea95fe001a370a4f1c220c49aedcb982dec",
@@ -86346,10 +86322,6 @@
         {
           "contractAddress": "0xfc6da929c031162841370af240dec19099861d3b",
           "coingeckoId": "domi"
-        },
-        {
-          "contractAddress": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
-          "coingeckoId": "dragon-crypto-aurum"
         },
         {
           "contractAddress": "0x1a3264f2e7b1cfc6220ec9348d33ccf02af7aaa4",
