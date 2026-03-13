@@ -25427,6 +25427,10 @@
     "name": "Katchu Coin"
   },
   {
+    "id": "solana-mainnet:sol-spl:CkJgoT1YcPqWdjUbvqgPf5BDwvq2GeBX7REG9TCCpump",
+    "isValid": false
+  },
+  {
     "id": "solana-mainnet:sol-spl:CKqfmbJyr83cXDr1Qk76Vssd7zzG25s9TN2PwM4xpump",
     "isValid": true,
     "symbol": "RAISEME",

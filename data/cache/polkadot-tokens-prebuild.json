@@ -3316,10 +3316,10 @@
     "type": "substrate-dtao",
     "symbol": "ฑ",
     "decimals": 9,
-    "name": "SN183 | Subnet 183 ฑ",
+    "name": "SN183 | Bittbridge ฑ",
     "isDefault": true,
     "netuid": 183,
-    "subnetName": "Subnet 183",
+    "subnetName": "Bittbridge",
     "isTransferable": true
   },
   {
